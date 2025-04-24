@@ -372,7 +372,23 @@ class AnitabiAutoUpdater:
         # Ensure index.json exists
         self.ensure_index_exists()
 
-        index = {}
+        # Load existing index.json if it exists
+        index_file = self.base_dir / 'index.json'
+        if os.path.exists(index_file):
+            try:
+                with open(index_file, 'r', encoding='utf-8') as f:
+                    index = json.load(f)
+                self.logger.info(f"Loaded existing index.json with {len(index)} entries")
+            except Exception as e:
+                self.logger.error(f"Error loading existing index.json: {e}")
+                index = {}
+        else:
+            index = {}
+
+        # Track the number of updated entries
+        updated_entries = 0
+        processed_folders = 0
+
         # Traverse all anime folders in data directory
         for bangumi_dir in sorted(self.base_dir.glob('*')):
             if not bangumi_dir.is_dir() or bangumi_dir.name == 'index.json':
@@ -385,31 +401,51 @@ class AnitabiAutoUpdater:
             if not info_file.exists() or not points_file.exists():
                 continue
 
-            # Read anime info
-            with open(info_file, 'r', encoding='utf-8') as f:
-                info = json.load(f)
+            processed_folders += 1
 
-            # Read landmark info
-            with open(points_file, 'r', encoding='utf-8') as f:
-                points = json.load(f)
+            try:
+                # Read anime info
+                with open(info_file, 'r', encoding='utf-8') as f:
+                    info = json.load(f)
 
-            # Update cover image URL
-            cover_url = info.get('cover', '')
-            if cover_url:
-                file_name = os.path.basename(urlparse(cover_url).path)
-                cover_url = f'https://image.xinu.ink/pic/data/{local_id}/images/{file_name}'
+                # Read landmark info
+                with open(points_file, 'r', encoding='utf-8') as f:
+                    points = json.load(f)
 
-            index[local_id] = {
-                'name': info.get('name', ''),
-                'name_cn': info.get('name_cn', ''),
-                'cover': cover_url,
-                'theme_color': info.get('theme_color', ''),
-                'points': points,
-                'inform': f'https://image.xinu.ink/pic/data/{local_id}/points.json'
-            }
+                # Update cover image URL
+                cover_url = info.get('cover', '')
+                if cover_url:
+                    file_name = os.path.basename(urlparse(cover_url).path)
+                    cover_url = f'https://image.xinu.ink/pic/data/{local_id}/images/{file_name}'
+
+                # Get name fields, handling both name/name_cn and title/cn fields
+                anime_name = info.get('name', '') or info.get('title', '')
+                anime_name_cn = info.get('name_cn', '') or info.get('cn', '')
+
+                # Skip entries with empty names if this is a new entry
+                if not anime_name and not anime_name_cn and local_id not in index:
+                    self.logger.warning(f"Skipping folder {local_id} because it has empty name fields")
+                    continue
+
+                # Create or update entry in index
+                index[local_id] = {
+                    'name': anime_name,
+                    'name_cn': anime_name_cn,
+                    'cover': cover_url,
+                    'theme_color': info.get('theme_color', ''),
+                    'points': points,
+                    'inform': f'https://image.xinu.ink/pic/data/{local_id}/points.json'
+                }
+                updated_entries += 1
+
+                # Log progress periodically
+                if processed_folders % 100 == 0:
+                    self.logger.info(f"Processed {processed_folders} folders so far...")
+            except Exception as e:
+                self.logger.error(f"Error processing folder {local_id}: {e}")
+                continue
 
         # Save index file in data directory
-        index_file = self.base_dir / 'index.json'
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(index, f, ensure_ascii=False, indent=2)
 
@@ -419,6 +455,7 @@ class AnitabiAutoUpdater:
             json.dump(index, f, ensure_ascii=False, indent=2)
 
         self.logger.info(f'Index files generated: {index_file} and {root_index_file}')
+        self.logger.info(f'Processed {processed_folders} folders, updated {updated_entries} entries in index.json')
 
     def load_index_data(self):
         """Load index.json data from both data directory and root directory
