@@ -9,3 +9,14 @@
 2025-04-24 07:26:08,493 - AnimePilgrimageUpdater - INFO - Test anime 4: ツルネ -風舞高校弓道部-
 2025-04-24 07:26:08,493 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
 2025-04-24 07:36:27,933 - AnimePilgrimageUpdater - INFO - Daily update completed successfully
+2025-04-24 12:54:35,419 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-04-24 12:54:35,420 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-04-24 12:54:35,647 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-04-24 12:54:36,125 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-04-24 12:56:45,699 - AnimePilgrimageUpdater - INFO - Successfully retrieved 32 anime in test run
+2025-04-24 12:56:45,700 - AnimePilgrimageUpdater - INFO - Test anime 1: ウィッチウォッチ
+2025-04-24 12:56:45,700 - AnimePilgrimageUpdater - INFO - Test anime 2: ウマ娘 シンデレラグレイ
+2025-04-24 12:56:45,700 - AnimePilgrimageUpdater - INFO - Test anime 3: 東京リベンジャーズ 天竺編
+2025-04-24 12:56:45,700 - AnimePilgrimageUpdater - INFO - Test anime 4: ツルネ -風舞高校弓道部-
+2025-04-24 12:56:45,700 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
+2025-04-24 13:18:41,124 - AnimePilgrimageUpdater - INFO - Daily update completed successfully

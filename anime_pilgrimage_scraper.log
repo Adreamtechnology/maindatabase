@@ -1033,3 +1033,319 @@
 2025-04-24 07:36:26,951 - AnimePilgrimageScraper - INFO - No updates found for anime '俺の妹がこんなに可愛いわけがない'
 2025-04-24 07:36:26,951 - AnimePilgrimageScraper - INFO - Successfully scraped 4 anime.
 2025-04-24 07:36:26,951 - AnimePilgrimageScraper - INFO - Scraping completed successfully!
+2025-04-24 12:54:36,124 - AnimePilgrimageScraper - INFO - Chrome driver initialized successfully
+2025-04-24 12:54:36,125 - AnimePilgrimageScraper - INFO - Fetching anime list from recently updated page...
+2025-04-24 12:54:37,493 - AnimePilgrimageScraper - INFO - Saved initial page source to page_source_initial.html
+2025-04-24 12:54:37,494 - AnimePilgrimageScraper - INFO - Trying selector: .anime-list .anime-item
+2025-04-24 12:54:47,748 - AnimePilgrimageScraper - WARNING - Selector .anime-list .anime-item failed
+2025-04-24 12:54:47,748 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/Map?data=']
+2025-04-24 12:54:57,992 - AnimePilgrimageScraper - WARNING - Selector a[href*='/Map?data='] failed
+2025-04-24 12:54:57,992 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/ja/Map?data=']
+2025-04-24 12:55:08,237 - AnimePilgrimageScraper - WARNING - Selector a[href*='/ja/Map?data='] failed
+2025-04-24 12:55:08,237 - AnimePilgrimageScraper - INFO - Trying selector: .anime-item
+2025-04-24 12:55:18,485 - AnimePilgrimageScraper - WARNING - Selector .anime-item failed
+2025-04-24 12:55:18,485 - AnimePilgrimageScraper - INFO - Trying selector: .anime-card
+2025-04-24 12:55:28,728 - AnimePilgrimageScraper - WARNING - Selector .anime-card failed
+2025-04-24 12:55:28,728 - AnimePilgrimageScraper - INFO - Trying selector: .anime-entry
+2025-04-24 12:55:38,969 - AnimePilgrimageScraper - WARNING - Selector .anime-entry failed
+2025-04-24 12:55:38,969 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='Map']
+2025-04-24 12:55:49,213 - AnimePilgrimageScraper - WARNING - Selector a[href*='Map'] failed
+2025-04-24 12:55:49,213 - AnimePilgrimageScraper - INFO - Trying selector: div[class*='anime']
+2025-04-24 12:55:59,455 - AnimePilgrimageScraper - WARNING - Selector div[class*='anime'] failed
+2025-04-24 12:55:59,456 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='anime']
+2025-04-24 12:56:09,699 - AnimePilgrimageScraper - WARNING - Selector a[href*='anime'] failed
+2025-04-24 12:56:09,699 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='data=']
+2025-04-24 12:56:09,707 - AnimePilgrimageScraper - INFO - Found elements with selector: a[href*='data=']
+2025-04-24 12:56:44,892 - AnimePilgrimageScraper - INFO - Trying to find anime items with selector: a[href*='data=']
+2025-04-24 12:56:44,902 - AnimePilgrimageScraper - INFO - Found 32 anime items with selector: a[href*='data=']
+2025-04-24 12:56:44,902 - AnimePilgrimageScraper - INFO - Found 32 anime items total
+2025-04-24 12:56:45,700 - AnimePilgrimageScraper - INFO - Starting anime pilgrimage scraper
+2025-04-24 12:56:45,700 - AnimePilgrimageScraper - INFO - Running extract_apiid.py to refresh apiid.json
+2025-04-24 12:56:45,906 - AnimePilgrimageScraper - INFO - Successfully refreshed apiid.json
+2025-04-24 12:56:45,906 - AnimePilgrimageScraper - INFO - Running in automatic mode
+2025-04-24 12:56:45,907 - AnimePilgrimageScraper - INFO - Fetching anime list from recently updated page...
+2025-04-24 12:56:46,680 - AnimePilgrimageScraper - INFO - Saved initial page source to page_source_initial.html
+2025-04-24 12:56:46,680 - AnimePilgrimageScraper - INFO - Trying selector: .anime-list .anime-item
+2025-04-24 12:56:56,936 - AnimePilgrimageScraper - WARNING - Selector .anime-list .anime-item failed
+2025-04-24 12:56:56,936 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/Map?data=']
+2025-04-24 12:57:07,186 - AnimePilgrimageScraper - WARNING - Selector a[href*='/Map?data='] failed
+2025-04-24 12:57:07,186 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='/ja/Map?data=']
+2025-04-24 12:57:17,433 - AnimePilgrimageScraper - WARNING - Selector a[href*='/ja/Map?data='] failed
+2025-04-24 12:57:17,433 - AnimePilgrimageScraper - INFO - Trying selector: .anime-item
+2025-04-24 12:57:27,685 - AnimePilgrimageScraper - WARNING - Selector .anime-item failed
+2025-04-24 12:57:27,685 - AnimePilgrimageScraper - INFO - Trying selector: .anime-card
+2025-04-24 12:57:37,931 - AnimePilgrimageScraper - WARNING - Selector .anime-card failed
+2025-04-24 12:57:37,931 - AnimePilgrimageScraper - INFO - Trying selector: .anime-entry
+2025-04-24 12:57:48,175 - AnimePilgrimageScraper - WARNING - Selector .anime-entry failed
+2025-04-24 12:57:48,175 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='Map']
+2025-04-24 12:57:58,421 - AnimePilgrimageScraper - WARNING - Selector a[href*='Map'] failed
+2025-04-24 12:57:58,421 - AnimePilgrimageScraper - INFO - Trying selector: div[class*='anime']
+2025-04-24 12:58:08,667 - AnimePilgrimageScraper - WARNING - Selector div[class*='anime'] failed
+2025-04-24 12:58:08,667 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='anime']
+2025-04-24 12:58:18,913 - AnimePilgrimageScraper - WARNING - Selector a[href*='anime'] failed
+2025-04-24 12:58:18,913 - AnimePilgrimageScraper - INFO - Trying selector: a[href*='data=']
+2025-04-24 12:58:18,921 - AnimePilgrimageScraper - INFO - Found elements with selector: a[href*='data=']
+2025-04-24 12:58:54,107 - AnimePilgrimageScraper - INFO - Trying to find anime items with selector: a[href*='data=']
+2025-04-24 12:58:54,117 - AnimePilgrimageScraper - INFO - Found 32 anime items with selector: a[href*='data=']
+2025-04-24 12:58:54,117 - AnimePilgrimageScraper - INFO - Found 32 anime items total
+2025-04-24 12:58:54,921 - AnimePilgrimageScraper - INFO - Auto mode: Scraping anime 1 to 32 out of 32
+2025-04-24 12:58:54,964 - AnimePilgrimageScraper - INFO - Next available local ID: 6031
+2025-04-24 12:58:54,964 - AnimePilgrimageScraper - INFO - Auto mode: Using local folder ID 6031
+2025-04-24 12:58:54,964 - AnimePilgrimageScraper - INFO - [1/32] Checking anime: ウィッチウォッチ
+2025-04-24 12:58:55,292 - AnimePilgrimageScraper - INFO - Scraping anime: ウィッチウォッチ
+2025-04-24 12:58:55,292 - AnimePilgrimageScraper - INFO - Scraping anime: ウィッチウォッチ
+2025-04-24 12:59:28,209 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ウィッチウォッチ
+2025-04-24 12:59:28,425 - AnimePilgrimageScraper - INFO - No Chinese name found in Bangumi API results
+2025-04-24 12:59:28,426 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 12:59:29,424 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 12:59:29,434 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 12:59:29,434 - AnimePilgrimageScraper - INFO - [2/32] Checking anime: ウマ娘 シンデレラグレイ
+2025-04-24 12:59:29,748 - AnimePilgrimageScraper - INFO - Scraping anime: ウマ娘 シンデレラグレイ
+2025-04-24 12:59:29,748 - AnimePilgrimageScraper - INFO - Scraping anime: ウマ娘 シンデレラグレイ
+2025-04-24 13:00:02,160 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ウマ娘 シンデレラグレイ
+2025-04-24 13:00:02,425 - AnimePilgrimageScraper - INFO - Found Chinese name: 赛马娘：芦毛灰姑娘
+2025-04-24 13:00:02,426 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:00:03,397 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:00:03,408 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:00:03,408 - AnimePilgrimageScraper - INFO - [3/32] Checking anime: 東京リベンジャーズ 天竺編
+2025-04-24 13:00:03,753 - AnimePilgrimageScraper - INFO - Scraping anime: 東京リベンジャーズ 天竺編
+2025-04-24 13:00:03,753 - AnimePilgrimageScraper - INFO - Scraping anime: 東京リベンジャーズ 天竺編
+2025-04-24 13:00:36,708 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 東京リベンジャーズ 天竺編
+2025-04-24 13:00:36,940 - AnimePilgrimageScraper - INFO - No Chinese name found in Bangumi API results
+2025-04-24 13:00:36,941 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:00:37,920 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:00:37,931 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:00:37,931 - AnimePilgrimageScraper - INFO - [4/32] Checking anime: ツルネ -風舞高校弓道部-
+2025-04-24 13:00:38,251 - AnimePilgrimageScraper - INFO - Scraping anime: ツルネ -風舞高校弓道部-
+2025-04-24 13:00:38,251 - AnimePilgrimageScraper - INFO - Scraping anime: ツルネ -風舞高校弓道部-
+2025-04-24 13:01:11,113 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ツルネ -風舞高校弓道部-
+2025-04-24 13:01:11,267 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:01:11,268 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:01:12,253 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:01:12,263 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:01:12,263 - AnimePilgrimageScraper - INFO - [5/32] Checking anime: 小市民シリーズ 2期
+2025-04-24 13:01:12,585 - AnimePilgrimageScraper - INFO - Scraping anime: 小市民シリーズ 2期
+2025-04-24 13:01:12,585 - AnimePilgrimageScraper - INFO - Scraping anime: 小市民シリーズ 2期
+2025-04-24 13:01:45,148 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 小市民シリーズ 2期
+2025-04-24 13:01:45,390 - AnimePilgrimageScraper - INFO - Found Chinese name: 成濑系列
+2025-04-24 13:01:45,391 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:01:46,374 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:01:46,385 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:01:46,385 - AnimePilgrimageScraper - INFO - [6/32] Checking anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-24 13:01:46,714 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-24 13:01:46,714 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-24 13:02:23,514 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 新劇場版「頭文字D」Legend3 夢現
+2025-04-24 13:02:23,691 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:02:23,692 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:02:24,674 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:02:24,683 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:02:24,683 - AnimePilgrimageScraper - INFO - [7/32] Checking anime: 前橋ウィッチーズ
+2025-04-24 13:02:24,986 - AnimePilgrimageScraper - INFO - Scraping anime: 前橋ウィッチーズ
+2025-04-24 13:02:24,986 - AnimePilgrimageScraper - INFO - Scraping anime: 前橋ウィッチーズ
+2025-04-24 13:02:57,859 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 前橋ウィッチーズ
+2025-04-24 13:02:58,055 - AnimePilgrimageScraper - INFO - Found Chinese name: 给年轻读者的日本亚文化论
+2025-04-24 13:02:58,056 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:02:59,061 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:02:59,070 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:02:59,070 - AnimePilgrimageScraper - INFO - [8/32] Checking anime: ガールズバンドクライ
+2025-04-24 13:02:59,404 - AnimePilgrimageScraper - INFO - Scraping anime: ガールズバンドクライ
+2025-04-24 13:02:59,404 - AnimePilgrimageScraper - INFO - Scraping anime: ガールズバンドクライ
+2025-04-24 13:03:43,849 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ガールズバンドクライ
+2025-04-24 13:03:44,140 - AnimePilgrimageScraper - INFO - Found Chinese name: 偶像大师 灰姑娘女孩 灰姑娘女孩剧场 WIDE☆
+2025-04-24 13:03:44,142 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:03:45,138 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:03:45,147 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:03:45,147 - AnimePilgrimageScraper - INFO - [9/32] Checking anime: ちはやふる
+2025-04-24 13:03:45,451 - AnimePilgrimageScraper - INFO - Scraping anime: ちはやふる
+2025-04-24 13:03:45,451 - AnimePilgrimageScraper - INFO - Scraping anime: ちはやふる
+2025-04-24 13:04:18,737 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ちはやふる
+2025-04-24 13:04:18,970 - AnimePilgrimageScraper - INFO - Found Chinese name: 歌牌情缘
+2025-04-24 13:04:18,971 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:04:19,958 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:04:19,968 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:04:19,968 - AnimePilgrimageScraper - INFO - [10/32] Checking anime: アポカリプスホテル
+2025-04-24 13:04:20,290 - AnimePilgrimageScraper - INFO - Scraping anime: アポカリプスホテル
+2025-04-24 13:04:20,290 - AnimePilgrimageScraper - INFO - Scraping anime: アポカリプスホテル
+2025-04-24 13:04:51,354 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: アポカリプスホテル
+2025-04-24 13:04:51,578 - AnimePilgrimageScraper - INFO - Found Chinese name: 超级马力欧（讲谈社版漫画）
+2025-04-24 13:04:51,578 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:04:52,537 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:04:52,546 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:04:52,546 - AnimePilgrimageScraper - INFO - [11/32] Checking anime: 真･侍伝 YAIBA
+2025-04-24 13:04:52,850 - AnimePilgrimageScraper - INFO - Scraping anime: 真･侍伝 YAIBA
+2025-04-24 13:04:52,850 - AnimePilgrimageScraper - INFO - Scraping anime: 真･侍伝 YAIBA
+2025-04-24 13:05:25,555 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 真･侍伝 YAIBA
+2025-04-24 13:05:25,717 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:05:25,718 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:05:26,704 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:05:26,713 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:05:26,713 - AnimePilgrimageScraper - INFO - [12/32] Checking anime: 秒速5センチメートル
+2025-04-24 13:05:27,019 - AnimePilgrimageScraper - INFO - Scraping anime: 秒速5センチメートル
+2025-04-24 13:05:27,019 - AnimePilgrimageScraper - INFO - Scraping anime: 秒速5センチメートル
+2025-04-24 13:06:05,863 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 秒速5センチメートル
+2025-04-24 13:06:06,059 - AnimePilgrimageScraper - INFO - Found Chinese name: 秒速5厘米 one more side
+2025-04-24 13:06:06,061 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:06:07,020 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:06:07,029 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:06:07,030 - AnimePilgrimageScraper - INFO - [13/32] Checking anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-24 13:06:07,333 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-24 13:06:07,333 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-24 13:06:41,523 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 新劇場版「頭文字D」Legend2 闘走
+2025-04-24 13:06:41,712 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:06:41,713 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:06:42,694 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:06:42,704 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:06:42,704 - AnimePilgrimageScraper - INFO - [14/32] Checking anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-24 13:06:43,003 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-24 13:06:43,003 - AnimePilgrimageScraper - INFO - Scraping anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-24 13:07:19,163 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 新劇場版「頭文字D」Legend1 覚醒
+2025-04-24 13:07:19,311 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:07:19,312 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:07:20,277 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:07:20,286 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:07:20,287 - AnimePilgrimageScraper - INFO - [15/32] Checking anime: 文豪ストレイドッグス2
+2025-04-24 13:07:20,594 - AnimePilgrimageScraper - INFO - Scraping anime: 文豪ストレイドッグス2
+2025-04-24 13:07:20,594 - AnimePilgrimageScraper - INFO - Scraping anime: 文豪ストレイドッグス2
+2025-04-24 13:07:54,003 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 文豪ストレイドッグス2
+2025-04-24 13:07:54,271 - AnimePilgrimageScraper - INFO - Found Chinese name: 文豪野犬 太宰治与黑暗时代
+2025-04-24 13:07:54,272 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:07:55,264 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:07:55,273 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:07:55,273 - AnimePilgrimageScraper - INFO - [16/32] Checking anime: 涼宮ハルヒの憂鬱 2006
+2025-04-24 13:07:55,559 - AnimePilgrimageScraper - INFO - Scraping anime: 涼宮ハルヒの憂鬱 2006
+2025-04-24 13:07:55,559 - AnimePilgrimageScraper - INFO - Scraping anime: 涼宮ハルヒの憂鬱 2006
+2025-04-24 13:08:32,223 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 涼宮ハルヒの憂鬱 2006
+2025-04-24 13:08:32,392 - AnimePilgrimageScraper - INFO - Found Chinese name: 凉宫春日的忧郁
+2025-04-24 13:08:32,393 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:08:33,358 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:08:33,367 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:08:33,367 - AnimePilgrimageScraper - INFO - [17/32] Checking anime: 花咲くいろは
+2025-04-24 13:08:33,671 - AnimePilgrimageScraper - INFO - Scraping anime: 花咲くいろは
+2025-04-24 13:08:33,671 - AnimePilgrimageScraper - INFO - Scraping anime: 花咲くいろは
+2025-04-24 13:09:10,305 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 花咲くいろは
+2025-04-24 13:09:10,502 - AnimePilgrimageScraper - INFO - Found Chinese name: 花开伊吕波 本篇漫画版
+2025-04-24 13:09:10,503 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:09:11,501 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:09:11,510 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:09:11,510 - AnimePilgrimageScraper - INFO - [18/32] Checking anime: ラブライブ! サンシャイン!!
+2025-04-24 13:09:11,800 - AnimePilgrimageScraper - INFO - Scraping anime: ラブライブ! サンシャイン!!
+2025-04-24 13:09:11,800 - AnimePilgrimageScraper - INFO - Scraping anime: ラブライブ! サンシャイン!!
+2025-04-24 13:09:54,318 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ラブライブ! サンシャイン!!
+2025-04-24 13:09:54,452 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:09:54,453 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:09:55,422 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:09:55,432 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:09:55,432 - AnimePilgrimageScraper - INFO - [19/32] Checking anime: フルーツバスケット 1st season
+2025-04-24 13:09:55,745 - AnimePilgrimageScraper - INFO - Scraping anime: フルーツバスケット 1st season
+2025-04-24 13:09:55,745 - AnimePilgrimageScraper - INFO - Scraping anime: フルーツバスケット 1st season
+2025-04-24 13:10:31,452 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: フルーツバスケット 1st season
+2025-04-24 13:10:31,702 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:10:31,703 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:10:32,667 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:10:32,676 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:10:32,676 - AnimePilgrimageScraper - INFO - [20/32] Checking anime: BanG Dream! 2nd Season
+2025-04-24 13:10:32,972 - AnimePilgrimageScraper - INFO - Scraping anime: BanG Dream! 2nd Season
+2025-04-24 13:10:32,972 - AnimePilgrimageScraper - INFO - Scraping anime: BanG Dream! 2nd Season
+2025-04-24 13:11:07,171 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: BanG Dream! 2nd Season
+2025-04-24 13:11:07,302 - AnimePilgrimageScraper - ERROR - Error fetching Chinese name from Bangumi API: Expecting value: line 1 column 1 (char 0)
+2025-04-24 13:11:07,303 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:11:08,277 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:11:08,286 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:11:08,286 - AnimePilgrimageScraper - INFO - [21/32] Checking anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-24 13:11:08,591 - AnimePilgrimageScraper - INFO - Scraping anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-24 13:11:08,591 - AnimePilgrimageScraper - INFO - Scraping anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-24 13:11:46,760 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 沖縄で好きになった子が方言すぎてツラすぎる
+2025-04-24 13:11:47,104 - AnimePilgrimageScraper - INFO - Found Chinese name: 喜欢的冲绳妹说方言
+2025-04-24 13:11:47,106 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:11:48,073 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:11:48,082 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:11:48,082 - AnimePilgrimageScraper - INFO - [22/32] Checking anime: 空色ユーティリティ
+2025-04-24 13:11:48,386 - AnimePilgrimageScraper - INFO - Scraping anime: 空色ユーティリティ
+2025-04-24 13:11:48,386 - AnimePilgrimageScraper - INFO - Scraping anime: 空色ユーティリティ
+2025-04-24 13:12:21,493 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 空色ユーティリティ
+2025-04-24 13:12:21,836 - AnimePilgrimageScraper - INFO - Found Chinese name: 数学女孩 2 费马大定理
+2025-04-24 13:12:21,837 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:12:22,848 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:12:22,857 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:12:22,857 - AnimePilgrimageScraper - INFO - [23/32] Checking anime: ばらかもん
+2025-04-24 13:12:23,165 - AnimePilgrimageScraper - INFO - Scraping anime: ばらかもん
+2025-04-24 13:12:23,166 - AnimePilgrimageScraper - INFO - Scraping anime: ばらかもん
+2025-04-24 13:12:56,255 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ばらかもん
+2025-04-24 13:12:56,525 - AnimePilgrimageScraper - INFO - Found Chinese name: 元气囝仔
+2025-04-24 13:12:56,526 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:12:57,505 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:12:57,515 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:12:57,515 - AnimePilgrimageScraper - INFO - [24/32] Checking anime: 聲の形
+2025-04-24 13:12:57,818 - AnimePilgrimageScraper - INFO - Scraping anime: 聲の形
+2025-04-24 13:12:57,818 - AnimePilgrimageScraper - INFO - Scraping anime: 聲の形
+2025-04-24 13:13:35,630 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 聲の形
+2025-04-24 13:13:35,792 - AnimePilgrimageScraper - INFO - Found Chinese name: 聲之形 公式漫迷手冊
+2025-04-24 13:13:35,793 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:13:36,768 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:13:36,777 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:13:36,777 - AnimePilgrimageScraper - INFO - [25/32] Checking anime: アオのハコ
+2025-04-24 13:13:37,080 - AnimePilgrimageScraper - INFO - Scraping anime: アオのハコ
+2025-04-24 13:13:37,080 - AnimePilgrimageScraper - INFO - Scraping anime: アオのハコ
+2025-04-24 13:14:10,536 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: アオのハコ
+2025-04-24 13:14:22,316 - AnimePilgrimageScraper - INFO - Found Chinese name: 青色之箱
+2025-04-24 13:14:22,317 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:14:23,292 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:14:23,301 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:14:23,302 - AnimePilgrimageScraper - INFO - [26/32] Checking anime: ハニーレモンソーダ
+2025-04-24 13:14:23,604 - AnimePilgrimageScraper - INFO - Scraping anime: ハニーレモンソーダ
+2025-04-24 13:14:23,604 - AnimePilgrimageScraper - INFO - Scraping anime: ハニーレモンソーダ
+2025-04-24 13:14:57,487 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: ハニーレモンソーダ
+2025-04-24 13:14:57,721 - AnimePilgrimageScraper - INFO - Found Chinese name: 蜂蜜柠檬苏打
+2025-04-24 13:14:57,722 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:14:58,742 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:14:58,751 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:14:58,751 - AnimePilgrimageScraper - INFO - [27/32] Checking anime: 天久鷹央の推理カルテ
+2025-04-24 13:14:59,061 - AnimePilgrimageScraper - INFO - Scraping anime: 天久鷹央の推理カルテ
+2025-04-24 13:14:59,061 - AnimePilgrimageScraper - INFO - Scraping anime: 天久鷹央の推理カルテ
+2025-04-24 13:15:30,443 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 天久鷹央の推理カルテ
+2025-04-24 13:15:30,632 - AnimePilgrimageScraper - INFO - Found Chinese name: 天久鹰央的推理病历表
+2025-04-24 13:15:30,633 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:15:31,631 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:15:31,641 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:15:31,641 - AnimePilgrimageScraper - INFO - [28/32] Checking anime: 3月のライオン
+2025-04-24 13:15:31,948 - AnimePilgrimageScraper - INFO - Scraping anime: 3月のライオン
+2025-04-24 13:15:31,948 - AnimePilgrimageScraper - INFO - Scraping anime: 3月のライオン
+2025-04-24 13:16:12,375 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 3月のライオン
+2025-04-24 13:16:12,607 - AnimePilgrimageScraper - INFO - Found Chinese name: 3月的狮子
+2025-04-24 13:16:12,608 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:16:13,602 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:16:13,611 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:16:13,611 - AnimePilgrimageScraper - INFO - [29/32] Checking anime: Re:CREATORS
+2025-04-24 13:16:13,906 - AnimePilgrimageScraper - INFO - Scraping anime: Re:CREATORS
+2025-04-24 13:16:13,906 - AnimePilgrimageScraper - INFO - Scraping anime: Re:CREATORS
+2025-04-24 13:16:53,733 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: Re:CREATORS
+2025-04-24 13:16:53,874 - AnimePilgrimageScraper - INFO - Found Chinese name: Re：Creators One More
+2025-04-24 13:16:53,875 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:16:54,853 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:16:54,862 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:16:54,862 - AnimePilgrimageScraper - INFO - [30/32] Checking anime: 異世界おじさん
+2025-04-24 13:16:55,174 - AnimePilgrimageScraper - INFO - Scraping anime: 異世界おじさん
+2025-04-24 13:16:55,174 - AnimePilgrimageScraper - INFO - Scraping anime: 異世界おじさん
+2025-04-24 13:17:25,616 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 異世界おじさん
+2025-04-24 13:17:25,817 - AnimePilgrimageScraper - INFO - Found Chinese name: 异世界舅舅
+2025-04-24 13:17:25,817 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:17:26,852 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:17:26,862 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:17:26,862 - AnimePilgrimageScraper - INFO - [31/32] Checking anime: 甘城ブリリアントパーク
+2025-04-24 13:17:27,172 - AnimePilgrimageScraper - INFO - Scraping anime: 甘城ブリリアントパーク
+2025-04-24 13:17:27,172 - AnimePilgrimageScraper - INFO - Scraping anime: 甘城ブリリアントパーク
+2025-04-24 13:17:58,899 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: 甘城ブリリアントパーク
+2025-04-24 13:17:59,145 - AnimePilgrimageScraper - INFO - Found Chinese name: 甘城辉煌乐园救世主
+2025-04-24 13:17:59,146 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:18:00,129 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:18:00,139 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:18:00,139 - AnimePilgrimageScraper - INFO - [32/32] Checking anime: リコリス・リコイル
+2025-04-24 13:18:00,467 - AnimePilgrimageScraper - INFO - Scraping anime: リコリス・リコイル
+2025-04-24 13:18:00,467 - AnimePilgrimageScraper - INFO - Scraping anime: リコリス・リコイル
+2025-04-24 13:18:38,605 - AnimePilgrimageScraper - INFO - Fetching Chinese name for anime: リコリス・リコイル
+2025-04-24 13:18:38,933 - AnimePilgrimageScraper - INFO - Found Chinese name: Lycoris Recoil recollect
+2025-04-24 13:18:38,934 - AnimePilgrimageScraper - INFO - Saving progress to index.json...
+2025-04-24 13:18:39,926 - AnimePilgrimageScraper - INFO - Updated index.json files with 1 new anime entries
+2025-04-24 13:18:39,936 - AnimePilgrimageScraper - INFO - Progress saved.
+2025-04-24 13:18:39,936 - AnimePilgrimageScraper - INFO - Successfully scraped 32 anime.
+2025-04-24 13:18:39,936 - AnimePilgrimageScraper - INFO - Scraping completed successfully!
