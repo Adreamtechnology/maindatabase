@@ -147,27 +147,38 @@ def run_daily_updater(args):
             # Continue anyway to try the full run
 
         # Run the full scraper
-        success = scraper.run(
+        result = scraper.run(
             auto_mode=True,
             max_anime=args.max_anime,
             wait_time=args.wait_time,
             max_wait_attempts=args.max_wait_attempts
         )
 
-        if success:
-            # Send notification
+        # Check the result:
+        # True = success with updates
+        # 2 = success but no new data found
+        # False = error occurred
+        if result is True:
+            # Send notification about successful update with new data
             title = "🔄 动漫巡礼每日更新"
             message = f"✅ 每日更新成功！已检查最近更新的动漫，添加新番剧并更新已有番剧的巡礼点数据。"
             send_bark_notification(args.bark_url, title, message)
-            logger.info("Daily update completed successfully")
+            logger.info("Daily update completed successfully with new data")
+            return True
+        elif result == 2:
+            # Send notification about successful check but no new data
+            title = "🔄 动漫巡礼每日更新"
+            message = f"✅ 每日检查完成！已检查最近更新的动漫，未发现新番剧或新巡礼点数据。"
+            send_bark_notification(args.bark_url, title, message)
+            logger.info("Daily update completed successfully but no new data found")
+            return True  # Still return success to GitHub Actions
         else:
             # Send notification about failure
             title = "⚠️ 动漫巡礼每日更新失败"
             message = "❌ 更新动漫巡礼数据失败。请查看日志了解详情。"
             send_bark_notification(args.bark_url, title, message)
             logger.error("Daily update failed")
-
-        return success
+            return False
 
     except Exception as e:
         logger.error(f"Error running daily updater: {e}")
