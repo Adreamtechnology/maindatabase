@@ -75,7 +75,7 @@ jobs:
       - name: Run Region Info Updater
         if: steps.check_workflows.outputs.result == 'true'
         run: |
-          python add_region_info.py --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} --rate-limit 2.0 --max-workers 5
+          python add_region_info.py --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} --rate-limit 2.0 --max-workers 5 --max-api-failures 10
 
       - name: Configure Git
         if: steps.check_workflows.outputs.result == 'true'
