@@ -31,3 +31,14 @@
 2025-04-27 12:51:47,345 - AnimePilgrimageUpdater - INFO - Test anime 4: 小市民シリーズ 2期
 2025-04-27 12:51:47,345 - AnimePilgrimageUpdater - INFO - Test anime 5: ラブライブ! スーパースター!!
 2025-04-27 13:12:17,147 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with new data
+2025-05-04 12:50:15,534 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-05-04 12:50:15,534 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-05-04 12:50:15,786 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-05-04 12:50:17,161 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-05-04 12:52:56,027 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-05-04 12:52:56,027 - AnimePilgrimageUpdater - INFO - Test anime 1: ウマ娘 シンデレラグレイ
+2025-05-04 12:52:56,027 - AnimePilgrimageUpdater - INFO - Test anime 2: デジモンアドベンチャー LAST EVOLUTION 絆
+2025-05-04 12:52:56,027 - AnimePilgrimageUpdater - INFO - Test anime 3: 小市民シリーズ 2期
+2025-05-04 12:52:56,027 - AnimePilgrimageUpdater - INFO - Test anime 4: らき☆すた
+2025-05-04 12:52:56,027 - AnimePilgrimageUpdater - INFO - Test anime 5: はじめの一歩 Rising
+2025-05-04 13:12:57,518 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with new data
