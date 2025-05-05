@@ -69,9 +69,20 @@ def remove_lock_file():
         logging.error(f"Error removing lock file: {e}")
         return False
 
-def send_bark_notification(bark_url, title, message):
-    """Send notification via Bark"""
-    full_url = f"{bark_url}/{title}/{message}"
+def send_bark_notification(bark_url, title, message, url=None):
+    """Send notification via Bark
+
+    Args:
+        bark_url: The Bark API URL
+        title: The notification title
+        message: The notification message
+        url: Optional URL to open when notification is tapped
+    """
+    # Construct the URL
+    if url:
+        full_url = f"{bark_url}/{title}/{message}?url={url}"
+    else:
+        full_url = f"{bark_url}/{title}/{message}"
 
     try:
         response = requests.get(full_url)
@@ -154,28 +165,67 @@ def run_daily_updater(args):
             max_wait_attempts=args.max_wait_attempts
         )
 
-        # Check the result:
-        # True = success with updates
-        # 2 = success but no new data found
-        # False = error occurred
-        if result is True:
+        # Get detailed results from the scraper
+        # result can be:
+        # - True = success with updates
+        # - 2 = success but no new data found
+        # - dict = success with detailed update info
+        # - False = error occurred
+
+        if isinstance(result, dict):
+            # We have detailed update information
+            updated_anime = result.get('updated_anime', [])
+            new_anime = result.get('new_anime', [])
+
+            # Create a detailed message
+            details = []
+
+            if new_anime:
+                new_anime_names = [f"《{anime['name']}》({len(anime['points'])}个点位)" for anime in new_anime[:3]]
+                if len(new_anime) > 3:
+                    new_anime_names.append(f"等{len(new_anime)-3}部作品")
+                details.append(f"🆕 新增动漫: {', '.join(new_anime_names)}")
+
+            if updated_anime:
+                updated_anime_names = [f"《{anime['name']}》(+{anime['new_points']}个点位)" for anime in updated_anime[:3]]
+                if len(updated_anime) > 3:
+                    updated_anime_names.append(f"等{len(updated_anime)-3}部作品")
+                details.append(f"🔄 更新动漫: {', '.join(updated_anime_names)}")
+
+            # Send notification with details
+            title = "✅ 动漫巡礼每日更新成功"
+            message = "\n".join(details) if details else "已检查最近更新的动漫，成功添加新番剧或更新已有番剧的巡礼点数据。"
+
+            # Add a Google Maps URL if we have coordinates
+            map_url = None
+            if updated_anime and 'latest_point' in updated_anime[0] and 'geo' in updated_anime[0]['latest_point']:
+                lat, lng = updated_anime[0]['latest_point']['geo']
+                map_url = f"https://www.google.com/maps/dir/?api=1&destination={lat},{lng}"
+
+            send_bark_notification(args.bark_url, title, message, map_url)
+            logger.info("Daily update completed successfully with detailed data")
+            return True
+
+        elif result is True:
             # Send notification about successful update with new data
-            title = "🔄 动漫巡礼每日更新"
-            message = f"✅ 每日更新成功！已检查最近更新的动漫，添加新番剧并更新已有番剧的巡礼点数据。"
+            title = "✅ 动漫巡礼每日更新成功"
+            message = f"已检查最近更新的动漫，成功添加新番剧或更新已有番剧的巡礼点数据。"
             send_bark_notification(args.bark_url, title, message)
             logger.info("Daily update completed successfully with new data")
             return True
+
         elif result == 2:
             # Send notification about successful check but no new data
-            title = "🔄 动漫巡礼每日更新"
-            message = f"✅ 每日检查完成！已检查最近更新的动漫，未发现新番剧或新巡礼点数据。"
+            title = "ℹ️ 动漫巡礼每日检查完成"
+            message = f"已检查最近更新的动漫，未发现新番剧或新巡礼点数据。"
             send_bark_notification(args.bark_url, title, message)
             logger.info("Daily update completed successfully but no new data found")
             return True  # Still return success to GitHub Actions
+
         else:
             # Send notification about failure
             title = "⚠️ 动漫巡礼每日更新失败"
-            message = "❌ 更新动漫巡礼数据失败。请查看日志了解详情。"
+            message = "更新动漫巡礼数据失败。请查看日志了解详情。"
             send_bark_notification(args.bark_url, title, message)
             logger.error("Daily update failed")
             return False
