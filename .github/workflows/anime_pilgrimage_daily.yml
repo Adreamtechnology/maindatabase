@@ -56,7 +56,8 @@ jobs:
 
       - name: Run Anime Pilgrimage daily updater
         run: |
-          python anime_pilgrimage_daily_updater.py --max-anime 50 --wait-time 1800 --max-wait-attempts 3 --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
+          # Run with increased max-anime (50 -> 100) and increased scroll attempts
+          python anime_pilgrimage_daily_updater.py --max-anime 100 --wait-time 1800 --max-wait-attempts 3 --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }}
 
       - name: Configure Git
         run: |
