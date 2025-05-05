@@ -1215,20 +1215,36 @@ class AnimePilgrimageScraper:
                   and local_id is the local ID of the anime if it exists, otherwise None
         """
         if not index_path.exists():
+            self.logger.info(f"Index file {index_path} does not exist")
             return (False, None)
 
         try:
             with open(index_path, 'r', encoding='utf-8') as f:
                 index_data = json.load(f)
 
+            self.logger.info(f"Checking if anime '{anime_title}' exists in {index_path} with {len(index_data)} entries")
+
             # Check if the anime title exists in any entry
             for local_id, anime_data in index_data.items():
+                # Get the Japanese and Chinese names for comparison
+                jp_name = anime_data.get('name', '')
+                cn_name = anime_data.get('name_cn', '')
+
                 # Check both Japanese and Chinese names with exact matching
-                if anime_data.get('name', '') == anime_title or \
-                   anime_data.get('name_cn', '') == anime_title:
-                    self.logger.info(f"Anime '{anime_title}' already exists in {index_path} with ID {local_id}")
+                if jp_name == anime_title or cn_name == anime_title:
+                    self.logger.info(f"✓ Anime '{anime_title}' exactly matches existing anime in {index_path} with ID {local_id}")
+                    self.logger.info(f"  Existing entry: JP='{jp_name}', CN='{cn_name}'")
                     return (True, local_id)
 
+                # Log near matches for debugging
+                if (jp_name and anime_title in jp_name) or (cn_name and anime_title in cn_name):
+                    self.logger.info(f"  Near match found but not exact: ID={local_id}, JP='{jp_name}', CN='{cn_name}'")
+
+                # Also check if anime_title contains the Japanese or Chinese name
+                if (jp_name and jp_name in anime_title) or (cn_name and cn_name in anime_title):
+                    self.logger.info(f"  Reverse near match found but not exact: ID={local_id}, JP='{jp_name}', CN='{cn_name}'")
+
+            self.logger.info(f"✗ Anime '{anime_title}' not found in {index_path}")
             return (False, None)
         except Exception as e:
             self.logger.error(f"Error checking {index_path}: {e}")
@@ -1265,6 +1281,11 @@ class AnimePilgrimageScraper:
                     points_data = json.load(f)
                     existing_points = points_data.get("points", [])
                     self.logger.info(f"Loaded {len(existing_points)} existing points from {points_path}")
+
+                    # Log the first few existing points for debugging
+                    for i, point in enumerate(existing_points[:3]):
+                        if "geo" in point and len(point["geo"]) == 2:
+                            self.logger.info(f"  Existing point {i+1}: name='{point.get('name', 'Unknown')}', geo={point['geo']}")
         except Exception as e:
             self.logger.error(f"Error loading existing points data: {e}")
             return None
@@ -1323,7 +1344,7 @@ class AnimePilgrimageScraper:
         self.logger.info("Scrolling to load all pilgrimage points...")
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
-        max_scroll_attempts = 15
+        max_scroll_attempts = 20  # Increased from 15 to ensure more content is loaded
 
         while scroll_attempts < max_scroll_attempts:
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -1402,9 +1423,10 @@ class AnimePilgrimageScraper:
             existing_coords = set()
             for point in existing_points:
                 if "geo" in point and len(point["geo"]) == 2:
-                    # Round coordinates to 6 decimal places for comparison
-                    lat = round(point["geo"][0], 6)
-                    lng = round(point["geo"][1], 6)
+                    # Round coordinates to 5 decimal places for comparison (about 1.1 meters precision)
+                    # This helps avoid missing points due to tiny coordinate differences
+                    lat = round(point["geo"][0], 5)
+                    lng = round(point["geo"][1], 5)
                     existing_coords.add((lat, lng))
 
             self.logger.info(f"Found {len(existing_coords)} existing point coordinates")
@@ -1566,16 +1588,36 @@ class AnimePilgrimageScraper:
 
                     # If we have valid coordinates, check if this point already exists
                     if lat != 0 and lng != 0:
-                        # Round coordinates to 6 decimal places for comparison
-                        lat_rounded = round(lat, 6)
-                        lng_rounded = round(lng, 6)
+                        # Round coordinates to 5 decimal places for comparison (about 1.1 meters precision)
+                        lat_rounded = round(lat, 5)
+                        lng_rounded = round(lng, 5)
 
+                        # Check if this point is too close to any existing point
+                        # Define a small threshold for considering points as duplicates (0.0001 is about 11 meters)
+                        threshold = 0.0001
+                        is_duplicate = False
+
+                        # First check exact match
                         if (lat_rounded, lng_rounded) in existing_coords:
-                            self.logger.info(f"  Skipping point with coordinates {lat}, {lng} as it already exists")
+                            self.logger.info(f"  Skipping point with coordinates {lat}, {lng} as it exactly matches an existing point")
+                            is_duplicate = True
+                        else:
+                            # Then check for nearby points within threshold
+                            for existing_lat, existing_lng in existing_coords:
+                                if (abs(lat_rounded - existing_lat) < threshold and
+                                    abs(lng_rounded - existing_lng) < threshold):
+                                    self.logger.info(f"  Skipping point with coordinates {lat}, {lng} as it's very close to existing point at {existing_lat}, {existing_lng}")
+                                    is_duplicate = True
+                                    break
+
+                        if is_duplicate:
                             continue
 
                         # Add to existing coordinates set to avoid duplicates in this run
                         existing_coords.add((lat_rounded, lng_rounded))
+
+                        # Log the map URL for debugging
+                        self.logger.info(f"  Found map URL: https://www.google.com/maps/dir/?api=1&destination={lat},{lng}")
 
                         # Download image for this point
                         img_url = ""
@@ -1611,7 +1653,7 @@ class AnimePilgrimageScraper:
                         }
 
                         new_points.append(point_data)
-                        self.logger.info(f"  Added new point: {point_data['name']}")
+                        self.logger.info(f"  Added new point: {point_data['name']} at {lat}, {lng}")
                 except Exception as e:
                     self.logger.error(f"  Error extracting point {i}: {e}")
 
@@ -1965,6 +2007,8 @@ class AnimePilgrimageScraper:
 
                 # Scrape selected anime
                 anime_data_list = []
+                updated_anime = []  # Track updated anime
+                new_anime = []      # Track new anime
 
                 for i in range(start_idx - 1, end_idx):
                     anime_info = anime_list[i]
@@ -1977,8 +2021,22 @@ class AnimePilgrimageScraper:
                         # Try to update the existing anime with new pilgrimage points
                         updated_data = self.update_existing_anime(anime_info, existing_id)
                         if updated_data:
-                            self.logger.info(f"Updated anime '{anime_info['title']}' with {updated_data.get('new_points_count', 0)} new points")
+                            new_points_count = updated_data.get('new_points_count', 0)
+                            self.logger.info(f"Updated anime '{anime_info['title']}' with {new_points_count} new points")
                             anime_data_list.append(updated_data)
+
+                            # Add to updated anime list with detailed info
+                            latest_point = None
+                            if updated_data['anime_data']['points'] and len(updated_data['anime_data']['points']) > 0:
+                                latest_point = updated_data['anime_data']['points'][-1]
+
+                            updated_anime.append({
+                                'name': anime_info['title'],
+                                'id': existing_id,
+                                'new_points': new_points_count,
+                                'latest_point': latest_point
+                            })
+
                             # Update index.json with the updated anime data
                             self.logger.info("Saving updates to index.json...")
                             self.update_index_json([updated_data], update_mode=True)
@@ -1993,6 +2051,13 @@ class AnimePilgrimageScraper:
                     if anime_data:
                         anime_data_list.append(anime_data)
 
+                        # Add to new anime list with detailed info
+                        new_anime.append({
+                            'name': anime_info['title'],
+                            'id': local_folder_id,
+                            'points': anime_data['anime_data']['points']
+                        })
+
                         # Save progress after each anime
                         self.logger.info("Saving progress to index.json...")
                         self.update_index_json([anime_data])
@@ -2002,13 +2067,24 @@ class AnimePilgrimageScraper:
 
                 # Final update to index.json is not needed since we save after each anime
                 if not anime_data_list:
-                    self.logger.warning("No anime data was collected.")
-                    return False
+                    self.logger.warning("No anime data was collected. No new anime or updates found.")
+                    # Return a special status code (2) to indicate no new data but successful execution
+                    return 2
                 else:
                     self.logger.info(f"Successfully scraped {len(anime_data_list)} anime.")
 
-                self.logger.info("Scraping completed successfully!")
-                return True
+                    # Return detailed information about the updates
+                    if auto_mode:
+                        result_data = {
+                            'updated_anime': updated_anime,
+                            'new_anime': new_anime
+                        }
+                        self.logger.info(f"Returning detailed update information: {len(updated_anime)} updated anime, {len(new_anime)} new anime")
+                        return result_data
+                    else:
+                        # For manual mode, just return True
+                        self.logger.info("Scraping completed successfully!")
+                        return True
 
             finally:
                 # Only remove the lock file if we created it
@@ -2050,7 +2126,11 @@ def main():
     )
 
     # Return appropriate exit code
-    sys.exit(0 if success else 1)
+    # success can be True (success with updates), 2 (success but no new data), or False (error)
+    if success is True or success == 2:
+        sys.exit(0)  # Success
+    else:
+        sys.exit(1)  # Error
 
 if __name__ == "__main__":
     main()
