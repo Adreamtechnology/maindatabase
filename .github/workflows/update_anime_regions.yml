@@ -10,6 +10,8 @@ on:
 jobs:
   update-anime-regions:
     runs-on: ubuntu-latest
+    outputs:
+      changes_pushed: ${{ steps.commit_changes.outputs.changes_pushed }}
 
     steps:
       - name: Check for running workflows
@@ -74,8 +76,10 @@ jobs:
 
       - name: Run Region Info Updater
         if: steps.check_workflows.outputs.result == 'true'
+        id: run_updater
+        continue-on-error: true  # Continue even if the script exits with an error
         run: |
-          python add_region_info.py --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} --rate-limit 2.0 --max-workers 5 --max-api-failures 10
+          python add_region_info.py --base-dir pic/data --bark-url ${{ secrets.BARK_URL || 'https://api.day.app/FXxtHPEhbvdzxrgRpBW7E' }} --rate-limit 2.0 --max-workers 5 --max-api-failures 10 --max-runtime-hours 3.0
 
       - name: Configure Git
         if: steps.check_workflows.outputs.result == 'true'
@@ -85,21 +89,29 @@ jobs:
 
       - name: Commit and push changes
         if: steps.check_workflows.outputs.result == 'true'
+        id: commit_changes
         run: |
           # Check if there are any changes
           if [[ -n $(git status --porcelain) ]]; then
             git add -A
-            git commit -m "更新动漫地区信息: $(date +'%Y-%m-%d')"
+            # Add information about whether the script completed successfully or was interrupted
+            if [ "${{ steps.run_updater.outcome }}" == "success" ]; then
+              git commit -m "更新动漫地区信息: $(date +'%Y-%m-%d')"
+            else
+              git commit -m "更新动漫地区信息(部分完成): $(date +'%Y-%m-%d')"
+            fi
             git push
+            echo "changes_pushed=true" >> $GITHUB_OUTPUT
           else
             echo "没有需要提交的更改"
+            echo "changes_pushed=false" >> $GITHUB_OUTPUT
           fi
 
   # Trigger mirror sync after updating region information
   trigger-mirror-sync:
     needs: update-anime-regions
     runs-on: ubuntu-latest
-    if: ${{ success() }}
+    if: ${{ needs.update-anime-regions.outputs.changes_pushed == 'true' }}  # Only run if changes were pushed
 
     steps:
       - name: Trigger mirror sync workflow
