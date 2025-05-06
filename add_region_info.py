@@ -10,8 +10,9 @@ import argparse
 import urllib.parse
 import threading
 import queue
+import sys
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -28,7 +29,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class RegionInfoUpdater:
-    def __init__(self, base_dir='pic/data', bark_url=None, rate_limit=1, max_workers=5, max_api_failures=10):
+    def __init__(self, base_dir='pic/data', bark_url=None, rate_limit=1, max_workers=5, max_api_failures=10, max_runtime_hours=3):
         """Initialize the RegionInfoUpdater
 
         Args:
@@ -37,12 +38,16 @@ class RegionInfoUpdater:
             rate_limit: Minimum seconds between API requests to avoid rate limiting
             max_workers: Maximum number of worker threads for concurrent processing
             max_api_failures: Maximum number of consecutive API failures before assuming API limit reached
+            max_runtime_hours: Maximum runtime in hours before saving progress and stopping
         """
         self.base_dir = Path(base_dir)
         self.bark_url = bark_url
         self.rate_limit = rate_limit
         self.max_workers = max_workers
         self.max_api_failures = max_api_failures
+        self.max_runtime_hours = max_runtime_hours
+        self.start_time = datetime.now()
+        self.time_limit = self.start_time + timedelta(hours=max_runtime_hours)
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'AnimeRegionUpdater/1.0 (anime-pilgrimage-database; contact@example.com)',
@@ -56,6 +61,7 @@ class RegionInfoUpdater:
         self.api_failure_count = 0  # Counter for consecutive API failures
         self.api_failure_lock = threading.Lock()  # Lock for thread-safe failure count updates
         self.api_limit_reached = False  # Flag to indicate if API limit has been reached
+        self.time_limit_reached = False  # Flag to indicate if time limit has been reached
 
     def load_index_json(self):
         """Load the index.json file
@@ -95,6 +101,20 @@ class RegionInfoUpdater:
         except Exception as e:
             logger.error(f"保存索引文件失败: {e}")
 
+    def check_time_limit(self):
+        """Check if the time limit has been reached
+
+        Returns:
+            bool: True if time limit has been reached, False otherwise
+        """
+        current_time = datetime.now()
+        if current_time >= self.time_limit:
+            if not self.time_limit_reached:
+                logger.warning(f"已达到最大运行时间 {self.max_runtime_hours} 小时，将保存当前进度并停止")
+                self.time_limit_reached = True
+            return True
+        return False
+
     def get_region_from_coordinates(self, lat, lon):
         """Get region information from coordinates using OpenStreetMap API
 
@@ -106,8 +126,8 @@ class RegionInfoUpdater:
             str: Region name if found, None otherwise
             None with api_limit_reached=True if API limit is reached
         """
-        # Check if API limit has been reached
-        if self.api_limit_reached:
+        # Check if API limit or time limit has been reached
+        if self.api_limit_reached or self.check_time_limit():
             return None
 
         # Check cache first (thread-safe)
@@ -418,14 +438,18 @@ class RegionInfoUpdater:
                     futures.append(future)
 
                 for future in as_completed(futures):
-                    # Check if API limit has been reached
-                    if self.api_limit_reached:
+                    # Check if API limit or time limit has been reached
+                    if self.api_limit_reached or self.time_limit_reached:
                         # Cancel remaining futures if possible
                         for f in futures:
                             if not f.done():
                                 f.cancel()
-                        api_limit_reached = True
-                        logger.warning("API限制已达到，取消剩余处理任务")
+                        api_limit_reached = self.api_limit_reached
+                        time_limit_reached = self.time_limit_reached
+                        if self.api_limit_reached:
+                            logger.warning("API限制已达到，取消剩余处理任务")
+                        if self.time_limit_reached:
+                            logger.warning(f"已达到最大运行时间 {self.max_runtime_hours} 小时，取消剩余处理任务")
                         break
 
                     results.append(future.result())
@@ -442,8 +466,8 @@ class RegionInfoUpdater:
                 # Update the anime data in index.json
                 index_data[local_id] = anime_data
 
-        # If API limit not reached, check for anime folders that are not in index.json
-        if not api_limit_reached and not self.api_limit_reached:
+        # If neither API limit nor time limit reached, check for anime folders that are not in index.json
+        if not api_limit_reached and not self.api_limit_reached and not self.time_limit_reached:
             try:
                 folders = [f.name for f in self.base_dir.glob('*') if f.is_dir() and f.name.isdigit()]
                 folders_to_process = [folder for folder in folders if folder not in index_data]
@@ -459,14 +483,18 @@ class RegionInfoUpdater:
                             futures.append(future)
 
                         for future in as_completed(futures):
-                            # Check if API limit has been reached
-                            if self.api_limit_reached:
+                            # Check if API limit or time limit has been reached
+                            if self.api_limit_reached or self.time_limit_reached:
                                 # Cancel remaining futures if possible
                                 for f in futures:
                                     if not f.done():
                                         f.cancel()
-                                api_limit_reached = True
-                                logger.warning("API限制已达到，取消剩余处理任务")
+                                api_limit_reached = self.api_limit_reached
+                                time_limit_reached = self.time_limit_reached
+                                if self.api_limit_reached:
+                                    logger.warning("API限制已达到，取消剩余处理任务")
+                                if self.time_limit_reached:
+                                    logger.warning(f"已达到最大运行时间 {self.max_runtime_hours} 小时，取消剩余处理任务")
                                 break
 
                             folder_results.append(future.result())
@@ -485,23 +513,28 @@ class RegionInfoUpdater:
             except Exception as e:
                 logger.error(f"扫描动漫文件夹时出错: {e}")
 
-        # Always save the index.json file to preserve progress, even if API limit was reached
+        # Always save the index.json file to preserve progress, even if API limit or time limit was reached
         if updated_count > 0:
             self.save_index_json(index_data)
             logger.info(f"已更新 {updated_count} 个动漫的地区信息")
 
             if api_limit_reached or self.api_limit_reached:
                 logger.warning("由于API限制，处理被中断，但已保存当前进度")
+            if self.time_limit_reached:
+                logger.warning(f"由于达到最大运行时间 {self.max_runtime_hours} 小时，处理被中断，但已保存当前进度")
         else:
             if api_limit_reached or self.api_limit_reached:
                 logger.warning("由于API限制，无法处理任何动漫，请稍后再试")
+            elif self.time_limit_reached:
+                logger.warning(f"由于达到最大运行时间 {self.max_runtime_hours} 小时，无法处理任何动漫")
             else:
                 logger.info("没有需要更新地区信息的动漫")
 
         return {
             "updated_count": updated_count,
             "updated_anime": updated_anime,
-            "api_limit_reached": api_limit_reached or self.api_limit_reached
+            "api_limit_reached": api_limit_reached or self.api_limit_reached,
+            "time_limit_reached": self.time_limit_reached
         }
 
     def send_bark_notification(self, title, content):
@@ -536,6 +569,7 @@ def main():
     parser.add_argument('--rate-limit', type=float, default=1.0, help='API请求之间的最小间隔（秒）')
     parser.add_argument('--max-workers', type=int, default=5, help='并发处理的最大线程数')
     parser.add_argument('--max-api-failures', type=int, default=10, help='判断API限制的连续失败次数')
+    parser.add_argument('--max-runtime-hours', type=float, default=3.0, help='最大运行时间（小时）')
     parser.add_argument('--force', action='store_true', help='强制更新所有动漫的地区信息')
 
     args = parser.parse_args()
@@ -545,7 +579,8 @@ def main():
         bark_url=args.bark_url,
         rate_limit=args.rate_limit,
         max_workers=args.max_workers,
-        max_api_failures=args.max_api_failures
+        max_api_failures=args.max_api_failures,
+        max_runtime_hours=args.max_runtime_hours
     )
 
     start_time = datetime.now()
@@ -559,9 +594,15 @@ def main():
 
     # Prepare notification content
     if result["updated_count"] > 0:
-        if result.get("api_limit_reached", False):
+        if result.get("api_limit_reached", False) and result.get("time_limit_reached", False):
+            title = f"⚠️ 动漫地区信息部分更新"
+            content = f"已更新{result['updated_count']}个动漫的地区信息，但由于API限制和时间限制已达到，处理被中断\n\n"
+        elif result.get("api_limit_reached", False):
             title = f"⚠️ 动漫地区信息部分更新"
             content = f"已更新{result['updated_count']}个动漫的地区信息，但API限制已达到，处理被中断\n\n"
+        elif result.get("time_limit_reached", False):
+            title = f"⚠️ 动漫地区信息部分更新"
+            content = f"已更新{result['updated_count']}个动漫的地区信息，但已达到最大运行时间 {args.max_runtime_hours} 小时，处理被中断\n\n"
         else:
             title = f"🌍 动漫地区信息更新"
             content = f"已更新{result['updated_count']}个动漫的地区信息\n\n"
@@ -573,9 +614,15 @@ def main():
         if len(result["updated_anime"]) > 10:
             content += f"...等共{len(result['updated_anime'])}个动漫"
     else:
-        if result.get("api_limit_reached", False):
+        if result.get("api_limit_reached", False) and result.get("time_limit_reached", False):
+            title = "⚠️ 动漫地区信息更新失败"
+            content = "由于API限制和时间限制已达到，无法处理任何动漫，请稍后再试"
+        elif result.get("api_limit_reached", False):
             title = "⚠️ 动漫地区信息更新失败"
             content = "API限制已达到，无法处理任何动漫，请稍后再试"
+        elif result.get("time_limit_reached", False):
+            title = "⚠️ 动漫地区信息更新中断"
+            content = f"已达到最大运行时间 {args.max_runtime_hours} 小时，无法处理任何动漫"
         else:
             title = "🌍 动漫地区信息检查"
             content = "所有动漫已有地区信息，无需更新"
