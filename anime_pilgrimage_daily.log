@@ -174,3 +174,14 @@
 2025-05-15 12:59:02,904 - AnimePilgrimageUpdater - INFO - Test anime 4: ゆるゆり さん☆ハイ！
 2025-05-15 12:59:02,904 - AnimePilgrimageUpdater - INFO - Test anime 5: Summer Pockets
 2025-05-15 13:33:01,544 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-05-16 12:54:56,171 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-05-16 12:54:56,171 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-05-16 12:54:56,382 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-05-16 12:54:57,394 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-05-16 12:57:37,237 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-05-16 12:57:37,237 - AnimePilgrimageUpdater - INFO - Test anime 1: 前橋ウィッチーズ
+2025-05-16 12:57:37,237 - AnimePilgrimageUpdater - INFO - Test anime 2: ゆるゆり なちゅやちゅみ！＋
+2025-05-16 12:57:37,237 - AnimePilgrimageUpdater - INFO - Test anime 3: ゆるゆり なちゅやちゅみ！
+2025-05-16 12:57:37,237 - AnimePilgrimageUpdater - INFO - Test anime 4: ゆるゆり さん☆ハイ！
+2025-05-16 12:57:37,237 - AnimePilgrimageUpdater - INFO - Test anime 5: Summer Pockets
+2025-05-16 13:31:10,200 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
