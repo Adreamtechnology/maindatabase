@@ -56637,7 +56637,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1284/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1284/points.json",
+    "region": [
+      "东京都/東京都",
+      "静冈县/靜岡縣"
+    ]
   },
   "1285": {
     "name": "異能バトルは日常系のなかで \"When Supernatural Battles Became Commonplace (Inou Battle)\"",
@@ -56655,7 +56659,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1285/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1285/points.json",
+    "region": [
+      "爱知县"
+    ]
   },
   "1286": {
     "name": "グリザイアの果実 \"Le Fruit de la Grisaia (Gurizaia no Kajitsu)\"",
@@ -56691,7 +56698,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1286/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1286/points.json",
+    "region": [
+      "神奈川縣",
+      "駿東郡"
+    ]
   },
   "1287": {
     "name": "いますぐお兄ちゃんに妹だっていいたい! \"Ima Sugu Oniichan ni Imoto da tte Iitai!\"",
@@ -56745,7 +56756,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1287/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1287/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1288": {
     "name": "アイドルマスター シンデレラガールズ \"The Idolmaster Cinderella Girls\"",
@@ -57357,7 +57371,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1288/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1288/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "1289": {
     "name": "ガールフレンド（仮） \"Girl Friend Beta\"",
@@ -57411,7 +57429,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1289/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1289/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "129": {
     "name": "四畳半神話大系",
@@ -57553,7 +57575,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=19yyMQu-rUCgzbrkCmucGnz4wLDA&ll=35.004434%2C135.770403&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/129/points.json"
+    "inform": "https://image.xinu.ink/pic/data/129/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1290": {
     "name": "マジンボーン \"Majin Bone\"",
@@ -57715,7 +57740,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1290/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1290/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县"
+    ]
   },
   "1291": {
     "name": "みツわの \"Mitsuwano\"",
@@ -57758,7 +57787,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1293/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1293/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1294": {
     "name": "冴えない彼女の育てかた \"Saekano: How to Raise a Boring Girlfriend\"",
@@ -58172,7 +58204,14 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1294/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1294/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县",
+      "长野县",
+      "京都府",
+      "上川綜合振興局"
+    ]
   },
   "1295": {
     "name": "艦隊これくしょん -艦これ- \"Kantai Collection\"",
@@ -58235,7 +58274,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1295/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1295/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "1296": {
     "name": "海がきこえる \"Ocean Waves (Umi ga Kikoeru)\"",
@@ -58424,7 +58466,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1296/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1296/points.json",
+    "region": [
+      "高知县",
+      "东京都/東京都",
+      "高冈郡"
+    ]
   },
   "1297": {
     "name": "ソレヨリノ前奏詩 \"Soreyorino Prologue\"",
@@ -58459,7 +58506,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1298/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1298/points.json",
+    "region": [
+      "神奈川縣",
+      "东京都/東京都"
+    ]
   },
   "1299": {
     "name": "",
@@ -59470,7 +59521,13 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/13/points.json"
+    "inform": "https://image.xinu.ink/pic/data/13/points.json",
+    "region": [
+      "大野郡",
+      "东京都/東京都",
+      "岐阜县",
+      "千叶县"
+    ]
   },
   "130": {
     "name": "Rewrite",
@@ -59574,7 +59631,14 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/130/points.json"
+    "inform": "https://image.xinu.ink/pic/data/130/points.json",
+    "region": [
+      "东京都/東京都",
+      "大阪府",
+      "兵库县/兵庫縣",
+      "群马县",
+      "石狩振興局"
+    ]
   },
   "1300": {
     "name": "オオカミ少女と黒王子 \"Wolf Girl and Black Prince\"",
@@ -59610,7 +59674,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1300/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1300/points.json",
+    "region": [
+      "兵库县/兵庫縣"
+    ]
   },
   "1301": {
     "name": "",
@@ -59726,7 +59793,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1302/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1302/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1303": {
     "name": "片隅乙女ワンスモア \"Katasumi Otome once more\"",
@@ -59852,7 +59922,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1303/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1303/points.json",
+    "region": [
+      "三重县"
+    ]
   },
   "1304": {
     "name": "天空のエスカフローネ \"The Vision of Escaflowne　(Tenku no Escaflowne)\"",
@@ -60220,7 +60293,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1305/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1305/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县",
+      "神奈川縣"
+    ]
   },
   "1306": {
     "name": "",
@@ -60524,7 +60602,17 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1308/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1308/points.json",
+    "region": [
+      "南都留郡",
+      "足柄下郡",
+      "神奈川縣",
+      "駿東郡",
+      "静冈县/靜岡縣",
+      "中郡",
+      "田方郡",
+      "南巨摩郡"
+    ]
   },
   "1309": {
     "name": "暗殺教室 \"Assassination Classroom\"",
@@ -60587,7 +60675,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/131/points.json"
+    "inform": "https://image.xinu.ink/pic/data/131/points.json",
+    "region": [
+      "King County",
+      "东京都/東京都",
+      "Los Angeles County"
+    ]
   },
   "1310": {
     "name": "バディ・コンプレックス \"Buddy Complex Pilgrimage Map\"",
@@ -60722,7 +60815,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1310/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1310/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县"
+    ]
   },
   "1311": {
     "name": "R.O.D",
@@ -60848,7 +60945,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1311/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1311/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1312": {
     "name": "ISUCA",
@@ -60910,7 +61010,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1313/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1313/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1314": {
     "name": "BTOOOM!",
@@ -60936,7 +61039,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1315/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1315/points.json",
+    "region": [
+      "仁多郡"
+    ]
   },
   "1316": {
     "name": "ぎんぎつね \"Gingitsune\"",
@@ -60954,7 +61060,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1316/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1316/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1317": {
     "name": "ストライクウィッチーズ \"Strike Witches\"",
@@ -60989,7 +61098,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1318/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1318/points.json",
+    "region": [
+      "茨城县"
+    ]
   },
   "1319": {
     "name": "うみものがたり～あなたがいてくれたコト～ \"Umi Monogatari: Anata ga Ite Kureta Koto\"",
@@ -61016,7 +61128,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1319/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1319/points.json",
+    "region": [
+      "鹿儿岛县"
+    ]
   },
   "132": {
     "name": "LEVEL5 -judgelight-",
@@ -61050,7 +61165,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/132/points.json"
+    "inform": "https://image.xinu.ink/pic/data/132/points.json",
+    "region": [
+      "市南区"
+    ]
   },
   "1320": {
     "name": "地獄少女 \"Hell Girl\"",
@@ -61077,7 +61195,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1320/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1320/points.json",
+    "region": [
+      "青森县",
+      "京都府"
+    ]
   },
   "1321": {
     "name": "ふたつのスピカ \"Twin Spica\"",
@@ -61113,7 +61235,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1321/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1321/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1322": {
     "name": "レベルE \"Level E\"",
@@ -61131,7 +61256,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1322/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1322/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "1323": {
     "name": "断裁分離のクライムエッジ \"The Severing Crime Edge\"",
@@ -61174,7 +61302,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1325/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1325/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1326": {
     "name": "ナースウィッチ小麦ちゃんマジカルて \"Nurse Witch Komugi\"",
@@ -61201,7 +61332,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1326/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1326/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1327": {
     "name": "サクラ大戦 \"Sakura Taisen\"",
@@ -61237,7 +61371,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1327/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1327/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1328": {
     "name": "キミキス pure rouge \"Kimikiss\"",
@@ -61377,7 +61514,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/133/points.json"
+    "inform": "https://image.xinu.ink/pic/data/133/points.json",
+    "region": [
+      "千叶县",
+      "东京都/東京都",
+      "埼玉县"
+    ]
   },
   "1330": {
     "name": "ゴーストハント \"Ghost Hunt\"",
@@ -61437,7 +61579,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1333/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1333/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1334": {
     "name": "犬神さんと猫山さん \"Inugami-san to Nekoyama-san\"",
@@ -61472,7 +61617,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1335/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1335/points.json",
+    "region": [
+      "神奈川縣",
+      "东京都/東京都"
+    ]
   },
   "1336": {
     "name": "ウィッチクラフトワークス \"Witch Craft Works\"",
@@ -61515,7 +61664,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1338/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1338/points.json",
+    "region": [
+      "埼玉县",
+      "东京都/東京都"
+    ]
   },
   "1339": {
     "name": "月刊少女野崎くん \"Monthly Girls' Nozaki-kun\"",
@@ -62253,7 +62406,16 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1HtxYVKFNhenmQc23rRcbHaymNso&ll=34.222089%2C132.21967&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/134/points.json"
+    "inform": "https://image.xinu.ink/pic/data/134/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县",
+      "北佐久郡",
+      "千叶县",
+      "广岛县",
+      "群马县",
+      "神奈川縣"
+    ]
   },
   "1340": {
     "name": "アオハライド \"Aoharaido\"",
@@ -62271,7 +62433,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1340/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1340/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1341": {
     "name": "BLACK LAGOON \"Black Lagoon\"",
@@ -62297,7 +62462,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1342/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1342/points.json",
+    "region": [
+      "青森县"
+    ]
   },
   "1343": {
     "name": "山寺グラフィティ \"Yamadera Graffiti\"",
@@ -62315,7 +62483,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1343/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1343/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "1344": {
     "name": "M3〜ソノ黒キ鋼〜 \"M3 the dark metal\"",
@@ -62341,7 +62512,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1345/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1345/points.json",
+    "region": [
+      "苫前郡"
+    ]
   },
   "1346": {
     "name": "蒼き鋼のアルペジオ -アルス・ノヴァ- \"Arpeggio of Blue Steel\"",
@@ -62368,7 +62542,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1346/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1346/points.json",
+    "region": [
+      "神奈川縣",
+      "广岛县"
+    ]
   },
   "1347": {
     "name": "魔法科高校の劣等生 \"The Irregular at Magic High School\"",
@@ -62386,7 +62564,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1347/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1347/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1348": {
     "name": "マケン姫っ!通 \"Maken-Ki! Two\"",
@@ -62577,7 +62758,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.405172%2C133.196643&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/135/points.json"
+    "inform": "https://image.xinu.ink/pic/data/135/points.json",
+    "region": [
+      "广岛县",
+      "岛根县",
+      "东京都/東京都"
+    ]
   },
   "1350": {
     "name": "オオカミさんと七人の仲間たち \"Okamisan and her Seven Companions\"",
@@ -62611,7 +62797,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1352/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1352/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "1353": {
     "name": "アブソリュート・デュオ \"Absolute Duo\"",
@@ -63562,7 +63751,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1356/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1356/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "1357": {
     "name": "Charlotte",
@@ -63588,7 +63780,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1358/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1358/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "1359": {
     "name": "月姫 \"Tsukihime\"",
@@ -63624,7 +63819,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1359/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1359/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "136": {
     "name": "kiss×sis",
@@ -63657,7 +63855,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/136/points.json"
+    "inform": "https://image.xinu.ink/pic/data/136/points.json",
+    "region": [
+      "臺北市"
+    ]
   },
   "1360": {
     "name": "White Album",
@@ -63684,7 +63885,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1360/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1360/points.json",
+    "region": [
+      "山形县",
+      "石川县"
+    ]
   },
   "1361": {
     "name": "Summer Days",
@@ -63710,7 +63915,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1362/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1362/points.json",
+    "region": [
+      "大阪府"
+    ]
   },
   "1363": {
     "name": "ほしうた \"Hoshiuta\"",
@@ -63728,7 +63936,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1363/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1363/points.json",
+    "region": [
+      "兵库县/兵庫縣"
+    ]
   },
   "1364": {
     "name": "ONE 〜輝く季節へ〜 \"One: Kagayaku Kisetsu e\"",
@@ -63754,7 +63965,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1365/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1365/points.json",
+    "region": [
+      "福冈县"
+    ]
   },
   "1366": {
     "name": "痕 \"Kizuato\"",
@@ -63781,7 +63995,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1366/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1366/points.json",
+    "region": [
+      "石川县"
+    ]
   },
   "1367": {
     "name": "North Wind",
@@ -63852,7 +64069,14 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1368/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1368/points.json",
+    "region": [
+      "秋田县",
+      "鹿儿岛县",
+      "岐阜县",
+      "静冈县/靜岡縣",
+      "千叶县"
+    ]
   },
   "1369": {
     "name": "恋ではなく \"It's not love, but so where near.\"",
@@ -63906,7 +64130,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1369/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1369/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "137": {
     "name": "機動戦士ガンダム 逆襲のシャア",
@@ -63926,7 +64153,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/137/points.json"
+    "inform": "https://image.xinu.ink/pic/data/137/points.json",
+    "region": [
+      "城关区"
+    ]
   },
   "1370": {
     "name": "なでしこドリップ \"Nadesiko Drip\"",
@@ -63944,7 +64174,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1370/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1370/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "1371": {
     "name": "プリ☆さら \"Pri Sara\"",
@@ -63970,7 +64203,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1372/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1372/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "1373": {
     "name": "CROSS†CHANNEL \"Cross Channel\"",
@@ -63996,7 +64232,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1374/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1374/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "1375": {
     "name": "深紅のソワレ \"Shinku no Soiree - Cardinal Soiree\"",
@@ -64014,7 +64253,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1375/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1375/points.json",
+    "region": [
+      "青森县"
+    ]
   },
   "1376": {
     "name": "制服天使 \"Angels in School Uniform\"",
@@ -64077,7 +64319,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1376/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1376/points.json",
+    "region": [
+      "青森县",
+      "宫城县",
+      "东京都/東京都"
+    ]
   },
   "1377": {
     "name": "H2O -FOOTPRINTS IN THE SAND-",
@@ -64111,7 +64358,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1379/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1379/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "138": {
     "name": "デジモンクロスウォーズ",
@@ -64783,7 +65033,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=14jU68uv8HbkU06W4p9vD0g7FmT7R8Hl2&ll=35.64242%2C139.654886&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/138/points.json"
+    "inform": "https://image.xinu.ink/pic/data/138/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "1380": {
     "name": "青空の見える丘 \"Aozora no Mieru Oka\"",
@@ -64809,7 +65063,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1381/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1381/points.json",
+    "region": [
+      "宫城县"
+    ]
   },
   "1382": {
     "name": "えれくと！ \"Erect!\"",
@@ -64867,7 +65124,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1387/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1387/points.json",
+    "region": [
+      "宫城县"
+    ]
   },
   "1388": {
     "name": "BackStage",
@@ -64885,7 +65145,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1388/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1388/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1389": {
     "name": "プリズム☆ま〜じカル 〜 PRISM Generations! 〜 \"PRISM Generations!\"",
@@ -64915,7 +65178,10 @@
         "originLink": "https://maps.app.goo.gl/CjeeT2AvstCemCop9"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/139/points.json"
+    "inform": "https://image.xinu.ink/pic/data/139/points.json",
+    "region": [
+      "宫城县"
+    ]
   },
   "1390": {
     "name": "らぶ2Quad \"Love2Quad\"",
@@ -64933,7 +65199,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1390/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1390/points.json",
+    "region": [
+      "宫城县"
+    ]
   },
   "1391": {
     "name": "しろくまベルスターズ♪ \"Shirokuma bell stars\"",
@@ -64951,7 +65220,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1391/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1391/points.json",
+    "region": [
+      "福冈县"
+    ]
   },
   "1392": {
     "name": "Marguerite Sphere",
@@ -64969,7 +65241,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1392/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1392/points.json",
+    "region": [
+      "长崎县"
+    ]
   },
   "1393": {
     "name": "アッチむいて恋 \"AcchimuiteKoi\"",
@@ -64996,7 +65271,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1393/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1393/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "1394": {
     "name": "あえて無視するキミとの未来 〜Relay broadcast〜 \"Aete mushisuru kimitono Mirai\"",
@@ -65014,7 +65292,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1394/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1394/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1395": {
     "name": "キスよりさきに恋よりはやく \"Kisu yori sakini koiyori hayaku\"",
@@ -65041,7 +65322,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1395/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1395/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "1396": {
     "name": "はっぴぃ☆マーガレット! \"Happy Marguerite\"",
@@ -65068,7 +65352,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1396/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1396/points.json",
+    "region": [
+      "冈山县"
+    ]
   },
   "1397": {
     "name": "カラフルハート 〜12コのきゅるるん♪〜 \"Colorful Heart\"",
@@ -65102,7 +65389,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1399/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1399/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "14": {
     "name": "おねがい☆ティーチャー",
@@ -65377,7 +65667,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.405892%2C138.244395&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/14/points.json"
+    "inform": "https://image.xinu.ink/pic/data/14/points.json",
+    "region": [
+      "长野县",
+      "冲绳县 / 沖繩縣",
+      "国头郡"
+    ]
   },
   "140": {
     "name": "マブラヴ",
@@ -65421,7 +65716,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/140/points.json"
+    "inform": "https://image.xinu.ink/pic/data/140/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1400": {
     "name": "勇者と彼女に花束を \"Yuusya To Kanojyoni\"",
@@ -65455,7 +65753,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1402/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1402/points.json",
+    "region": [
+      "兵库县/兵庫縣"
+    ]
   },
   "1403": {
     "name": "彼女たちの流儀 \"Kanojyo Tachi no Ryugi\"",
@@ -65481,7 +65782,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1404/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1404/points.json",
+    "region": [
+      "山梨县"
+    ]
   },
   "1405": {
     "name": "夜明け前より瑠璃色な \"Yoake Mae yori Ruriiro na\"",
@@ -65526,7 +65830,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1405/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1405/points.json",
+    "region": [
+      "山口县",
+      "香川县",
+      "宫城县",
+      "福冈县"
+    ]
   },
   "1406": {
     "name": "愛・天地無用！ \"Ai Tenchi Muyo!\"",
@@ -65639,7 +65949,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/141/points.json"
+    "inform": "https://image.xinu.ink/pic/data/141/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1410": {
     "name": "アニメで分かる心療内科 \"Comical Psychosomatic Medicine\"",
@@ -65739,7 +66052,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/142/points.json"
+    "inform": "https://image.xinu.ink/pic/data/142/points.json",
+    "region": [
+      "庐山市"
+    ]
   },
   "1420": {
     "name": "聖剣使いの禁呪詠唱 \"World Break: Aria of Curse for a Holy Swordsman\"",
@@ -65840,7 +66156,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/143/points.json"
+    "inform": "https://image.xinu.ink/pic/data/143/points.json",
+    "region": [
+      "Bernalillo County"
+    ]
   },
   "1430": {
     "name": "",
@@ -66375,7 +66694,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/144/points.json"
+    "inform": "https://image.xinu.ink/pic/data/144/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1440": {
     "name": "英国一家、日本を食べる \"Eikoku Ikka, Nihon o Taberu\"",
@@ -66418,7 +66740,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1442/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1442/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1443": {
     "name": "終わりのセラフ \"Seraph of the End\"",
@@ -66737,7 +67062,17 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/145/points.json"
+    "inform": "https://image.xinu.ink/pic/data/145/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "渡岛综合振兴局",
+      "千叶县",
+      "长崎县",
+      "京都府",
+      "栃木縣",
+      "埼玉县"
+    ]
   },
   "1450": {
     "name": "シドニアの騎士 第九惑星戦役 \"Knights of Sidonia\"",
@@ -66789,7 +67124,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1452/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1452/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1453": {
     "name": "聖闘士星矢 - 黄金魂 soul of gold- \"Saint Seiya\"",
@@ -66855,7 +67193,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1459/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1459/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "146": {
     "name": "俺の妹がこんなに可愛いわけがない",
@@ -67104,7 +67445,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.634299%2C139.792072&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/146/points.json"
+    "inform": "https://image.xinu.ink/pic/data/146/points.json",
+    "region": [
+      "千叶县",
+      "东京都/東京都"
+    ]
   },
   "1460": {
     "name": "トランスフォーマーアドベンチャー \"Transformers:Robots In Disguise\"",
@@ -68047,7 +68392,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1462/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1462/points.json",
+    "region": [
+      "兵库县/兵庫縣",
+      "长野县",
+      "京都府"
+    ]
   },
   "1463": {
     "name": "ナルどマ \"Naru do ma\"",
@@ -68571,7 +68921,16 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/147/points.json"
+    "inform": "https://image.xinu.ink/pic/data/147/points.json",
+    "region": [
+      "冲绳县 / 沖繩縣",
+      "京都府",
+      "东京都/東京都",
+      "神奈川縣",
+      "奈良縣",
+      "賀茂郡",
+      "八重山郡"
+    ]
   },
   "1470": {
     "name": "響け！ユーフォニアム \"Hibike! Euphonium\"",
@@ -68850,7 +69209,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1470/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1470/points.json",
+    "region": [
+      "京都府",
+      "爱知县"
+    ]
   },
   "1471": {
     "name": "プラスティック･メモリーズ \"Plastic Memories\"",
@@ -69110,7 +69473,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/148/points.json"
+    "inform": "https://image.xinu.ink/pic/data/148/points.json",
+    "region": [
+      "神奈川縣",
+      "Roma Capitale",
+      "肯特郡"
+    ]
   },
   "1480": {
     "name": "ミリオンドール \"Million Doll\"",
@@ -69339,7 +69707,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/149/points.json"
+    "inform": "https://image.xinu.ink/pic/data/149/points.json",
+    "region": [
+      "千叶县",
+      "东京都/東京都"
+    ]
   },
   "1490": {
     "name": "",
@@ -69502,7 +69874,14 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=53.280052%2C-3.825598&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/15/points.json"
+    "inform": "https://image.xinu.ink/pic/data/15/points.json",
+    "region": [
+      "格温内斯",
+      "新北市",
+      "ស្រុកស្វាយលើ",
+      "Torfaen",
+      "康威郡自治市"
+    ]
   },
   "150": {
     "name": "君に届け",
@@ -69522,7 +69901,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/150/points.json"
+    "inform": "https://image.xinu.ink/pic/data/150/points.json",
+    "region": [
+      "国头郡"
+    ]
   },
   "1500": {
     "name": "小森さんは断れない! \"Komori-san Can't Decline\"",
@@ -69617,7 +69999,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1504/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1504/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1505": {
     "name": "探偵チームKZ事件ノート \"Tantei Team KZ Jiken Note\"",
@@ -70127,7 +70512,14 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1508/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1508/points.json",
+    "region": [
+      "上川綜合振興局",
+      "增毛郡",
+      "上川郡(石狩國)",
+      "中川郡(十勝國)",
+      "空知郡"
+    ]
   },
   "1509": {
     "name": "対魔導学園35試験小隊 \"Anti-Magic Academy: The 35th Test Platoon\"",
@@ -70295,7 +70687,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/151/points.json"
+    "inform": "https://image.xinu.ink/pic/data/151/points.json",
+    "region": [
+      "栃木縣",
+      "Uusimaa",
+      "足柄下郡"
+    ]
   },
   "1510": {
     "name": "すべてがFになる \"Subete ga F ni Naru\"",
@@ -70358,7 +70755,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1510/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1510/points.json",
+    "region": [
+      "爱知县",
+      "知多郡"
+    ]
   },
   "1511": {
     "name": "VALKYRIE DRIVE",
@@ -70838,7 +71239,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1517/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1517/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "1518": {
     "name": "この素晴らしい世界に祝福を! \"Kono Subarashii Sekai ni Shukufuku o!\"",
@@ -70875,7 +71279,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/152/points.json"
+    "inform": "https://image.xinu.ink/pic/data/152/points.json",
+    "region": [
+      "山梨县"
+    ]
   },
   "1520": {
     "name": "アクティヴレイド -機動強襲室第八係- \"Active Raid\"",
@@ -71134,7 +71541,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1522/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1522/points.json",
+    "region": [
+      "膽振綜合振興局",
+      "石狩振興局"
+    ]
   },
   "1523": {
     "name": "おじさんとマシュマロ \"Ojisan to Marshmallow\"",
@@ -71231,7 +71642,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1525/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1525/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "1526": {
     "name": "ももくり \"Momokuri\"",
@@ -71411,7 +71825,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1526/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1526/points.json",
+    "region": [
+      "茨城县"
+    ]
   },
   "1527": {
     "name": "おしえて! ギャル子ちゃん \"Please Tell Me! Galko-chan\"",
@@ -71456,7 +71873,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/153/points.json"
+    "inform": "https://image.xinu.ink/pic/data/153/points.json",
+    "region": [
+      "Rālik"
+    ]
   },
   "1530": {
     "name": "霊剣山 星屑たちの宴 \"Reikenzan: Hoshikuzu-tachi no Utage\"",
@@ -71557,7 +71977,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/154/points.json"
+    "inform": "https://image.xinu.ink/pic/data/154/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1540": {
     "name": "灰と幻想のグリムガル \"Grimgar of Fantasy and Ash\"",
@@ -71668,7 +72091,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/155/points.json"
+    "inform": "https://image.xinu.ink/pic/data/155/points.json",
+    "region": [
+      "Venezia",
+      "东京都/東京都"
+    ]
   },
   "1550": {
     "name": "ねこねこ日本史 \"Neko Neko Nihonshi\"",
@@ -72059,7 +72486,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1555/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1555/points.json",
+    "region": [
+      "富山縣",
+      "中新川郡"
+    ]
   },
   "1556": {
     "name": "ネトゲの嫁は女の子じゃないと思った？ \"Netoge no Yome wa Onna no Ko Janai to Omotta?\"",
@@ -72086,7 +72517,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1556/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1556/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "1557": {
     "name": "甲鉄城のカバネリ \"Kabaneri of the Iron Fortress\"",
@@ -72148,7 +72582,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1558/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1558/points.json",
+    "region": [
+      "大阪府"
+    ]
   },
   "1559": {
     "name": "宇宙パトロールルル子 \"Space Patrol Luluco\"",
@@ -72204,7 +72641,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/156/points.json"
+    "inform": "https://image.xinu.ink/pic/data/156/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1560": {
     "name": "迷家-マヨイガ- \"Mayoiga\"",
@@ -72258,7 +72698,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1560/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1560/points.json",
+    "region": [
+      "山梨县",
+      "南都留郡"
+    ]
   },
   "1561": {
     "name": "ビッグオーダー \"Big Order\"",
@@ -72364,7 +72808,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1563/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1563/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "1564": {
     "name": "ハイスクール・フリート \"High School Fleet\"",
@@ -72445,7 +72892,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1564/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1564/points.json",
+    "region": [
+      "神奈川縣",
+      "广岛县"
+    ]
   },
   "1565": {
     "name": "ふらいんぐうぃっち \"Flying Witch\"",
@@ -72877,7 +73328,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1565/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1565/points.json",
+    "region": [
+      "青森县",
+      "中津輕郡",
+      "神奈川縣"
+    ]
   },
   "1566": {
     "name": "僕のヒーローアカデミア \"My Hero Academia\"",
@@ -72939,7 +73395,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1567/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1567/points.json",
+    "region": [
+      "宫城县"
+    ]
   },
   "1568": {
     "name": "とんかつDJアゲ太郎 \"Tonkatsu DJ Agetaro\"",
@@ -72974,7 +73433,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1569/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1569/points.json",
+    "region": [
+      "神奈川縣",
+      "东京都/東京都"
+    ]
   },
   "157": {
     "name": "ヘタリア World Series 第4期",
@@ -72995,7 +73458,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/157/points.json"
+    "inform": "https://image.xinu.ink/pic/data/157/points.json",
+    "region": [
+      "克拉科夫"
+    ]
   },
   "1570": {
     "name": "Re:ゼロから始める異世界生活 \"Re:Zero kara Hajimeru Isekai Seikatsu\"",
@@ -73013,7 +73479,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1570/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1570/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "1571": {
     "name": "あんハピ♪ \"Unhappy Go Lucky!\"",
@@ -73452,7 +73921,15 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/158/points.json"
+    "inform": "https://image.xinu.ink/pic/data/158/points.json",
+    "region": [
+      "群马县",
+      "栃木縣",
+      "甘樂郡",
+      "北佐久郡",
+      "北羣馬郡",
+      "新潟县"
+    ]
   },
   "1580": {
     "name": "チェインクロニクル \"Chain Chronicle\"",
@@ -73882,7 +74359,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1582/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1582/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县"
+    ]
   },
   "1583": {
     "name": "心が叫びたがってるんだ。 \"The Anthem of the Heart\"",
@@ -74044,7 +74525,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1583/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1583/points.json",
+    "region": [
+      "埼玉县",
+      "秩父郡"
+    ]
   },
   "1584": {
     "name": "斉木楠雄のΨ難 \"Saiki Kusuo no Psi-nan\"",
@@ -74841,7 +75326,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1mHDUGTAuZLhYdZTvPSY8GgfgvpAM9ouj&ll=34.339952%2C132.928406&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/159/points.json"
+    "inform": "https://image.xinu.ink/pic/data/159/points.json",
+    "region": [
+      "广岛县",
+      "神奈川縣"
+    ]
   },
   "1590": {
     "name": "腐男子高校生活 \"Fudanshi Koko Seikatsu\"",
@@ -74959,7 +75448,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1598/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1598/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "1599": {
     "name": "レガリア The Three Sacred Stars \"Regalia: The Three Sacred Stars\"",
@@ -75015,7 +75507,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/16/points.json"
+    "inform": "https://image.xinu.ink/pic/data/16/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "160": {
     "name": "探偵オペラ ミルキィホームズ",
@@ -75116,7 +75611,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/160/points.json"
+    "inform": "https://image.xinu.ink/pic/data/160/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1600": {
     "name": "はんだくん \"Handa-kun\"",
@@ -75167,7 +75665,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1603/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1603/points.json",
+    "region": [
+      "大分县"
+    ]
   },
   "1604": {
     "name": "Thunderbolt Fantasy 東離劍遊紀 \"Thunderbolt Fantasy Tourikenyuuki\"",
@@ -75382,7 +75883,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/161/points.json"
+    "inform": "https://image.xinu.ink/pic/data/161/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1610": {
     "name": "DAYS",
@@ -75565,7 +76069,15 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1616/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1616/points.json",
+    "region": [
+      "东京都/東京都",
+      "岐阜县",
+      "爱知县",
+      "广岛县",
+      "秋田县",
+      "千叶县"
+    ]
   },
   "1617": {
     "name": "となりのトトロ \"My Neighbor Totoro\"",
@@ -75583,7 +76095,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1617/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1617/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "1618": {
     "name": "平成狸合戦ぽんぽこ \"Pom Poko\"",
@@ -75610,7 +76125,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1618/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1618/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1619": {
     "name": "おもひでぽろぽろ \"Only Yesterday\"",
@@ -75709,7 +76227,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1619/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1619/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "162": {
     "name": "クレヨンしんちゃん 嵐を呼ぶ モーレツ!オトナ帝国の逆襲",
@@ -75730,7 +76251,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/162/points.json"
+    "inform": "https://image.xinu.ink/pic/data/162/points.json",
+    "region": [
+      "大阪府"
+    ]
   },
   "1620": {
     "name": "ポケモンGO \"Pokemon GO\"",
@@ -75773,7 +76297,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1622/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1622/points.json",
+    "region": [
+      "格温内斯",
+      "ស្រុកស្វាយលើ"
+    ]
   },
   "1623": {
     "name": "もののけ姫 \"Princess Mononoke\"",
@@ -75816,7 +76344,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1625/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1625/points.json",
+    "region": [
+      "新北市",
+      "吾妻郡"
+    ]
   },
   "1626": {
     "name": "ひるね姫 〜知らないワタシの物語〜",
@@ -75842,7 +76374,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1627/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1627/points.json",
+    "region": [
+      "新潟县"
+    ]
   },
   "1628": {
     "name": "ステラのまほう \"Magic of Stella\"",
@@ -75909,7 +76444,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.964826%2C138.467581&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/163/points.json"
+    "inform": "https://image.xinu.ink/pic/data/163/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "1630": {
     "name": "灼熱の卓球娘 \"Shakunetsu no Takkyū Musume\"",
@@ -76180,7 +76718,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1638/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1638/points.json",
+    "region": [
+      "佐贺县",
+      "福冈县",
+      "东京都/東京都"
+    ]
   },
   "1639": {
     "name": "フリップフラッパーズ \"Flip Flappers\"",
@@ -76248,7 +76791,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/164/points.json"
+    "inform": "https://image.xinu.ink/pic/data/164/points.json",
+    "region": [
+      "黄浦区",
+      "浦东新区",
+      "千叶县"
+    ]
   },
   "1640": {
     "name": "競女!!!!!!!! \"Keijo!!!!!!!!\"",
@@ -76374,7 +76922,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1640/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1640/points.json",
+    "region": [
+      "京都府",
+      "兵库县/兵庫縣"
+    ]
   },
   "1641": {
     "name": "ALL OUT!!",
@@ -76821,7 +77373,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1644/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1644/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1645": {
     "name": "舟を編む \"The Great Passage\"",
@@ -77273,7 +77828,29 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1V_QTZIKzSeKg5ha1E-od0E_pZAI&ll=52.525099%2C13.369417&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/165/points.json"
+    "inform": "https://image.xinu.ink/pic/data/165/points.json",
+    "region": [
+      "东京都/東京都",
+      "巴黎",
+      "神奈川縣",
+      "迪拜酋长国",
+      "埼玉县",
+      "科隆",
+      "静冈县/靜岡縣",
+      "中西區",
+      "美茵河畔法蘭克福",
+      "群马县",
+      "Região Metropolitana de Curitiba",
+      "石狩振興局",
+      "中区",
+      "浦东新区",
+      "龍山區",
+      "臺北市",
+      "开罗",
+      "宫城县",
+      "新河谷省",
+      "柏林"
+    ]
   },
   "1650": {
     "name": "終末のイゼッタ \"Shūmatsu no Izetta\"",
@@ -77335,7 +77912,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1651/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1651/points.json",
+    "region": [
+      "石狩振興局"
+    ]
   },
   "1652": {
     "name": "ViVid Strike!",
@@ -78377,7 +78957,19 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1654/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1654/points.json",
+    "region": [
+      "神奈川縣",
+      "广岛县",
+      "栃木縣",
+      "爱媛县",
+      "东京都/東京都",
+      "埼玉县",
+      "比企郡",
+      "吾妻郡",
+      "下高井郡",
+      "入間郡"
+    ]
   },
   "1655": {
     "name": "Occultic;Nine",
@@ -78511,7 +79103,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1656/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1656/points.json",
+    "region": [
+      "香川县"
+    ]
   },
   "1657": {
     "name": "マジきゅんっ!ルネッサンス \"Magic-kyun Renaissance\"",
@@ -78554,7 +79149,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/166/points.json"
+    "inform": "https://image.xinu.ink/pic/data/166/points.json",
+    "region": [
+      "冈山县"
+    ]
   },
   "1660": {
     "name": "フリージング \"Freezing\"",
@@ -78606,7 +79204,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1662/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1662/points.json",
+    "region": [
+      "釧路綜合振興局",
+      "渡岛综合振兴局"
+    ]
   },
   "1663": {
     "name": "かまいたちの夜 \"Banshee's Last Cry\"",
@@ -78677,7 +79279,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1664/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1664/points.json",
+    "region": [
+      "Milano"
+    ]
   },
   "1665": {
     "name": "装神少女まとい \"Matoi the Sacred Slayer\"",
@@ -78839,7 +79444,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1665/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1665/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "千叶县"
+    ]
   },
   "1666": {
     "name": "ポッピンQ \"Pop in Q\"",
@@ -78946,7 +79556,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1667/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1667/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1668": {
     "name": "あそびにいくヨ! \"Asobi ni Iku yo!\"",
@@ -78983,7 +79596,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/167/points.json"
+    "inform": "https://image.xinu.ink/pic/data/167/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1670": {
     "name": "げんしけん \"Genshiken\"",
@@ -79234,7 +79850,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1671/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1671/points.json",
+    "region": [
+      "大阪府"
+    ]
   },
   "1672": {
     "name": "クレヨンしんちゃん \"Crayon Shin-chan\"",
@@ -79426,7 +80045,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/168/points.json"
+    "inform": "https://image.xinu.ink/pic/data/168/points.json",
+    "region": [
+      "山形县"
+    ]
   },
   "1680": {
     "name": "風の谷のナウシカ \"Nausicaä of the Valley of the Wind\"",
@@ -79723,7 +80345,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1689/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1689/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "169": {
     "name": "日常",
@@ -79941,7 +80566,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/169/points.json"
+    "inform": "https://image.xinu.ink/pic/data/169/points.json",
+    "region": [
+      "群马县",
+      "东京都/東京都"
+    ]
   },
   "1690": {
     "name": "ガヴリールドロップアウト \"Gabriel Dropout\"",
@@ -80013,7 +80642,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1690/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1690/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "1691": {
     "name": "ちるらん にぶんの壱 \"chiruran\"",
@@ -80549,7 +81181,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1695/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1695/points.json",
+    "region": [
+      "大阪府",
+      "兵库县/兵庫縣",
+      "南河內郡"
+    ]
   },
   "1696": {
     "name": "けものフレンズ \"KEMONO FRIENDS\"",
@@ -80693,7 +81330,17 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1696/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1696/points.json",
+    "region": [
+      "南埼玉郡",
+      "东京都/東京都",
+      "大阪府",
+      "新潟县",
+      "那須郡",
+      "神奈川縣",
+      "爱知县",
+      "宫城县"
+    ]
   },
   "1697": {
     "name": "AKIBA'S TRIP -THE ANIMATION-",
@@ -80778,7 +81425,11 @@
         "originLink": "https://seichi-junrei.info/3108/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/17/points.json"
+    "inform": "https://image.xinu.ink/pic/data/17/points.json",
+    "region": [
+      "埼玉县",
+      "东京都/東京都"
+    ]
   },
   "170": {
     "name": "天神乱漫 -LUCKY or UNLUCKY!?-",
@@ -80869,7 +81520,12 @@
         "originLink": "https://www.bilibili.com/read/cv39264029/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/170/points.json"
+    "inform": "https://image.xinu.ink/pic/data/170/points.json",
+    "region": [
+      "兵库县/兵庫縣",
+      "大阪府",
+      "东京都/東京都"
+    ]
   },
   "1700": {
     "name": "小林さんちのメイドラゴン \"Miss Kobayashi's Dragon Maid\"",
@@ -80950,7 +81606,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1700/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1700/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1701": {
     "name": "CHAOS;CHILD",
@@ -81216,7 +81875,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1705/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1705/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "1706": {
     "name": "幼女戦記 \"Yōjo Senki\"",
@@ -81314,7 +81977,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1707/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1707/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "1708": {
     "name": "スクールガールストライカーズ \"Schoolgirl Strikers\"",
@@ -81491,7 +82158,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1gsdJOds6VdMF_Zh0MJGbra0DwNU&ll=35.672315%2C139.479954&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/171/points.json"
+    "inform": "https://image.xinu.ink/pic/data/171/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1710": {
     "name": "BanG Dream!",
@@ -81575,7 +82245,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1716/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1716/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1717": {
     "name": "聖樹のパン",
@@ -81719,7 +82392,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/172/points.json"
+    "inform": "https://image.xinu.ink/pic/data/172/points.json",
+    "region": [
+      "巴黎"
+    ]
   },
   "1720": {
     "name": "ロクでなし魔術講師と禁忌教典 \"Akashic Records of Bastard Magic Instructor\"",
@@ -81874,7 +82550,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1727/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1727/points.json",
+    "region": [
+      "富山縣",
+      "石川县"
+    ]
   },
   "1728": {
     "name": "武装少女マキャヴェリズム \"Armed Girl's Machiavellism\"",
@@ -82048,7 +82728,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/173/points.json"
+    "inform": "https://image.xinu.ink/pic/data/173/points.json",
+    "region": [
+      "爱知县",
+      "岐阜县",
+      "大阪府"
+    ]
   },
   "1730": {
     "name": "月がきれい \"Tsuki ga Kirei\"",
@@ -82354,7 +83039,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1730/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1730/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "1731": {
     "name": "クロックワーク・プラネット \"Clockwork Planet\"",
@@ -82582,7 +83270,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.699519%2C139.772725&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/174/points.json"
+    "inform": "https://image.xinu.ink/pic/data/174/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1740": {
     "name": "機動戦士ガンダム サンダーボルト \"Mobile Suit Gundam Thunderbolt\"",
@@ -82634,7 +83325,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1742/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1742/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1743": {
     "name": "アトム ザ・ビギニング \"Atom: The Beginning\"",
@@ -82687,7 +83381,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1744/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1744/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1745": {
     "name": "つぐもも \"Tsugumomo\"",
@@ -83750,7 +84447,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/175/points.json"
+    "inform": "https://image.xinu.ink/pic/data/175/points.json",
+    "region": [
+      "埼玉县",
+      "秩父郡"
+    ]
   },
   "1750": {
     "name": "宇宙海賊ミトの大冒険 \"Space Pirate Mito\"",
@@ -83912,7 +84613,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1750/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1750/points.json",
+    "region": [
+      "栃木縣",
+      "神奈川縣"
+    ]
   },
   "1751": {
     "name": "妖怪アパートの幽雅な日常 \"Elegant Yokai Apartment Life\"",
@@ -84007,7 +84712,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/176/points.json"
+    "inform": "https://image.xinu.ink/pic/data/176/points.json",
+    "region": [
+      "岐阜县"
+    ]
   },
   "1760": {
     "name": "魔法陣グルグル",
@@ -84214,7 +84922,14 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/177/points.json"
+    "inform": "https://image.xinu.ink/pic/data/177/points.json",
+    "region": [
+      "爱知县",
+      "兵库县/兵庫縣",
+      "Landkreis Ostallgäu",
+      "埼玉县",
+      "神奈川縣"
+    ]
   },
   "1770": {
     "name": "コンビニカレシ \"Convenience Store Boy Friends\"",
@@ -84329,7 +85044,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1np61pFWxkTJRqf9kc_oTxVruidKiwOA&ll=35.45816%2C139.636196&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/178/points.json"
+    "inform": "https://image.xinu.ink/pic/data/178/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1780": {
     "name": "ひとりじめマイヒーロー",
@@ -84633,7 +85351,17 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/179/points.json"
+    "inform": "https://image.xinu.ink/pic/data/179/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "上益城郡",
+      "玉名郡",
+      "延庆区",
+      "New York County",
+      "莫斯科",
+      "Barcelonès"
+    ]
   },
   "1790": {
     "name": "りゅうおうのおしごと!",
@@ -84768,7 +85496,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1790/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1790/points.json",
+    "region": [
+      "大阪府"
+    ]
   },
   "1791": {
     "name": "宇宙よりも遠い場所 \"A Place Further than the Universe\"",
@@ -85002,7 +85733,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1791/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1791/points.json",
+    "region": [
+      "群马县",
+      "埼玉县"
+    ]
   },
   "1792": {
     "name": "ラーメン大好き小泉さん",
@@ -85469,7 +86204,16 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1793/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1793/points.json",
+    "region": [
+      "南巨摩郡",
+      "静冈县/靜岡縣",
+      "长野县",
+      "山梨县",
+      "諏訪郡",
+      "西八代郡",
+      "上伊那郡"
+    ]
   },
   "1794": {
     "name": "たくのみ。",
@@ -86187,7 +86931,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1796/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1796/points.json",
+    "region": [
+      "福冈县",
+      "糟屋郡"
+    ]
   },
   "1797": {
     "name": "お前はまだグンマを知らない \"Omae wa Mada Gunma o Shiranai\"",
@@ -86233,7 +86981,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1DXh_kFRBgW68pylf2TH6GyIg-f4&ll=-37.818023%2C144.968096&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/18/points.json"
+    "inform": "https://image.xinu.ink/pic/data/18/points.json",
+    "region": [
+      "City of Melbourne"
+    ]
   },
   "180": {
     "name": "THE iDOLM@STER",
@@ -86559,7 +87310,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=16wFstaizPTmlp-FPhKkPGH8yFbs&ll=35.62939%2C139.774089&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/180/points.json"
+    "inform": "https://image.xinu.ink/pic/data/180/points.json",
+    "region": [
+      "东京都/東京都",
+      "中郡",
+      "京都府"
+    ]
   },
   "1800": {
     "name": "宇宙戦艦ティラミス \"Space Battleship Tiramisu\"",
@@ -86763,7 +87519,15 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1803/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1803/points.json",
+    "region": [
+      "鄂霍茨克综合振兴局",
+      "虻田郡",
+      "石狩振興局",
+      "樺戶郡",
+      "根室振兴局",
+      "上川綜合振興局"
+    ]
   },
   "1804": {
     "name": "蒼天の拳 REGENESIS \"Fist of the Blue Sky\"",
@@ -86834,7 +87598,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/181/points.json"
+    "inform": "https://image.xinu.ink/pic/data/181/points.json",
+    "region": [
+      "Municipio Gran Sabana"
+    ]
   },
   "1810": {
     "name": "ルパン三世 PART5 \"Lupin the Third\"",
@@ -86876,7 +87643,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1813/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1813/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1814": {
     "name": "ありすorありす \"Alice or Alice\"",
@@ -86945,7 +87715,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/182/points.json"
+    "inform": "https://image.xinu.ink/pic/data/182/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1820": {
     "name": "こみっくがーるず \"Comic Girls\"",
@@ -86999,7 +87772,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1820/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1820/points.json",
+    "region": [
+      "福岛县",
+      "东京都/東京都"
+    ]
   },
   "1821": {
     "name": "メガロボクス",
@@ -87363,7 +88140,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1826/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1826/points.json",
+    "region": [
+      "神奈川縣",
+      "高市郡",
+      "东京都/東京都"
+    ]
   },
   "1827": {
     "name": "グランクレスト戦記 \"Record of Grancrest War\"",
@@ -87941,7 +88723,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/183/points.json"
+    "inform": "https://image.xinu.ink/pic/data/183/points.json",
+    "region": [
+      "大倫敦",
+      "京都府",
+      "千叶县",
+      "East Sussex"
+    ]
   },
   "1830": {
     "name": "BEATLESS",
@@ -88042,7 +88830,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/184/points.json"
+    "inform": "https://image.xinu.ink/pic/data/184/points.json",
+    "region": [
+      "阿苏郡"
+    ]
   },
   "1840": {
     "name": "七つの大罪 \"The Seven Deadly Sins\"",
@@ -88143,7 +88934,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1847/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1847/points.json",
+    "region": [
+      "十勝綜合振興局"
+    ]
   },
   "1848": {
     "name": "PERSONA5 the Animation",
@@ -88179,7 +88973,10 @@
         "originLink": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99/%E5%88%86%E6%9E%90%E8%80%83%E6%8D%AE"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/185/points.json"
+    "inform": "https://image.xinu.ink/pic/data/185/points.json",
+    "region": [
+      "臺北市"
+    ]
   },
   "1850": {
     "name": "カードキャプターさくら クリアカード編 \"Cardcaptor Sakura: Clear Card\"",
@@ -88359,7 +89156,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/186/points.json"
+    "inform": "https://image.xinu.ink/pic/data/186/points.json",
+    "region": [
+      "爱知县",
+      "海部郡"
+    ]
   },
   "1860": {
     "name": "Just Because!",
@@ -88440,7 +89241,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1860/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1860/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "1861": {
     "name": "へんたつ \"\"",
@@ -88557,7 +89361,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1861/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1861/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1862": {
     "name": "ISLAND",
@@ -88620,7 +89427,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1862/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1862/points.json",
+    "region": [
+      "大島支廳"
+    ]
   },
   "1863": {
     "name": "妹さえいればいい。 \"A Sister's All You Need\"",
@@ -88701,7 +89511,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1863/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1863/points.json",
+    "region": [
+      "东京都/東京都",
+      "石狩振興局"
+    ]
   },
   "1864": {
     "name": "君の膵臓をたべたい \"I Want to Eat Your Pancreas\"",
@@ -88827,7 +89641,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1864/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1864/points.json",
+    "region": [
+      "富山縣",
+      "福冈县",
+      "福井縣"
+    ]
   },
   "1865": {
     "name": "",
@@ -89096,7 +89915,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1zv3z7n_V-PmJ96Gu6l1V3wtEYfoXjs4&ll=35.972049%2C138.460186&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/187/points.json"
+    "inform": "https://image.xinu.ink/pic/data/187/points.json",
+    "region": [
+      "虻田郡",
+      "膽振綜合振興局",
+      "南佐久郡"
+    ]
   },
   "1870": {
     "name": "",
@@ -89359,7 +90183,16 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/188/points.json"
+    "inform": "https://image.xinu.ink/pic/data/188/points.json",
+    "region": [
+      "香川郡",
+      "冈山县",
+      "小豆郡",
+      "龜田郡",
+      "栃木縣",
+      "京都府",
+      "广岛县"
+    ]
   },
   "1880": {
     "name": "",
@@ -89460,7 +90293,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/189/points.json"
+    "inform": "https://image.xinu.ink/pic/data/189/points.json",
+    "region": [
+      "虻田郡"
+    ]
   },
   "1890": {
     "name": "",
@@ -89559,7 +90395,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/19/points.json"
+    "inform": "https://image.xinu.ink/pic/data/19/points.json",
+    "region": [
+      "Splitsko-dalmatinska županija"
+    ]
   },
   "190": {
     "name": "ロウきゅーぶ！",
@@ -89689,7 +90528,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1AE9-U5DRO64CqxDAE05XhxR-EVY&ll=35.784471%2C139.900138&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/190/points.json"
+    "inform": "https://image.xinu.ink/pic/data/190/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "1900": {
     "name": "",
@@ -90060,7 +90902,12 @@
         "originLink": "https://loca.ash.jp/info/1994/d199101_tokyolove.htm"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/191/points.json"
+    "inform": "https://image.xinu.ink/pic/data/191/points.json",
+    "region": [
+      "东京都/東京都",
+      "爱媛县",
+      "上浮穴郡"
+    ]
   },
   "1910": {
     "name": "",
@@ -90159,7 +91006,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/192/points.json"
+    "inform": "https://image.xinu.ink/pic/data/192/points.json",
+    "region": [
+      "滋賀县"
+    ]
   },
   "1920": {
     "name": "",
@@ -90523,7 +91373,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/193/points.json"
+    "inform": "https://image.xinu.ink/pic/data/193/points.json",
+    "region": [
+      "北安曇郡"
+    ]
   },
   "1930": {
     "name": "",
@@ -91507,7 +92360,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/194/points.json"
+    "inform": "https://image.xinu.ink/pic/data/194/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "千叶县"
+    ]
   },
   "1940": {
     "name": "",
@@ -91710,7 +92568,13 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/195/points.json"
+    "inform": "https://image.xinu.ink/pic/data/195/points.json",
+    "region": [
+      "永定区",
+      "南靖县",
+      "平和县",
+      "诏安县"
+    ]
   },
   "1950": {
     "name": "アイアン・ジャイアント",
@@ -91821,7 +92685,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/196/points.json"
+    "inform": "https://image.xinu.ink/pic/data/196/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "1960": {
     "name": "愛してるぜベイベ★★",
@@ -91922,7 +92789,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=17KvzgG405QeAdJLDbQPnNtK0qeU&ll=35.809718%2C139.702419&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/197/points.json"
+    "inform": "https://image.xinu.ink/pic/data/197/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "1970": {
     "name": "アイドルプロジェクト",
@@ -92139,7 +93009,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/1978/points.json"
+    "inform": "https://image.xinu.ink/pic/data/1978/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1979": {
     "name": "アイドルマスターシンデレラガールズ劇場 3rd SEASON",
@@ -92167,7 +93040,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/198/points.json"
+    "inform": "https://image.xinu.ink/pic/data/198/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "1980": {
     "name": "愛の若草物語",
@@ -92268,7 +93144,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/199/points.json"
+    "inform": "https://image.xinu.ink/pic/data/199/points.json",
+    "region": [
+      "Região Metropolitana do Rio de Janeiro"
+    ]
   },
   "1990": {
     "name": "青鬼 THE ANIMATION",
@@ -92446,7 +93325,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.636615%2C140.082465&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/2/points.json"
+    "inform": "https://image.xinu.ink/pic/data/2/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县"
+    ]
   },
   "20": {
     "name": "true tears",
@@ -92782,7 +93665,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=131uir-dAckF7kiBgJTJlMBexm__RwA_n&ll=36.515536%2C136.901928&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/20/points.json"
+    "inform": "https://image.xinu.ink/pic/data/20/points.json",
+    "region": [
+      "富山縣"
+    ]
   },
   "200": {
     "name": "宙のまにまに",
@@ -92890,7 +93776,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/200/points.json"
+    "inform": "https://image.xinu.ink/pic/data/200/points.json",
+    "region": [
+      "釧路綜合振興局",
+      "耶麻郡",
+      "东京都/東京都"
+    ]
   },
   "2000": {
     "name": "青の6号",
@@ -93015,7 +93906,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/201/points.json"
+    "inform": "https://image.xinu.ink/pic/data/201/points.json",
+    "region": [
+      "吉薩省",
+      "巴黎",
+      "莫斯科"
+    ]
   },
   "2010": {
     "name": "あかね色に染まる坂 ハードコア OVAですよっにいさん!!",
@@ -93461,7 +94357,14 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/202/points.json"
+    "inform": "https://image.xinu.ink/pic/data/202/points.json",
+    "region": [
+      "群马县",
+      "神奈川縣",
+      "岐阜县",
+      "东京都/東京都",
+      "爱知县"
+    ]
   },
   "2020": {
     "name": "アキハバラ電脳組",
@@ -93644,7 +94547,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/203/points.json"
+    "inform": "https://image.xinu.ink/pic/data/203/points.json",
+    "region": [
+      "Venezia"
+    ]
   },
   "2030": {
     "name": "悪魔くん",
@@ -93758,7 +94664,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/204/points.json"
+    "inform": "https://image.xinu.ink/pic/data/204/points.json",
+    "region": [
+      "滋賀县"
+    ]
   },
   "2040": {
     "name": "あさっての方向。",
@@ -94627,7 +95536,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1yOgV1TSTQIyjy_0rwnB7eOfbjKI&ll=35.705382%2C139.616253&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/205/points.json"
+    "inform": "https://image.xinu.ink/pic/data/205/points.json",
+    "region": [
+      "东京都/東京都",
+      "巴黎"
+    ]
   },
   "2050": {
     "name": "あじむ ?海岸物語?",
@@ -94781,7 +95694,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/206/points.json"
+    "inform": "https://image.xinu.ink/pic/data/206/points.json",
+    "region": [
+      "埼玉县",
+      "东京都/東京都"
+    ]
   },
   "2060": {
     "name": "アスラクライン2",
@@ -94894,7 +95811,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.624639%2C139.751804&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/207/points.json"
+    "inform": "https://image.xinu.ink/pic/data/207/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2070": {
     "name": "Appleseed Alpha",
@@ -95029,7 +95949,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/2079/points.json"
+    "inform": "https://image.xinu.ink/pic/data/2079/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "208": {
     "name": "Another",
@@ -95120,7 +96043,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/208/points.json"
+    "inform": "https://image.xinu.ink/pic/data/208/points.json",
+    "region": [
+      "富山縣"
+    ]
   },
   "2080": {
     "name": "アニマトリックス",
@@ -95234,7 +96160,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/209/points.json"
+    "inform": "https://image.xinu.ink/pic/data/209/points.json",
+    "region": [
+      "群马县",
+      "虻田郡"
+    ]
   },
   "2090": {
     "name": "AFRO SAMURAI:RESRRECTION - アフロサムライ：レザレクション -",
@@ -95335,7 +96265,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1dwCB8lXm3iJBmgBMg7asS5CDZFA&ll=30.363767%2C130.576029&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/21/points.json"
+    "inform": "https://image.xinu.ink/pic/data/21/points.json",
+    "region": [
+      "熊毛郡"
+    ]
   },
   "210": {
     "name": "輪廻のラグランジェ",
@@ -95422,7 +96355,10 @@
         "originLink": "http://lag-rin.kamonavi.jp/guide.html"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/210/points.json"
+    "inform": "https://image.xinu.ink/pic/data/210/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "2100": {
     "name": "あまんちゅ！～あどばんす～",
@@ -95704,7 +96640,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/211/points.json"
+    "inform": "https://image.xinu.ink/pic/data/211/points.json",
+    "region": [
+      "东京都/東京都",
+      "下莱茵省",
+      "埼玉县"
+    ]
   },
   "2110": {
     "name": "あらしのよるに",
@@ -95990,7 +96931,14 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/212/points.json"
+    "inform": "https://image.xinu.ink/pic/data/212/points.json",
+    "region": [
+      "山形县",
+      "西置賜郡",
+      "秋田县",
+      "東置賜郡",
+      "東村山郡"
+    ]
   },
   "2120": {
     "name": "ARIA The ORIGINATION",
@@ -97132,7 +98080,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1OcjwvNh_85V6fWhv6R6AK_c0tnQ&ll=35.661197%2C139.698839&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/213/points.json"
+    "inform": "https://image.xinu.ink/pic/data/213/points.json",
+    "region": [
+      "长野县",
+      "北佐久郡",
+      "东京都/東京都"
+    ]
   },
   "2130": {
     "name": "アルスラーン戦記 風塵乱舞",
@@ -98083,7 +99036,17 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=15Qy6SU7DZZMc9TcObwvJonBsTGU&ll=36.482746%2C136.758234&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/214/points.json"
+    "inform": "https://image.xinu.ink/pic/data/214/points.json",
+    "region": [
+      "石川县",
+      "东京都/東京都",
+      "宫崎县",
+      "新潟县",
+      "羽咋郡",
+      "兵库县/兵庫縣",
+      "富山縣",
+      "千叶县"
+    ]
   },
   "2140": {
     "name": "アレイの鏡",
@@ -98183,7 +99146,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/215/points.json"
+    "inform": "https://image.xinu.ink/pic/data/215/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2150": {
     "name": "暗殺教室?卒業編?（実写）",
@@ -98298,7 +99264,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.717548%2C139.713848&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/216/points.json"
+    "inform": "https://image.xinu.ink/pic/data/216/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2160": {
     "name": "一休さん",
@@ -98482,7 +99451,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1UmDrbDGASp2ZAjEnLT7cpYfzuYY&ll=35.453753%2C139.640763&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/217/points.json"
+    "inform": "https://image.xinu.ink/pic/data/217/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "冲绳县 / 沖繩縣"
+    ]
   },
   "2170": {
     "name": "異世界の聖機師物語",
@@ -98606,7 +99580,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/218/points.json"
+    "inform": "https://image.xinu.ink/pic/data/218/points.json",
+    "region": [
+      "大阪府",
+      "吉野郡"
+    ]
   },
   "2180": {
     "name": "苺ましまろ OVA",
@@ -98763,7 +99741,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=10YXMEXvr0ejGzSOcs4iftgU_CbI&ll=43.064608%2C141.352909&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/219/points.json"
+    "inform": "https://image.xinu.ink/pic/data/219/points.json",
+    "region": [
+      "石狩振興局",
+      "东京都/東京都"
+    ]
   },
   "2190": {
     "name": "いつか天魔の黒ウサギ",
@@ -98879,7 +99861,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1hiCvYIJmmv_9al6R2cc-3p4BmZ8&ll=25.108622%2C121.843606&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/22/points.json"
+    "inform": "https://image.xinu.ink/pic/data/22/points.json",
+    "region": [
+      "City Of Busselton",
+      "新北市"
+    ]
   },
   "220": {
     "name": "男子高校生の日常",
@@ -98900,7 +99886,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/220/points.json"
+    "inform": "https://image.xinu.ink/pic/data/220/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "2200": {
     "name": "イナズマイレブンGO vs ダンボール戦機W",
@@ -99065,7 +100054,12 @@
         "originLink": "https://seichi-junrei.info/1657/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/221/points.json"
+    "inform": "https://image.xinu.ink/pic/data/221/points.json",
+    "region": [
+      "埼玉县",
+      "渡岛综合振兴局",
+      "膽振綜合振興局"
+    ]
   },
   "2210": {
     "name": "頭文字D Fifth Stage",
@@ -99220,7 +100214,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/222/points.json"
+    "inform": "https://image.xinu.ink/pic/data/222/points.json",
+    "region": [
+      "大阪府",
+      "兵库县/兵庫縣"
+    ]
   },
   "2220": {
     "name": "犬夜叉 劇場版 鏡の中の夢幻城",
@@ -99397,7 +100395,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=zCHEwcxep2wk.kK_eyOncAUuo&ll=35.646935%2C139.402653&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/223/points.json"
+    "inform": "https://image.xinu.ink/pic/data/223/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2230": {
     "name": "イヴの時間 劇場版",
@@ -100524,7 +101525,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/2237/points.json"
+    "inform": "https://image.xinu.ink/pic/data/2237/points.json",
+    "region": [
+      "长崎县"
+    ]
   },
   "2238": {
     "name": "INGRESS THE ANIMATION",
@@ -100681,7 +101685,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/224/points.json"
+    "inform": "https://image.xinu.ink/pic/data/224/points.json",
+    "region": [
+      "Napoli",
+      "New York County",
+      "Los Angeles County"
+    ]
   },
   "2240": {
     "name": "インサイド・ヘッド",
@@ -100869,7 +101878,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1ESh8mlx-AiR8LVDs5-DXWFS3txc&ll=34.173332%2C132.837394&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/225/points.json"
+    "inform": "https://image.xinu.ink/pic/data/225/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "2250": {
     "name": "W's-ウィズ-",
@@ -101018,7 +102030,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/226/points.json"
+    "inform": "https://image.xinu.ink/pic/data/226/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2260": {
     "name": "Wind a breath of heart",
@@ -101581,7 +102596,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1ddZFLMJRQ5PvrvEjtxkvWFkIGvA&ll=34.671944%2C138.942635&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/227/points.json"
+    "inform": "https://image.xinu.ink/pic/data/227/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "2270": {
     "name": "機動警察パトレイバー 後期OVA",
@@ -101809,7 +102827,12 @@
         "originLink": "http://blog.livedoor.jp/brompton_traveling/archives/19243800.html"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/228/points.json"
+    "inform": "https://image.xinu.ink/pic/data/228/points.json",
+    "region": [
+      "高知县",
+      "岛根县",
+      "大分县"
+    ]
   },
   "2280": {
     "name": "てーきゅう 第2期+第3期",
@@ -101983,7 +103006,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.674912%2C139.809083&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/229/points.json"
+    "inform": "https://image.xinu.ink/pic/data/229/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2290": {
     "name": "うたの☆プリンスさまっ♪マジLOVE2000％ （第2期）",
@@ -102334,7 +103360,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/23/points.json"
+    "inform": "https://image.xinu.ink/pic/data/23/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "230": {
     "name": "氷菓",
@@ -103020,7 +104050,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/230/points.json"
+    "inform": "https://image.xinu.ink/pic/data/230/points.json",
+    "region": [
+      "岐阜县",
+      "静冈县/靜岡縣",
+      "东京都/東京都",
+      "周智郡"
+    ]
   },
   "2300": {
     "name": "宇宙兄弟",
@@ -103175,7 +104211,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/231/points.json"
+    "inform": "https://image.xinu.ink/pic/data/231/points.json",
+    "region": [
+      "茨城县"
+    ]
   },
   "2310": {
     "name": "有頂天家族2",
@@ -103455,7 +104494,13 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/232/points.json"
+    "inform": "https://image.xinu.ink/pic/data/232/points.json",
+    "region": [
+      "足柄上郡",
+      "东京都/東京都",
+      "大阪府",
+      "爱知县"
+    ]
   },
   "2320": {
     "name": "ウメ星デンカ 宇宙の果てからパンパロパン!",
@@ -103777,7 +104822,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1BuTnZnVX94klHyH5Tf7rLMk_jyo&ll=35.813019%2C139.163239&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/233/points.json"
+    "inform": "https://image.xinu.ink/pic/data/233/points.json",
+    "region": [
+      "千叶县",
+      "东京都/東京都",
+      "西多摩郡"
+    ]
   },
   "2330": {
     "name": "ウルトラニャン2 ハッピー大作戦",
@@ -104064,7 +105114,13 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1uSTp4mUkRUCritA0VGW6JFntPXYSRIiD&ll=36.580542%2C137.597262&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/234/points.json"
+    "inform": "https://image.xinu.ink/pic/data/234/points.json",
+    "region": [
+      "东京都/東京都",
+      "中新川郡",
+      "富山縣",
+      "神奈川縣"
+    ]
   },
   "2340": {
     "name": "うーさーのその日暮らし 夢幻編",
@@ -105408,7 +106464,13 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/235/points.json"
+    "inform": "https://image.xinu.ink/pic/data/235/points.json",
+    "region": [
+      "滋賀县",
+      "蒲生郡",
+      "三方郡",
+      "京都府"
+    ]
   },
   "2350": {
     "name": "映画大好きポンポさん",
@@ -105547,7 +106609,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/236/points.json"
+    "inform": "https://image.xinu.ink/pic/data/236/points.json",
+    "region": [
+      "巴黎",
+      "山口县",
+      "静冈县/靜岡縣"
+    ]
   },
   "2360": {
     "name": "EXMACHINA-APPLESEED SAGA",
@@ -106254,7 +107321,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/2364/points.json"
+    "inform": "https://image.xinu.ink/pic/data/2364/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2365": {
     "name": "SNSポリス",
@@ -106435,7 +107505,12 @@
         "originLink": "https://hirofun.com/food/18753/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/237/points.json"
+    "inform": "https://image.xinu.ink/pic/data/237/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县",
+      "神奈川縣"
+    ]
   },
   "2370": {
     "name": "エスカクロン",
@@ -106634,7 +107709,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1lsdL2SRDPhsb0DKzaJZQuctXBpE&ll=35.06891%2C135.838496&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/238/points.json"
+    "inform": "https://image.xinu.ink/pic/data/238/points.json",
+    "region": [
+      "京都府",
+      "滋賀县"
+    ]
   },
   "2380": {
     "name": "ヱヴァンゲリヲン新劇場版:序",
@@ -106807,7 +107886,15 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/239/points.json"
+    "inform": "https://image.xinu.ink/pic/data/239/points.json",
+    "region": [
+      "莫斯科",
+      "哥伦比亚特区/哥倫比亞特區",
+      "东城区",
+      "巴黎",
+      "大倫敦",
+      "Council of the City of Sydney"
+    ]
   },
   "2390": {
     "name": "Fate／kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ!",
@@ -106947,7 +108034,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/24/points.json"
+    "inform": "https://image.xinu.ink/pic/data/24/points.json",
+    "region": [
+      "兵库县/兵庫縣",
+      "赤穗郡",
+      "佐用郡"
+    ]
   },
   "240": {
     "name": "つり球",
@@ -107040,7 +108132,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1oSwM4pcTUpDO8u1iRovCYihrUVc&ll=35.170772%2C136.884681&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/240/points.json"
+    "inform": "https://image.xinu.ink/pic/data/240/points.json",
+    "region": [
+      "神奈川縣",
+      "爱知县"
+    ]
   },
   "2400": {
     "name": "ARIEL",
@@ -107573,7 +108669,16 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=133km0JFo5ELfuLI6ifcuaerNODc&ll=35.683801%2C139.793939&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/241/points.json"
+    "inform": "https://image.xinu.ink/pic/data/241/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "大阪府",
+      "柏林",
+      "Uusimaa",
+      "青森县",
+      "羽咋郡"
+    ]
   },
   "2410": {
     "name": "エンジェルハート",
@@ -107673,7 +108778,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/242/points.json"
+    "inform": "https://image.xinu.ink/pic/data/242/points.json",
+    "region": [
+      "石狩振興局"
+    ]
   },
   "2420": {
     "name": "Aチャンネル+smile （OVA）",
@@ -107774,7 +108882,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/243/points.json"
+    "inform": "https://image.xinu.ink/pic/data/243/points.json",
+    "region": [
+      "Manche"
+    ]
   },
   "2430": {
     "name": "おおかみかくし",
@@ -107937,7 +109048,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/244/points.json"
+    "inform": "https://image.xinu.ink/pic/data/244/points.json",
+    "region": [
+      "鹿儿岛县",
+      "熊毛郡"
+    ]
   },
   "2440": {
     "name": "お酒は夫婦になってから",
@@ -108847,7 +109962,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1dUI6NPKbpHIEfnUYByZKO8NzQSg&ll=35.304816%2C139.48137&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/245/points.json"
+    "inform": "https://image.xinu.ink/pic/data/245/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "2450": {
     "name": "も?っと! おジャ魔女どれみ カエル石のひみつ 劇場版",
@@ -109150,7 +110268,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/246/points.json"
+    "inform": "https://image.xinu.ink/pic/data/246/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "2460": {
     "name": "おとぎストーリー 天使のしっぽ",
@@ -109287,7 +110408,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/247/points.json"
+    "inform": "https://image.xinu.ink/pic/data/247/points.json",
+    "region": [
+      "东京都/東京都",
+      "西蒲原郡",
+      "大野郡"
+    ]
   },
   "2470": {
     "name": "お姉ちゃんが来た",
@@ -109498,7 +110624,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.539784%2C130.96007&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/248/points.json"
+    "inform": "https://image.xinu.ink/pic/data/248/points.json",
+    "region": [
+      "熊毛郡"
+    ]
   },
   "2480": {
     "name": "俺、ツインテールになります。",
@@ -109599,7 +110728,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/249/points.json"
+    "inform": "https://image.xinu.ink/pic/data/249/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   },
   "2490": {
     "name": "偽物語",
@@ -109712,7 +110844,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/25/points.json"
+    "inform": "https://image.xinu.ink/pic/data/25/points.json",
+    "region": [
+      "臺北市",
+      "桃園市"
+    ]
   },
   "250": {
     "name": "新世界より",
@@ -109800,7 +110936,13 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/250/points.json"
+    "inform": "https://image.xinu.ink/pic/data/250/points.json",
+    "region": [
+      "茨城县",
+      "犬上郡",
+      "东京都/東京都",
+      "西多摩郡"
+    ]
   },
   "2500": {
     "name": "続・終物語",
@@ -111585,7 +112727,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=14SOJJBf9DQrDcVMj88H9mHzCyCs&ll=35.71733%2C139.728466&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/251/points.json"
+    "inform": "https://image.xinu.ink/pic/data/251/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "2510": {
     "name": "オーバーロード 劇場版",
@@ -111893,7 +113039,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/252/points.json"
+    "inform": "https://image.xinu.ink/pic/data/252/points.json",
+    "region": [
+      "千叶县"
+    ]
   },
   "2520": {
     "name": "怪談レストラン",
@@ -112007,7 +113156,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/253/points.json"
+    "inform": "https://image.xinu.ink/pic/data/253/points.json",
+    "region": [
+      "Line Islands",
+      "东京都/東京都"
+    ]
   },
   "2530": {
     "name": "怪盗レーニャ",
@@ -112191,7 +113344,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/254/points.json"
+    "inform": "https://image.xinu.ink/pic/data/254/points.json",
+    "region": [
+      "大阪府"
+    ]
   },
   "2540": {
     "name": "拡張少女系トライナリー",
@@ -112384,7 +113540,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/2545/points.json"
+    "inform": "https://image.xinu.ink/pic/data/2545/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2546": {
     "name": "陰からマモル!",
@@ -112448,7 +113607,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/255/points.json"
+    "inform": "https://image.xinu.ink/pic/data/255/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2550": {
     "name": "風が強く吹いている",
@@ -112547,7 +113709,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/256/points.json"
+    "inform": "https://image.xinu.ink/pic/data/256/points.json",
+    "region": [
+      "柏林"
+    ]
   },
   "2560": {
     "name": "カッコカワイイ宣言!",
@@ -113291,7 +114456,13 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.31332%2C140.586038&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/257/points.json"
+    "inform": "https://image.xinu.ink/pic/data/257/points.json",
+    "region": [
+      "東茨城郡",
+      "茨城县",
+      "奈良縣",
+      "駿東郡"
+    ]
   },
   "2570": {
     "name": "神々の悪戯",
@@ -113460,7 +114631,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1XL7t8MHr5otopt1KQw5tzv-jxCY&ll=35.889493%2C139.652689&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/258/points.json"
+    "inform": "https://image.xinu.ink/pic/data/258/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县"
+    ]
   },
   "2580": {
     "name": "超ロボット生命体トランスフォーマー プライム",
@@ -113718,7 +114893,15 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/259/points.json"
+    "inform": "https://image.xinu.ink/pic/data/259/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "福冈县",
+      "千叶县",
+      "石狩振興局",
+      "大阪府"
+    ]
   },
   "2590": {
     "name": "極黒の翼バルキサス",
@@ -113855,7 +115038,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/26/points.json"
+    "inform": "https://image.xinu.ink/pic/data/26/points.json",
+    "region": [
+      "灣仔區",
+      "中西區",
+      "九龍城區",
+      "油尖旺區"
+    ]
   },
   "260": {
     "name": "ヤマノススメ",
@@ -114435,7 +115624,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859357%2C139.323847&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/260/points.json"
+    "inform": "https://image.xinu.ink/pic/data/260/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县"
+    ]
   },
   "2600": {
     "name": "きょーふ！ゾンビ猫",
@@ -114535,7 +115728,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/261/points.json"
+    "inform": "https://image.xinu.ink/pic/data/261/points.json",
+    "region": [
+      "岛根县"
+    ]
   },
   "2610": {
     "name": "きんいろモザイクPretty Days",
@@ -115082,7 +116278,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/262/points.json"
+    "inform": "https://image.xinu.ink/pic/data/262/points.json",
+    "region": [
+      "埼玉县",
+      "东京都/東京都"
+    ]
   },
   "2620": {
     "name": "金田一少年の事件簿2 劇場版 殺戮のディープブルー",
@@ -115245,7 +116445,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1Xr6O9VeVxbzj3TyYC8EkH0YbVdU&ll=35.29342%2C139.571171&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/263/points.json"
+    "inform": "https://image.xinu.ink/pic/data/263/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县",
+      "神奈川縣"
+    ]
   },
   "2630": {
     "name": "Gift ～eternal rainbow～",
@@ -115356,7 +116561,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/264/points.json"
+    "inform": "https://image.xinu.ink/pic/data/264/points.json",
+    "region": [
+      "大倫敦",
+      "West Sussex"
+    ]
   },
   "2640": {
     "name": "ギャラクシーエンジェルＺ",
@@ -115471,7 +116680,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/265/points.json"
+    "inform": "https://image.xinu.ink/pic/data/265/points.json",
+    "region": [
+      "兵库县/兵庫縣"
+    ]
   },
   "2650": {
     "name": "ギルステイン",
@@ -115622,7 +116834,12 @@
         "originLink": "https://b23.tv/uIPHm2q"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/266/points.json"
+    "inform": "https://image.xinu.ink/pic/data/266/points.json",
+    "region": [
+      "东京都/東京都",
+      "Region Hovedstaden",
+      "Landkreis Schwäbisch Hall"
+    ]
   },
   "2660": {
     "name": "銀河鉄道999",
@@ -115723,7 +116940,10 @@
         "originLink": "https://www.jstage.jst.go.jp/article/contentstourism/5/0/5_58/_pdf/-char/en"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/267/points.json"
+    "inform": "https://image.xinu.ink/pic/data/267/points.json",
+    "region": [
+      "群山市"
+    ]
   },
   "2670": {
     "name": "銀魂 ～ 銀魂'延長戦",
@@ -115836,7 +117056,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/268/points.json"
+    "inform": "https://image.xinu.ink/pic/data/268/points.json",
+    "region": [
+      "Manche",
+      "Печорский муниципальный округ"
+    ]
   },
   "2680": {
     "name": "吟遊黙示録マイネリーベ",
@@ -116409,7 +117633,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1AqwsAcHrJnbjOVcpfboK1LIjGdw&ll=36.404299%2C139.34041&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/269/points.json"
+    "inform": "https://image.xinu.ink/pic/data/269/points.json",
+    "region": [
+      "群马县"
+    ]
   },
   "2690": {
     "name": "くじびきアンバランス",
@@ -118085,7 +119312,13 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761389%2C135.313611&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/27/points.json"
+    "inform": "https://image.xinu.ink/pic/data/27/points.json",
+    "region": [
+      "兵库县/兵庫縣",
+      "大阪府",
+      "京都府",
+      "德岛县"
+    ]
   },
   "270": {
     "name": "ファンタジスタドール",
@@ -118183,7 +119416,10 @@
         "originLink": "https://btsoken.hatenablog.com/entry/20130911/1378903027"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/270/points.json"
+    "inform": "https://image.xinu.ink/pic/data/270/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2700": {
     "name": "くまのプーさん／プーさんのオバケたいじ",
@@ -118515,7 +119751,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/271/points.json"
+    "inform": "https://image.xinu.ink/pic/data/271/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县",
+      "大倫敦"
+    ]
   },
   "2710": {
     "name": "Classroom☆Crisis",
@@ -118652,7 +119893,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/272/points.json"
+    "inform": "https://image.xinu.ink/pic/data/272/points.json",
+    "region": [
+      "中西區",
+      "深水埗區"
+    ]
   },
   "2720": {
     "name": "クレヨンしんちゃん ブリブリ王国の秘宝",
@@ -118799,7 +120044,14 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/273/points.json"
+    "inform": "https://image.xinu.ink/pic/data/273/points.json",
+    "region": [
+      "北區",
+      "澳門",
+      "路氹填海區",
+      "風順堂區",
+      "灣仔區"
+    ]
   },
   "2730": {
     "name": "クレヨンしんちゃん 嵐を呼ぶ 栄光のヤキニクロード",
@@ -119009,7 +120261,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/274/points.json"
+    "inform": "https://image.xinu.ink/pic/data/274/points.json",
+    "region": [
+      "三重县",
+      "北牟婁郡"
+    ]
   },
   "275": {
     "name": "琴浦さん",
@@ -119161,7 +120417,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1Lgb7-RruUtHPQnV5yhaMHZWxLko&ll=35.51271%2C133.650935&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/275/points.json"
+    "inform": "https://image.xinu.ink/pic/data/275/points.json",
+    "region": [
+      "東伯郡"
+    ]
   },
   "276": {
     "name": "Wake Up, Girls!",
@@ -120340,7 +121599,13 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1Fg_FsJxMI9EVGJPQS6UAnWdm0xE&ll=35.705676%2C139.751893&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/276/points.json"
+    "inform": "https://image.xinu.ink/pic/data/276/points.json",
+    "region": [
+      "宫城县",
+      "东京都/東京都",
+      "埼玉县",
+      "宮城郡"
+    ]
   },
   "277": {
     "name": "デート・ア・ライブ",
@@ -120483,7 +121748,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/277/points.json"
+    "inform": "https://image.xinu.ink/pic/data/277/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "278": {
     "name": "境界の彼方",
@@ -121334,7 +122603,14 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.694216%2C135.78582&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/278/points.json"
+    "inform": "https://image.xinu.ink/pic/data/278/points.json",
+    "region": [
+      "奈良縣",
+      "东京都/東京都",
+      "德岛县",
+      "爱媛县",
+      "京都府"
+    ]
   },
   "279": {
     "name": "ラブライブ!",
@@ -121828,7 +123104,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1yjZUbvfXNwpnwYgoHbPpiWJnbRM&ll=35.698893%2C139.76488&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/279/points.json"
+    "inform": "https://image.xinu.ink/pic/data/279/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "静冈县/靜岡縣"
+    ]
   },
   "28": {
     "name": "灼眼のシャナII",
@@ -121876,7 +123157,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/28/points.json"
+    "inform": "https://image.xinu.ink/pic/data/28/points.json",
+    "region": [
+      "埼玉县"
+    ]
   },
   "280": {
     "name": "はたらく魔王さま!",
@@ -121964,7 +123248,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/280/points.json"
+    "inform": "https://image.xinu.ink/pic/data/280/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "281": {
     "name": "マブラヴ オルタネイティヴ トータル・イクリプス",
@@ -122067,7 +123354,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/281/points.json"
+    "inform": "https://image.xinu.ink/pic/data/281/points.json",
+    "region": [
+      "京都府",
+      "Unorganized Borough",
+      "городской округ Петропавловск-Камчатский",
+      "瓜德罗普"
+    ]
   },
   "282": {
     "name": "とある科学の超電磁砲S",
@@ -122546,7 +123839,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/282/points.json"
+    "inform": "https://image.xinu.ink/pic/data/282/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "283": {
     "name": "聖☆おにいさん",
@@ -122583,7 +123880,10 @@
         "originLink": "http://blueeyes.air-nifty.com/muimui/2009/10/zega_loc_map.html"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/283/points.json"
+    "inform": "https://image.xinu.ink/pic/data/283/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "284": {
     "name": "やはり俺の青春ラブコメはまちがっている。",
@@ -123027,7 +124327,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/284/points.json"
+    "inform": "https://image.xinu.ink/pic/data/284/points.json",
+    "region": [
+      "千叶县",
+      "利根郡",
+      "京都府",
+      "东京都/東京都"
+    ]
   },
   "285": {
     "name": "フォトカノ",
@@ -123047,7 +124353,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/285/points.json"
+    "inform": "https://image.xinu.ink/pic/data/285/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "286": {
     "name": "たまこまーけっと",
@@ -123605,7 +124914,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/286/points.json"
+    "inform": "https://image.xinu.ink/pic/data/286/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "287": {
     "name": "進撃の巨人",
@@ -123638,7 +124950,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/287/points.json"
+    "inform": "https://image.xinu.ink/pic/data/287/points.json",
+    "region": [
+      "Landkreis Donau-Ries",
+      "梅納貝區"
+    ]
   },
   "288": {
     "name": "いなり、こんこん、恋いろは。",
@@ -123658,7 +124974,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/288/points.json"
+    "inform": "https://image.xinu.ink/pic/data/288/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "289": {
     "name": "夕闇通り探検隊",
@@ -123678,7 +124997,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1T4_o3j5N9DWIbFwAxi7kwGFyQqQ&ll=35.66539%2C139.383937&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/289/points.json"
+    "inform": "https://image.xinu.ink/pic/data/289/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "29": {
     "name": "耳をすませば",
@@ -123804,7 +125126,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/29/points.json"
+    "inform": "https://image.xinu.ink/pic/data/29/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "290": {
     "name": "トワイライトシンドローム 探索編/究明編",
@@ -123885,7 +125210,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/290/points.json"
+    "inform": "https://image.xinu.ink/pic/data/290/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣"
+    ]
   },
   "291": {
     "name": "Grand Theft Auto V",
@@ -123927,7 +125256,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/291/points.json"
+    "inform": "https://image.xinu.ink/pic/data/291/points.json",
+    "region": [
+      "Los Angeles County"
+    ]
   },
   "292": {
     "name": "きんいろモザイク",
@@ -124849,7 +126181,16 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/292/points.json"
+    "inform": "https://image.xinu.ink/pic/data/292/points.json",
+    "region": [
+      "千叶县",
+      "Gloucestershire",
+      "大倫敦",
+      "Wiltshire",
+      "京都府",
+      "倫敦市",
+      "Bath and North East Somerset"
+    ]
   },
   "293": {
     "name": "恋愛ラボ",
@@ -124935,7 +126276,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1baheP7XQ7_n1a69fY92F5dwZuLY&ll=35.660971%2C139.698267&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/293/points.json"
+    "inform": "https://image.xinu.ink/pic/data/293/points.json",
+    "region": [
+      "岐阜县",
+      "东京都/東京都",
+      "爱知县"
+    ]
   },
   "294": {
     "name": "言の葉の庭",
@@ -125801,7 +127147,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=12A3la9wSYNTQUGQqsIDblqFUbN6xUYc&ll=35.684569%2C139.708484&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/294/points.json"
+    "inform": "https://image.xinu.ink/pic/data/294/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2944": {
     "name": "クレヨンしんちゃん 伝説を呼ぶブリブリ 3分ポッキリ大進撃",
@@ -125893,7 +127242,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=zLHCUtFJ5jEY.kpAX3SImJKBU&ll=35.240192%2C139.072296&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/295/points.json"
+    "inform": "https://image.xinu.ink/pic/data/295/points.json",
+    "region": [
+      "千叶县",
+      "足柄下郡"
+    ]
   },
   "2950": {
     "name": "クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦",
@@ -126235,7 +127588,13 @@
         "originLink": "https://btsoken.hatenablog.com/entry/20150918/1442578554"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/296/points.json"
+    "inform": "https://image.xinu.ink/pic/data/296/points.json",
+    "region": [
+      "十勝綜合振興局",
+      "石狩振興局",
+      "上川郡(十勝國)",
+      "河西郡"
+    ]
   },
   "2960": {
     "name": "クロがいた夏",
@@ -126427,7 +127786,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.707771%2C139.751471&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/297/points.json"
+    "inform": "https://image.xinu.ink/pic/data/297/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "2970": {
     "name": "黒猫モンロヲ",
@@ -126816,7 +128178,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/298/points.json"
+    "inform": "https://image.xinu.ink/pic/data/298/points.json",
+    "region": [
+      "东京都/東京都",
+      "神奈川縣",
+      "久慈郡"
+    ]
   },
   "2980": {
     "name": "GRAVITY DAZE The Animation Ouverture",
@@ -127061,7 +128428,13 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/299/points.json"
+    "inform": "https://image.xinu.ink/pic/data/299/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县",
+      "神奈川縣",
+      "群马县"
+    ]
   },
   "2990": {
     "name": "グリザイアの楽園",
@@ -127539,7 +128912,19 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/3/points.json"
+    "inform": "https://image.xinu.ink/pic/data/3/points.json",
+    "region": [
+      "日高郡",
+      "京都府",
+      "美方郡",
+      "福冈县",
+      "东京都/東京都",
+      "渡岛综合振兴局",
+      "和歌山县",
+      "福井縣",
+      "冈山县",
+      "千叶县"
+    ]
   },
   "30": {
     "name": "さよなら絶望先生",
@@ -127573,7 +128958,11 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/30/points.json"
+    "inform": "https://image.xinu.ink/pic/data/30/points.json",
+    "region": [
+      "东京都/東京都",
+      "京都府"
+    ]
   },
   "300": {
     "name": "踊る大捜査線 秋の犯罪撲滅スペシャル",
@@ -127810,7 +129199,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/300/points.json"
+    "inform": "https://image.xinu.ink/pic/data/300/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县",
+      "神奈川縣"
+    ]
   },
   "3000": {
     "name": "グーフィー・ムービー ホリデーは最高!!",
@@ -128107,7 +129501,14 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1MazCvEaEomo8DKLxV_Ki4yYfqGSXsTU&ll=35.454339%2C139.631379&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/301/points.json"
+    "inform": "https://image.xinu.ink/pic/data/301/points.json",
+    "region": [
+      "东京都/東京都",
+      "石狩振興局",
+      "上川郡(石狩國)",
+      "神奈川縣",
+      "空知郡"
+    ]
   },
   "3010": {
     "name": "血液型くん!3",
@@ -128208,7 +129609,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/302/points.json"
+    "inform": "https://image.xinu.ink/pic/data/302/points.json",
+    "region": [
+      "Council of the City of Sydney"
+    ]
   },
   "3020": {
     "name": "ケロロ軍曹 超劇場版",
@@ -128657,7 +130061,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/303/points.json"
+    "inform": "https://image.xinu.ink/pic/data/303/points.json",
+    "region": [
+      "富山縣"
+    ]
   },
   "3030": {
     "name": "剣之介さま",
@@ -128779,7 +130186,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/304/points.json"
+    "inform": "https://image.xinu.ink/pic/data/304/points.json",
+    "region": [
+      "长崎县"
+    ]
   },
   "3040": {
     "name": "劇場版 はいからさんが通る 後編 ～東京大浪漫～",
@@ -128935,7 +130345,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/305/points.json"
+    "inform": "https://image.xinu.ink/pic/data/305/points.json",
+    "region": [
+      "巴黎"
+    ]
   },
   "3050": {
     "name": "ゲゲゲの鬼太郎 劇場版 日本爆裂",
@@ -129037,7 +130450,10 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.kFs_4Kx_jV7c&ll=35.305415%2C139.509866&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/306/points.json"
+    "inform": "https://image.xinu.ink/pic/data/306/points.json",
+    "region": [
+      "神奈川縣"
+    ]
   },
   "3060": {
     "name": "げんしけん2",
@@ -129280,7 +130696,15 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1AQYQvclH8pyMZ9iPKVn-kknfElA&ll=43.876134%2C143.14426&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/307/points.json"
+    "inform": "https://image.xinu.ink/pic/data/307/points.json",
+    "region": [
+      "犬上郡",
+      "石狩振興局",
+      "滋賀县",
+      "膽振綜合振興局",
+      "山越郡",
+      "紋別郡"
+    ]
   },
   "3070": {
     "name": "こいこい7",
@@ -129650,7 +131074,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/308/points.json"
+    "inform": "https://image.xinu.ink/pic/data/308/points.json",
+    "region": [
+      "京都府"
+    ]
   },
   "3080": {
     "name": "攻殻機動隊 S.A.C. SOLID STATE SOCIETY 3D",
@@ -130059,7 +131486,12 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/309/points.json"
+    "inform": "https://image.xinu.ink/pic/data/309/points.json",
+    "region": [
+      "岐阜县",
+      "东京都/東京都",
+      "爱知县"
+    ]
   },
   "3090": {
     "name": "甲虫王者ムシキング 森の民の伝説",
@@ -130391,7 +131823,13 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1eZizKGS0WUaRoExyDXeJPk1RzJw&ll=35.659471%2C139.382032&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/31/points.json"
+    "inform": "https://image.xinu.ink/pic/data/31/points.json",
+    "region": [
+      "山形县",
+      "刈田郡",
+      "静冈县/靜岡縣",
+      "东京都/東京都"
+    ]
   },
   "310": {
     "name": "WHITE ALBUM2",
@@ -130542,7 +131980,13 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/310/points.json"
+    "inform": "https://image.xinu.ink/pic/data/310/points.json",
+    "region": [
+      "下莱茵省",
+      "埼玉县",
+      "千叶县",
+      "东京都/東京都"
+    ]
   },
   "3100": {
     "name": "ココロ図書館",
@@ -130651,7 +132095,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/311/points.json"
+    "inform": "https://image.xinu.ink/pic/data/311/points.json",
+    "region": [
+      "岩手县",
+      "三重县"
+    ]
   },
   "3110": {
     "name": "この青空に約束を―",
@@ -130824,7 +132272,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/312/points.json"
+    "inform": "https://image.xinu.ink/pic/data/312/points.json",
+    "region": [
+      "东京都/東京都",
+      "三重县"
+    ]
   },
   "3120": {
     "name": "COBRA THE ANIMATION",
@@ -131304,7 +132756,19 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/313/points.json"
+    "inform": "https://image.xinu.ink/pic/data/313/points.json",
+    "region": [
+      "岩美郡",
+      "Council of the City of Sydney",
+      "City of Parramatta Council",
+      "新南威尔士州",
+      "Cumberland City Council",
+      "鸟取县",
+      "京都府",
+      "Waverley Council",
+      "North Sydney Council",
+      "Bayside Council"
+    ]
   },
   "3130": {
     "name": "こわれかけのオルゴール",
@@ -131658,7 +133122,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/314/points.json"
+    "inform": "https://image.xinu.ink/pic/data/314/points.json",
+    "region": [
+      "東茨城郡",
+      "上益城郡",
+      "河東郡"
+    ]
   },
   "3140": {
     "name": "コードギアス ナナリーinワンダーランド （OVA）",
@@ -133811,7 +135280,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/315/points.json"
+    "inform": "https://image.xinu.ink/pic/data/315/points.json",
+    "region": [
+      "滋賀县"
+    ]
   },
   "3150": {
     "name": "CODE：BREAKER -コード：ブレイカー-",
@@ -133951,7 +135423,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/316/points.json"
+    "inform": "https://image.xinu.ink/pic/data/316/points.json",
+    "region": [
+      "广岛县",
+      "埼玉县",
+      "兵库县/兵庫縣"
+    ]
   },
   "3160": {
     "name": "獄・さよなら絶望先生",
@@ -134125,7 +135602,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/317/points.json"
+    "inform": "https://image.xinu.ink/pic/data/317/points.json",
+    "region": [
+      "东京都/東京都",
+      "兵库县/兵庫縣"
+    ]
   },
   "3170": {
     "name": "五等分の花嫁",
@@ -134260,7 +135741,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/3170/points.json"
+    "inform": "https://image.xinu.ink/pic/data/3170/points.json",
+    "region": [
+      "爱知县",
+      "京都府"
+    ]
   },
   "3171": {
     "name": "ゴブリンスレイヤー",
@@ -134389,7 +135874,12 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/318/points.json"
+    "inform": "https://image.xinu.ink/pic/data/318/points.json",
+    "region": [
+      "神奈川縣",
+      "San Diego County",
+      "福冈县"
+    ]
   },
   "3180": {
     "name": "彩雲国物語 第二季",
@@ -134572,7 +136062,17 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/319/points.json"
+    "inform": "https://image.xinu.ink/pic/data/319/points.json",
+    "region": [
+      "Тҟәарчал араион",
+      "Усть-Камчатский муниципальный округ",
+      "Кадыйский муниципальный округ",
+      "阿登省",
+      "克拉斯诺达尔边疆区",
+      "柏林",
+      "Kreis Düren",
+      "городской округ Волгоград"
+    ]
   },
   "3190": {
     "name": "最終試験くじら",
@@ -134699,7 +136199,11 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.703127%2C139.579622&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/32/points.json"
+    "inform": "https://image.xinu.ink/pic/data/32/points.json",
+    "region": [
+      "高知县",
+      "东京都/東京都"
+    ]
   },
   "320": {
     "name": "真恋~寄语枫秋~",
@@ -134718,7 +136222,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/320/points.json"
+    "inform": "https://image.xinu.ink/pic/data/320/points.json",
+    "region": [
+      "环翠区"
+    ]
   },
   "3200": {
     "name": "サイレントメビウス",
@@ -134820,7 +136327,10 @@
         "originLink": "https://www.google.com/maps/place/The+200+Steps+of+Ryojo/@34.2482452,132.5510172,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM5QK3U5RLIq861c9yFlRGeOSX17RLyJNRJg8_K!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM5QK3U5RLIq861c9yFlRGeOSX17RLyJNRJg8_K%3Dw150-h150-k-no-p!7i3024!8i3024!4m16!1m7!3m6!1s0x3550082a7f4bbf0f:0xc0351dc4e8c336e6!2sThe+200+Steps+of+Ryojo!8m2!3d34.2482452!4d132.5510172!16s%2Fg%2F11cjp7jm0n!3m7!1s0x3550082a7f4bbf0f:0xc0351dc4e8c336e6!8m2!3d34.2482452!4d132.5510172!9m1!1b1!16s%2Fg%2F11cjp7jm0n?entry=ttu&g_ep=EgoyMDI0MDkwOC4wIKXMDSoASAFQAw%3D%3D"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/321/points.json"
+    "inform": "https://image.xinu.ink/pic/data/321/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "3210": {
     "name": "サクラ大戦 OVA 桜華絢爛",
@@ -134987,7 +136497,12 @@
         "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.704787%2C139.620722&z=17"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/322/points.json"
+    "inform": "https://image.xinu.ink/pic/data/322/points.json",
+    "region": [
+      "冈山县",
+      "香川县",
+      "东京都/東京都"
+    ]
   },
   "3220": {
     "name": "さばげぶっ！",
@@ -135088,7 +136603,10 @@
         "originLink": "https://www.google.com/maps/place/The+200+Steps+of+Ryojo/@34.2482452,132.5510172,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM5QK3U5RLIq861c9yFlRGeOSX17RLyJNRJg8_K!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM5QK3U5RLIq861c9yFlRGeOSX17RLyJNRJg8_K%3Dw150-h150-k-no-p!7i3024!8i3024!4m16!1m7!3m6!1s0x3550082a7f4bbf0f:0xc0351dc4e8c336e6!2sThe+200+Steps+of+Ryojo!8m2!3d34.2482452!4d132.5510172!16s%2Fg%2F11cjp7jm0n!3m7!1s0x3550082a7f4bbf0f:0xc0351dc4e8c336e6!8m2!3d34.2482452!4d132.5510172!9m1!1b1!16s%2Fg%2F11cjp7jm0n?entry=ttu&g_ep=EgoyMDI0MDkwOC4wIKXMDSoASAFQAw%3D%3D"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/323/points.json"
+    "inform": "https://image.xinu.ink/pic/data/323/points.json",
+    "region": [
+      "广岛县"
+    ]
   },
   "3230": {
     "name": "さらざんまい",
@@ -135189,7 +136707,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/324/points.json"
+    "inform": "https://image.xinu.ink/pic/data/324/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "3240": {
     "name": "3丁目のタマ うちのタマ知りませんか?",
@@ -135397,7 +136918,11 @@
         "originLink": "https://blog.goo.ne.jp/kai881/e/167faef86ed8ab1a7f79da35e4c5c2b6"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/325/points.json"
+    "inform": "https://image.xinu.ink/pic/data/325/points.json",
+    "region": [
+      "比企郡",
+      "东京都/東京都"
+    ]
   },
   "3250": {
     "name": "戯言シリーズ",
@@ -135666,7 +137191,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/326/points.json"
+    "inform": "https://image.xinu.ink/pic/data/326/points.json",
+    "region": [
+      "熊毛郡"
+    ]
   },
   "3260": {
     "name": "屍鬼",
@@ -135767,7 +137295,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/327/points.json"
+    "inform": "https://image.xinu.ink/pic/data/327/points.json",
+    "region": [
+      "巴黎"
+    ]
   },
   "3270": {
     "name": "七人のナナ",
@@ -135906,7 +137437,10 @@
         "originURL": "https://anitabi.cn/"
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/328/points.json"
+    "inform": "https://image.xinu.ink/pic/data/328/points.json",
+    "region": [
+      "高雄市"
+    ]
   },
   "3280": {
     "name": "シティーハンター ザ・シークレット・サービス",
