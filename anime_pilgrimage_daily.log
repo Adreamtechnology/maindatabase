@@ -471,3 +471,14 @@
 2025-06-12 12:59:26,086 - AnimePilgrimageUpdater - INFO - Test anime 4: 小市民シリーズ 2期
 2025-06-12 12:59:26,086 - AnimePilgrimageUpdater - INFO - Test anime 5: mono
 2025-06-12 13:30:48,750 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-06-13 12:56:11,979 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-06-13 12:56:11,979 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-06-13 12:56:12,197 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-06-13 12:56:14,523 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-06-13 12:58:53,448 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-06-13 12:58:53,448 - AnimePilgrimageUpdater - INFO - Test anime 1: スローループ
+2025-06-13 12:58:53,448 - AnimePilgrimageUpdater - INFO - Test anime 2: 真･侍伝 YAIBA
+2025-06-13 12:58:53,448 - AnimePilgrimageUpdater - INFO - Test anime 3: ホリミヤ -piece-
+2025-06-13 12:58:53,448 - AnimePilgrimageUpdater - INFO - Test anime 4: 小市民シリーズ 2期
+2025-06-13 12:58:53,448 - AnimePilgrimageUpdater - INFO - Test anime 5: mono
+2025-06-13 13:30:28,523 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
