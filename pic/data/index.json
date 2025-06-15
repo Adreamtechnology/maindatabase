@@ -423554,5 +423554,274 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6104/points.json"
+  },
+  "6105": {
+    "name": "文豪ストレイドッグス3",
+    "name_cn": "文豪ストレイドッグス3",
+    "cover": "https://image.xinu.ink/pic/data/6105/images/1.jpg",
+    "theme_color": "#504d4e",
+    "points": [
+      {
+        "id": "ecyrdobi",
+        "name": "ルパン",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-1.jpg",
+        "ep": "OP",
+        "geo": [
+          35.67097,
+          139.76317
+        ]
+      },
+      {
+        "id": "ntlx52yc",
+        "name": "COFFEE ROASTERY MEGURO",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-2.jpg",
+        "ep": "OP",
+        "geo": [
+          35.44197,
+          139.65012
+        ]
+      },
+      {
+        "id": "vix5at97",
+        "name": "横浜美術館",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-3.jpg",
+        "ep": "OP",
+        "geo": [
+          35.45731,
+          139.63103
+        ]
+      },
+      {
+        "id": "nahde9k4",
+        "name": "神奈川県庁",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-4.jpg",
+        "ep": "OP",
+        "geo": [
+          35.44743,
+          139.64314
+        ]
+      },
+      {
+        "id": "ymkf0mgq",
+        "name": "横浜港大さん橋国際客船ターミナル",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-5.jpg",
+        "ep": "OP",
+        "geo": [
+          35.45302,
+          139.64903
+        ]
+      },
+      {
+        "id": "657d0g1e",
+        "name": "新港橋梁",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-6.jpg",
+        "ep": "ED",
+        "geo": [
+          35.45087,
+          139.64245
+        ]
+      },
+      {
+        "id": "wuipnz6h",
+        "name": "マロリーポークステーキ 横浜店",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-7.jpg",
+        "ep": "ED",
+        "geo": [
+          35.46358,
+          139.6156
+        ]
+      },
+      {
+        "id": "c5d716pv",
+        "name": "ジェラールの瓦工場と水屋敷跡",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-8.jpg",
+        "ep": "1",
+        "geo": [
+          35.43915,
+          139.65119
+        ]
+      },
+      {
+        "id": "hpfsgqn0",
+        "name": "加賀町警察署 元町交番",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-9.jpg",
+        "ep": "5",
+        "geo": [
+          35.44183,
+          139.65113
+        ]
+      },
+      {
+        "id": "shrz0pj7",
+        "name": "加賀町警察署 元町交番",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-10.jpg",
+        "ep": "5",
+        "geo": [
+          35.44167,
+          139.65086
+        ]
+      },
+      {
+        "id": "5eg7jaax",
+        "name": "元町プラザ",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-11.jpg",
+        "ep": "5",
+        "geo": [
+          35.44143,
+          139.65077
+        ]
+      },
+      {
+        "id": "7xwhka6e",
+        "name": "スターバックス コーヒー 横浜元町店",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-12.jpg",
+        "ep": "5",
+        "geo": [
+          35.4413,
+          139.65049
+        ]
+      },
+      {
+        "id": "0ziw0sz0",
+        "name": "キタムラK2 元町本店",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-13.jpg",
+        "ep": "5",
+        "geo": [
+          35.44093,
+          139.64955
+        ]
+      },
+      {
+        "id": "6myxkdqz",
+        "name": "セブン-イレブン 横浜中華街朱雀門店",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-14.jpg",
+        "ep": "5",
+        "geo": [
+          35.44123,
+          139.6483
+        ]
+      },
+      {
+        "id": "x9hou3vu",
+        "name": "横浜大世界",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-15.jpg",
+        "ep": "5",
+        "geo": [
+          35.44253,
+          139.64788
+        ]
+      },
+      {
+        "id": "7l6mpg0f",
+        "name": "世界の広場",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-16.jpg",
+        "ep": "5",
+        "geo": [
+          35.44408,
+          139.65272
+        ]
+      },
+      {
+        "id": "u33idx2e",
+        "name": "横浜ベイサイドマリーナ",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-17.jpg",
+        "ep": "6",
+        "geo": [
+          35.37973,
+          139.64783
+        ]
+      },
+      {
+        "id": "f0z4e9sg",
+        "name": "野毛都橋商店街ビル（ハーモニカ横丁）",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-18.jpg",
+        "ep": "6",
+        "geo": [
+          35.44666,
+          139.63057
+        ]
+      },
+      {
+        "id": "gp5ghhxh",
+        "name": "山下公園",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-19.jpg",
+        "ep": "6",
+        "geo": [
+          35.44642,
+          139.64946
+        ]
+      },
+      {
+        "id": "7jtur5t4",
+        "name": "港の見える丘公園 展望台",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-20.jpg",
+        "ep": "7",
+        "geo": [
+          35.4408,
+          139.65441
+        ]
+      },
+      {
+        "id": "2tfrygym",
+        "name": "萬珍樓 本店",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-21.jpg",
+        "ep": "7",
+        "geo": [
+          35.44318,
+          139.64451
+        ]
+      },
+      {
+        "id": "l7t9lu6w",
+        "name": "三菱みなとみらい技術館",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-22.jpg",
+        "ep": "7",
+        "geo": [
+          35.45616,
+          139.62898
+        ]
+      },
+      {
+        "id": "d4qdqz9l",
+        "name": "横浜地方裁判所",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-23.jpg",
+        "ep": "8",
+        "geo": [
+          35.4465,
+          139.64101
+        ]
+      },
+      {
+        "id": "hzaa90qo",
+        "name": "横浜市港湾局維持保全課",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-24.jpg",
+        "ep": "9",
+        "geo": [
+          35.44969,
+          139.64608
+        ]
+      },
+      {
+        "id": "hlbt7np5",
+        "name": "横浜水上警察署 山下ふ頭交番",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-25.jpg",
+        "ep": "10",
+        "geo": [
+          35.44394,
+          139.65374
+        ]
+      },
+      {
+        "id": "vba3fw1t",
+        "name": "横浜関帝廟",
+        "image": "https://image.xinu.ink/pic/data/6105/images/6105-26.jpg",
+        "ep": "10",
+        "geo": [
+          35.44223,
+          139.64527
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6105/points.json"
   }
 }
