@@ -570,3 +570,14 @@
 2025-06-21 12:55:13,420 - AnimePilgrimageUpdater - INFO - Test anime 4: 文豪ストレイドッグス3
 2025-06-21 12:55:13,421 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
 2025-06-21 13:07:42,303 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-06-22 12:52:00,076 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-06-22 12:52:00,076 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-06-22 12:52:00,285 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-06-22 12:52:01,970 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-06-22 12:54:18,531 - AnimePilgrimageUpdater - INFO - Successfully retrieved 36 anime in test run
+2025-06-22 12:54:18,531 - AnimePilgrimageUpdater - INFO - Test anime 1: アポカリプスホテル
+2025-06-22 12:54:18,532 - AnimePilgrimageUpdater - INFO - Test anime 2: 前橋ウィッチーズ
+2025-06-22 12:54:18,532 - AnimePilgrimageUpdater - INFO - Test anime 3: ウマ娘 シンデレラグレイ
+2025-06-22 12:54:18,532 - AnimePilgrimageUpdater - INFO - Test anime 4: 文豪ストレイドッグス3
+2025-06-22 12:54:18,532 - AnimePilgrimageUpdater - INFO - Test anime 5: 小市民シリーズ 2期
+2025-06-22 13:06:48,444 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
