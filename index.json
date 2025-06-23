@@ -426202,6 +426202,15 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6106/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6106/points.json",
+    "region": [
+      "东京都/東京都",
+      "千叶县",
+      "京都府",
+      "兵库县/兵庫縣",
+      "滋賀县",
+      "新潟县",
+      "福岛县"
+    ]
   }
 }
