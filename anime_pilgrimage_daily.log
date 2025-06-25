@@ -603,3 +603,14 @@
 2025-06-24 13:00:11,536 - AnimePilgrimageUpdater - INFO - Test anime 4: ウマ娘 シンデレラグレイ
 2025-06-24 13:00:11,536 - AnimePilgrimageUpdater - INFO - Test anime 5: りゅうおうのおしごと!
 2025-06-24 13:23:14,399 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-06-25 12:58:50,570 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-06-25 12:58:50,570 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-06-25 12:58:50,787 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-06-25 12:58:52,367 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-06-25 13:01:25,665 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-06-25 13:01:25,665 - AnimePilgrimageUpdater - INFO - Test anime 1: 前橋ウィッチーズ
+2025-06-25 13:01:25,665 - AnimePilgrimageUpdater - INFO - Test anime 2: 小市民シリーズ 2期
+2025-06-25 13:01:25,665 - AnimePilgrimageUpdater - INFO - Test anime 3: ウマ娘 プリティーダービー Season 2
+2025-06-25 13:01:25,665 - AnimePilgrimageUpdater - INFO - Test anime 4: ウマ娘 シンデレラグレイ
+2025-06-25 13:01:25,665 - AnimePilgrimageUpdater - INFO - Test anime 5: りゅうおうのおしごと!
+2025-06-25 13:24:32,666 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
