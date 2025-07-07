@@ -735,3 +735,14 @@
 2025-07-06 12:56:12,454 - AnimePilgrimageUpdater - INFO - Test anime 4: ウマ娘 シンデレラグレイ
 2025-07-06 12:56:12,454 - AnimePilgrimageUpdater - INFO - Test anime 5: mono
 2025-07-06 13:19:21,805 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-07-07 12:58:31,714 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-07-07 12:58:31,714 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-07-07 12:58:31,929 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-07-07 12:58:33,489 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-07-07 13:01:07,407 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-07-07 13:01:07,408 - AnimePilgrimageUpdater - INFO - Test anime 1: ウィッチウォッチ
+2025-07-07 13:01:07,408 - AnimePilgrimageUpdater - INFO - Test anime 2: 中二病でも恋がしたい!
+2025-07-07 13:01:07,408 - AnimePilgrimageUpdater - INFO - Test anime 3: 真･侍伝 YAIBA
+2025-07-07 13:01:07,408 - AnimePilgrimageUpdater - INFO - Test anime 4: ウマ娘 シンデレラグレイ
+2025-07-07 13:01:07,408 - AnimePilgrimageUpdater - INFO - Test anime 5: mono
+2025-07-07 13:24:09,405 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
