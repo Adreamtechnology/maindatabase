@@ -437205,7 +437205,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6127/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6127/points.json",
+    "region": [
+      "群马县"
+    ]
   },
   "6128": {
     "name": "彼女、お借りします 4期",
@@ -437264,7 +437267,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6128/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6128/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   },
   "6129": {
     "name": "よふかしのうた Season 2",
@@ -437423,6 +437429,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6129/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6129/points.json",
+    "region": [
+      "东京都/東京都",
+      "埼玉县"
+    ]
   }
 }
