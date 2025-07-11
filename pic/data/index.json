@@ -437512,7 +437512,11 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6130/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6130/points.json",
+    "region": [
+      "宇陀郡",
+      "三重县"
+    ]
   },
   "6131": {
     "name": "青春ブタ野郎はサンタクロースの夢を見ない",
@@ -437751,7 +437755,14 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6131/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6131/points.json",
+    "region": [
+      "神奈川縣",
+      "东京都/東京都",
+      "国头郡",
+      "三宅支廳",
+      "足柄下郡"
+    ]
   },
   "6132": {
     "name": "その着せ替え人形は恋をする Season 2",
@@ -437800,6 +437811,9 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6132/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6132/points.json",
+    "region": [
+      "东京都/東京都"
+    ]
   }
 }
