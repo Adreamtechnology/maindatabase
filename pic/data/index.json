@@ -437434,5 +437434,372 @@
       "东京都/東京都",
       "埼玉县"
     ]
+  },
+  "6130": {
+    "name": "光が死んだ夏",
+    "name_cn": "光死去的夏天",
+    "cover": "https://image.xinu.ink/pic/data/6130/images/1.jpg",
+    "theme_color": "#728798",
+    "points": [
+      {
+        "id": "kpc2ddiv",
+        "name": "阪口商店",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-1.jpg",
+        "ep": "1",
+        "geo": [
+          34.50986,
+          136.19983
+        ]
+      },
+      {
+        "id": "avmvjtcr",
+        "name": "辻本商店",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-2.jpg",
+        "ep": "1",
+        "geo": [
+          34.50247,
+          136.19358
+        ]
+      },
+      {
+        "id": "c7k8hbjs",
+        "name": "「伊勢本街道」の碑",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-3.jpg",
+        "ep": "1",
+        "geo": [
+          34.50694,
+          136.20027
+        ]
+      },
+      {
+        "id": "6op47iec",
+        "name": "万代 名張店",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-4.jpg",
+        "ep": "1",
+        "geo": [
+          34.61208,
+          136.08928
+        ]
+      },
+      {
+        "id": "2tr0oo39",
+        "name": "桜井警察署 御杖駐在所",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-5.jpg",
+        "ep": "1",
+        "geo": [
+          34.4927,
+          136.17188
+        ]
+      },
+      {
+        "id": "16sne2da",
+        "name": "NTT西日本 御杖ビル",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-6.jpg",
+        "ep": "1",
+        "geo": [
+          34.49399,
+          136.17427
+        ]
+      },
+      {
+        "id": "9cuk2nwc",
+        "name": "月見岩",
+        "image": "https://image.xinu.ink/pic/data/6130/images/6130-7.jpg",
+        "ep": "1",
+        "geo": [
+          34.51041,
+          136.20595
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6130/points.json"
+  },
+  "6131": {
+    "name": "青春ブタ野郎はサンタクロースの夢を見ない",
+    "name_cn": "青春笨蛋少年不做圣诞服女郎的梦",
+    "cover": "https://image.xinu.ink/pic/data/6131/images/1.jpg",
+    "theme_color": "#a99670",
+    "points": [
+      {
+        "id": "j3hqndbt",
+        "name": "金沢八景駅第３自転車駐車場",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-1.jpg",
+        "ep": "OP",
+        "geo": [
+          35.33366,
+          139.62022
+        ]
+      },
+      {
+        "id": "5nihcgt3",
+        "name": "横浜市立大学 金沢八景キャンパス",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-2.jpg",
+        "ep": "OP",
+        "geo": [
+          35.33384,
+          139.61905
+        ]
+      },
+      {
+        "id": "081107ta",
+        "name": "藤沢駅",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-3.jpg",
+        "ep": "OP",
+        "geo": [
+          35.3392,
+          139.48762
+        ]
+      },
+      {
+        "id": "y7it1dl4",
+        "name": "日本武道館",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-4.jpg",
+        "ep": "OP",
+        "geo": [
+          35.6935,
+          139.74918
+        ]
+      },
+      {
+        "id": "uaze05m3",
+        "name": "桜木町駅",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-5.jpg",
+        "ep": "OP",
+        "geo": [
+          35.45135,
+          139.63164
+        ]
+      },
+      {
+        "id": "opebwq0b",
+        "name": "ハートロック",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-6.jpg",
+        "ep": "OP",
+        "geo": [
+          26.71379,
+          128.0148
+        ]
+      },
+      {
+        "id": "vdvnkt3k",
+        "name": "七里ガ浜ポンプ場",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-7.jpg",
+        "ep": "OP",
+        "geo": [
+          35.30631,
+          139.51085
+        ]
+      },
+      {
+        "id": "9epilml6",
+        "name": "横浜赤レンガ倉庫",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-8.jpg",
+        "ep": "ED",
+        "geo": [
+          35.45226,
+          139.64222
+        ]
+      },
+      {
+        "id": "94rd4u6m",
+        "name": "横浜市立大学 金沢八景キャンパス",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-9.jpg",
+        "ep": "1",
+        "geo": [
+          35.33363,
+          139.61877
+        ]
+      },
+      {
+        "id": "ac0xm8u7",
+        "name": "伊豆岬灯台",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-10.jpg",
+        "ep": "1",
+        "geo": [
+          34.11282,
+          139.4899
+        ]
+      },
+      {
+        "id": "4mn6x60z",
+        "name": "横浜市立大学 金沢八景キャンパス",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-11.jpg",
+        "ep": "1",
+        "geo": [
+          35.33376,
+          139.61783
+        ]
+      },
+      {
+        "id": "xlnyuzxv",
+        "name": "箱根神社",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-12.jpg",
+        "ep": "1",
+        "geo": [
+          35.19923,
+          139.02936
+        ]
+      },
+      {
+        "id": "hczn6bao",
+        "name": "南幸橋",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-13.jpg",
+        "ep": "1",
+        "geo": [
+          35.46458,
+          139.61892
+        ]
+      },
+      {
+        "id": "3mpu9te6",
+        "name": "横浜ビブレ",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-14.jpg",
+        "ep": "1",
+        "geo": [
+          35.46521,
+          139.6186
+        ]
+      },
+      {
+        "id": "jinthla4",
+        "name": "123横浜西口店",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-15.jpg",
+        "ep": "1",
+        "geo": [
+          35.46574,
+          139.61928
+        ]
+      },
+      {
+        "id": "71tonir6",
+        "name": "123横浜西口店",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-16.jpg",
+        "ep": "1",
+        "geo": [
+          35.46569,
+          139.61901
+        ]
+      },
+      {
+        "id": "mze3nxmy",
+        "name": "THE SUIT COMPANY 横浜西口店",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-17.jpg",
+        "ep": "1",
+        "geo": [
+          35.46589,
+          139.61968
+        ]
+      },
+      {
+        "id": "a24mrh0q",
+        "name": "横浜高島屋",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-18.jpg",
+        "ep": "1",
+        "geo": [
+          35.46615,
+          139.62027
+        ]
+      },
+      {
+        "id": "enqc6z23",
+        "name": "横浜高島屋",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-19.jpg",
+        "ep": "1",
+        "geo": [
+          35.46622,
+          139.62103
+        ]
+      },
+      {
+        "id": "70cr7gee",
+        "name": "オーベル藤沢藤が岡１",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-20.jpg",
+        "ep": "1",
+        "geo": [
+          35.34446,
+          139.49411
+        ]
+      },
+      {
+        "id": "dndi42vs",
+        "name": "横浜市立大学 金沢八景キャンパス",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-21.jpg",
+        "ep": "1",
+        "geo": [
+          35.33301,
+          139.61695
+        ]
+      },
+      {
+        "id": "dlog872d",
+        "name": "デニーズ 藤沢北口店",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-22.jpg",
+        "ep": "1",
+        "geo": [
+          35.3415,
+          139.48363
+        ]
+      },
+      {
+        "id": "xmkuv2zd",
+        "name": "横浜銀行 藤沢中央支店",
+        "image": "https://image.xinu.ink/pic/data/6131/images/6131-23.jpg",
+        "ep": "1",
+        "geo": [
+          35.3394,
+          139.48664
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6131/points.json"
+  },
+  "6132": {
+    "name": "その着せ替え人形は恋をする Season 2",
+    "name_cn": "その着せ替え人形は恋をする Season 2",
+    "cover": "https://image.xinu.ink/pic/data/6132/images/1.jpg",
+    "theme_color": "#b19e99",
+    "points": [
+      {
+        "id": "ge9gyzgn",
+        "name": "ユザワヤ WACCA池袋店",
+        "image": "https://image.xinu.ink/pic/data/6132/images/6132-1.jpg",
+        "ep": "1",
+        "geo": [
+          35.73159,
+          139.71459
+        ]
+      },
+      {
+        "id": "mutpvqrq",
+        "name": "新宿御苑前駅",
+        "image": "https://image.xinu.ink/pic/data/6132/images/6132-2.jpg",
+        "ep": "1",
+        "geo": [
+          35.68846,
+          139.7117
+        ]
+      },
+      {
+        "id": "x3dg242j",
+        "name": "Studio Macaron night",
+        "image": "https://image.xinu.ink/pic/data/6132/images/6132-3.jpg",
+        "ep": "1",
+        "geo": [
+          35.68848,
+          139.71221
+        ]
+      },
+      {
+        "id": "8ayk8nlb",
+        "name": "(株)黒澤楽器店 G-CLUB Shibuya",
+        "image": "https://image.xinu.ink/pic/data/6132/images/6132-4.jpg",
+        "ep": "1",
+        "geo": [
+          35.6601,
+          139.69768
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6132/points.json"
   }
 }
