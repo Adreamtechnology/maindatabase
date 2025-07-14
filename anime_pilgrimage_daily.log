@@ -812,3 +812,14 @@
 2025-07-13 12:57:03,341 - AnimePilgrimageUpdater - INFO - Test anime 4: ダンダダン 2期
 2025-07-13 12:57:03,341 - AnimePilgrimageUpdater - INFO - Test anime 5: 彼女、お借りします 4期
 2025-07-13 13:21:31,424 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-07-14 13:00:00,452 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-07-14 13:00:00,452 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-07-14 13:00:00,667 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-07-14 13:00:21,626 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-07-14 13:02:56,467 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-07-14 13:02:56,467 - AnimePilgrimageUpdater - INFO - Test anime 1: 光が死んだ夏
+2025-07-14 13:02:56,467 - AnimePilgrimageUpdater - INFO - Test anime 2: 青春ブタ野郎はサンタクロースの夢を見ない
+2025-07-14 13:02:56,467 - AnimePilgrimageUpdater - INFO - Test anime 3: その着せ替え人形は恋をする Season 2
+2025-07-14 13:02:56,467 - AnimePilgrimageUpdater - INFO - Test anime 4: ダンダダン 2期
+2025-07-14 13:02:56,467 - AnimePilgrimageUpdater - INFO - Test anime 5: 彼女、お借りします 4期
+2025-07-14 13:27:21,724 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
