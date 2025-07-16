@@ -834,3 +834,14 @@
 2025-07-15 13:03:15,546 - AnimePilgrimageUpdater - INFO - Test anime 4: ダンダダン 2期
 2025-07-15 13:03:15,546 - AnimePilgrimageUpdater - INFO - Test anime 5: 彼女、お借りします 4期
 2025-07-15 13:27:58,292 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-07-16 13:01:24,406 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-07-16 13:01:24,406 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-07-16 13:01:24,615 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-07-16 13:01:26,158 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-07-16 13:03:59,103 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-07-16 13:03:59,103 - AnimePilgrimageUpdater - INFO - Test anime 1: Turkey!
+2025-07-16 13:03:59,103 - AnimePilgrimageUpdater - INFO - Test anime 2: 彼女、お借りします 4期
+2025-07-16 13:03:59,103 - AnimePilgrimageUpdater - INFO - Test anime 3: ぐらんぶる Season 2
+2025-07-16 13:03:59,103 - AnimePilgrimageUpdater - INFO - Test anime 4: 薫る花は凛と咲く
+2025-07-16 13:03:59,103 - AnimePilgrimageUpdater - INFO - Test anime 5: Summer Pockets
+2025-07-16 13:28:49,085 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
