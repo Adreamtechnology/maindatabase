@@ -889,3 +889,14 @@
 2025-07-29 13:07:31,330 - AnimePilgrimageUpdater - INFO - Test anime 4: よふかしのうた Season 2
 2025-07-29 13:07:31,330 - AnimePilgrimageUpdater - INFO - Test anime 5: 薫る花は凛と咲く
 2025-07-29 13:32:14,344 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-07-30 13:04:20,933 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-07-30 13:04:20,933 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-07-30 13:04:21,140 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-07-30 13:04:22,654 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-07-30 13:06:54,423 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-07-30 13:06:54,424 - AnimePilgrimageUpdater - INFO - Test anime 1: 光が死んだ夏
+2025-07-30 13:06:54,424 - AnimePilgrimageUpdater - INFO - Test anime 2: 真･侍伝 YAIBA
+2025-07-30 13:06:54,424 - AnimePilgrimageUpdater - INFO - Test anime 3: 青春ブタ野郎はサンタクロースの夢を見ない
+2025-07-30 13:06:54,424 - AnimePilgrimageUpdater - INFO - Test anime 4: よふかしのうた Season 2
+2025-07-30 13:06:54,424 - AnimePilgrimageUpdater - INFO - Test anime 5: 薫る花は凛と咲く
+2025-07-30 13:31:32,901 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
