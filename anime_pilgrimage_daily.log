@@ -955,3 +955,14 @@
 2025-08-04 13:07:34,299 - AnimePilgrimageUpdater - INFO - Test anime 4: ダンダダン 2期
 2025-08-04 13:07:34,299 - AnimePilgrimageUpdater - INFO - Test anime 5: 青春ブタ野郎はサンタクロースの夢を見ない
 2025-08-04 13:31:44,339 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-08-05 13:04:51,398 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-08-05 13:04:51,398 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-08-05 13:04:51,608 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-08-05 13:04:53,287 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-08-05 13:07:25,299 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-08-05 13:07:25,299 - AnimePilgrimageUpdater - INFO - Test anime 1: Summer Pockets
+2025-08-05 13:07:25,299 - AnimePilgrimageUpdater - INFO - Test anime 2: 光が死んだ夏
+2025-08-05 13:07:25,299 - AnimePilgrimageUpdater - INFO - Test anime 3: 怪獣8号 第2期
+2025-08-05 13:07:25,299 - AnimePilgrimageUpdater - INFO - Test anime 4: ダンダダン 2期
+2025-08-05 13:07:25,299 - AnimePilgrimageUpdater - INFO - Test anime 5: 青春ブタ野郎はサンタクロースの夢を見ない
+2025-08-05 13:31:40,057 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
