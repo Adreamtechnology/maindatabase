@@ -1032,3 +1032,14 @@
 2025-08-11 13:08:14,215 - AnimePilgrimageUpdater - INFO - Test anime 4: よふかしのうた Season 2
 2025-08-11 13:08:14,215 - AnimePilgrimageUpdater - INFO - Test anime 5: タコピーの原罪
 2025-08-11 13:32:39,920 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-08-12 12:59:36,068 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-08-12 12:59:36,068 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-08-12 12:59:36,282 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-08-12 12:59:37,262 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-08-12 13:02:08,848 - AnimePilgrimageUpdater - INFO - Successfully retrieved 72 anime in test run
+2025-08-12 13:02:08,848 - AnimePilgrimageUpdater - INFO - Test anime 1: 薫る花は凛と咲く
+2025-08-12 13:02:08,848 - AnimePilgrimageUpdater - INFO - Test anime 2: 怪獣8号 第2期
+2025-08-12 13:02:08,848 - AnimePilgrimageUpdater - INFO - Test anime 3: 彼女、お借りします 4期
+2025-08-12 13:02:08,848 - AnimePilgrimageUpdater - INFO - Test anime 4: よふかしのうた Season 2
+2025-08-12 13:02:08,848 - AnimePilgrimageUpdater - INFO - Test anime 5: タコピーの原罪
+2025-08-12 13:26:48,365 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
