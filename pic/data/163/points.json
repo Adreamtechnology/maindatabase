@@ -40,5 +40,33 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.964826%2C138.467581&z=17"
+  },
+  {
+    "id": "kpwmv1c3k",
+    "cn": "追分羊羹店",
+    "name": "追分羊かん",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1c3k-1757846754753.jpg",
+    "ep": "樱桃小丸子2015剧场版映像特典：旅行小丸子",
+    "s": "09:45",
+    "geo": [
+      35.0143,
+      138.4721
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=35.014396%2C138.472154&z=17"
+  },
+  {
+    "id": "kpwmv1cnv",
+    "cn": "日本平動物園",
+    "name": "静岡市立 日本平動物園",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1cnv-1757847233240.jpg",
+    "ep": "樱桃小丸子之富士山特辑",
+    "s": "15:10",
+    "geo": [
+      34.9801,
+      138.4397
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.980112%2C138.439727&z=17"
   }
 ]

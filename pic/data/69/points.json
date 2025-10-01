@@ -653,5 +653,28 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5d9wjqb",
+    "name": "ノースコート",
+    "image": "https://image.xinu.ink/pic/data/69/images/5d9wjqb-1758696965066.jpg",
+    "ep": "9",
+    "s": "01：24",
+    "geo": [
+      35.044,
+      135.7919
+    ]
+  },
+  {
+    "id": "s8qpjgquv",
+    "name": "飛び出し注意看板（中野梓）",
+    "image": "https://image.xinu.ink/pic/data/69/images/s8qpjgquv-1758700886827.jpg",
+    "ep": null,
+    "geo": [
+      35.1976,
+      136.2305
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

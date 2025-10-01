@@ -190,5 +190,55 @@
       35.7147,
       139.7964
     ]
+  },
+  {
+    "id": "4hy7tv8",
+    "name": "仲見世会館",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hy7tv8_1756802906244.jpg",
+    "ep": 7,
+    "s": 970,
+    "geo": [
+      35.7124,
+      139.7966
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4hmbk6l",
+    "cn": "荒井文扇堂",
+    "name": "荒井文扇堂",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hmbk6l_1756802081168_c16v9.jpg",
+    "ep": "第七话",
+    "s": 1011,
+    "geo": [
+      35.7115,
+      139.7964
+    ]
+  },
+  {
+    "id": "4hmn6a3",
+    "cn": "浅草寺 本堂",
+    "name": "Senso-ji Hondo 浅草寺 本堂(観音堂)",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hmn6a3_1756802078445_c16v9.jpg",
+    "ep": "第七集",
+    "s": 1090,
+    "geo": [
+      35.7145,
+      139.7967
+    ]
+  },
+  {
+    "id": "4hxwgog",
+    "name": "晴空塔",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hxwgog_1756802352309.jpg",
+    "ep": 7,
+    "s": 842,
+    "geo": [
+      35.7099,
+      139.812
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
   }
 ]
