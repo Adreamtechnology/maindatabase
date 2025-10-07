@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "明日方舟",
   "name_cn": "明日方舟",
-  "local_id": 6245
+  "local_id": 6245,
+  "region": [
+    "油尖旺區"
+  ]
 }

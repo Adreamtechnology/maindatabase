@@ -69,5 +69,9 @@
   "imagesLength": 6,
   "name": "リベンジャー",
   "name_cn": "复仇者",
-  "local_id": 6251
+  "local_id": 6251,
+  "region": [
+    "长崎县",
+    "东莞市"
+  ]
 }

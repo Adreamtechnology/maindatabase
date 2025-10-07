@@ -30,5 +30,9 @@
   "pointsLength": 3,
   "imagesLength": 3,
   "name": "蓬莱人形　～ Dolls in Pseudo Paradise",
-  "local_id": 6242
+  "local_id": 6242,
+  "region": [
+    "东莞市",
+    "新北市"
+  ]
 }

@@ -112,5 +112,13 @@
   "imagesLength": 31,
   "name": "maimai",
   "name_cn": "舞萌",
-  "local_id": 6244
+  "local_id": 6244,
+  "region": [
+    "东京都/東京都",
+    "福冈县",
+    "熊本县",
+    "虻田郡",
+    "余市郡",
+    "Peidie Kousapw"
+  ]
 }
