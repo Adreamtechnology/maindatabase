@@ -387,5 +387,16 @@
     ],
     "origin": "Anitabi@鸟之诗",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5z3hugd",
+    "name": "白野江小学2",
+    "image": "https://image.xinu.ink/pic/data/3/images/5z3hugd_1760018637542.jpg",
+    "geo": [
+      33.9383,
+      131.0083
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
   }
 ]

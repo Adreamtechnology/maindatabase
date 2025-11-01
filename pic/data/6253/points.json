@@ -9,5 +9,36 @@
       35.7002,
       139.7584
     ]
+  },
+  {
+    "id": "5nayayc",
+    "cn": "初遇电话亭",
+    "name": "甘蘭牛肉麵 东京神保町店",
+    "image": "https://image.xinu.ink/pic/data/6253/images/5nayayc-1759303514626.jpg",
+    "ep": null,
+    "geo": [
+      35.6976,
+      139.7574
+    ]
+  },
+  {
+    "id": "5naoyp5",
+    "name": "コート女坂",
+    "image": "https://image.xinu.ink/pic/data/6253/images/5naoyp5-1759302954771.jpg",
+    "ep": null,
+    "geo": [
+      35.7002,
+      139.7586
+    ]
+  },
+  {
+    "id": "5na3pq8",
+    "name": "葵ビル",
+    "image": "https://image.xinu.ink/pic/data/6253/images/5na3pq8-1759302814354.jpg",
+    "ep": null,
+    "geo": [
+      35.7,
+      139.7582
+    ]
   }
 ]
