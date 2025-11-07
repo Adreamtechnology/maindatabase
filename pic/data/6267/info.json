@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "Firewatch",
   "name_cn": "看火人",
-  "local_id": 6267
+  "local_id": 6267,
+  "region": [
+    "Daggett County"
+  ]
 }

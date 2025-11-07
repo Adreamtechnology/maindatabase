@@ -75,5 +75,12 @@
   "pointsLength": 6,
   "imagesLength": 6,
   "name": "てつりょー！meet with 鉄道むすめ",
-  "local_id": 6279
+  "local_id": 6279,
+  "region": [
+    "东京都/東京都",
+    "千叶县",
+    "神奈川縣",
+    "长崎县",
+    "滋賀县"
+  ]
 }

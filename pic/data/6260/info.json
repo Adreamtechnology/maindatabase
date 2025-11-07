@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "ラブひな",
   "name_cn": "纯情房东俏房客",
-  "local_id": 6260
+  "local_id": 6260,
+  "region": [
+    "福冈县"
+  ]
 }

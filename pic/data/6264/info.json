@@ -101,5 +101,8 @@
   "imagesLength": 4,
   "name": "この世界の片隅に",
   "name_cn": "在这世界的角落",
-  "local_id": 6264
+  "local_id": 6264,
+  "region": [
+    "广岛县"
+  ]
 }

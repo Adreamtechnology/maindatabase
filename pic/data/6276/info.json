@@ -23,5 +23,8 @@
   "imagesLength": 1,
   "name": "オーイ！とんぼ",
   "name_cn": "蜻蛉高球",
-  "local_id": 6276
+  "local_id": 6276,
+  "region": [
+    "鹿儿岛郡"
+  ]
 }

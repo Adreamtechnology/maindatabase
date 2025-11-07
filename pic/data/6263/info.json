@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "Driv3r",
   "name_cn": "极道车魂3",
-  "local_id": 6263
+  "local_id": 6263,
+  "region": [
+    "迈阿密-戴德县;邁亞美戴德縣;邁阿密-戴德郡"
+  ]
 }

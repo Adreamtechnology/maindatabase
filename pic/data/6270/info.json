@@ -99,5 +99,8 @@
   "imagesLength": 8,
   "name": "この美術部には問題がある！",
   "name_cn": "这个美术社大有问题！",
-  "local_id": 6270
+  "local_id": 6270,
+  "region": [
+    "东京都/東京都"
+  ]
 }

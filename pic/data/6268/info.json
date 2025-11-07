@@ -22,5 +22,8 @@
   "imagesLength": 1,
   "name": "傷物語Ⅱ熱血篇",
   "name_cn": "伤物语Ⅱ热血篇",
-  "local_id": 6268
+  "local_id": 6268,
+  "region": [
+    "东京都/東京都"
+  ]
 }

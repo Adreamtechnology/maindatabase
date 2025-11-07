@@ -22,5 +22,8 @@
   "imagesLength": 1,
   "name": "傷物語Ⅲ冷血篇",
   "name_cn": "伤物语Ⅲ冷血篇",
-  "local_id": 6269
+  "local_id": 6269,
+  "region": [
+    "东京都/東京都"
+  ]
 }
