@@ -1,0 +1,30 @@
+[
+  {
+    "id": "735a1vy",
+    "cn": "多摩川堤路",
+    "name": "多摩川堤通り",
+    "image": "https://image.xinu.ink/pic/data/6289/images/735a1vy-1762438387723.jpg",
+    "ep": "PV",
+    "s": 19,
+    "geo": [
+      35.6414,
+      139.5369
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "735u70y",
+    "cn": "京王电铁杜鹃丘站附近",
+    "name": "京王電鉄つつじヶ丘駅の近く",
+    "image": "https://image.xinu.ink/pic/data/6289/images/735u70y-1762439244270.jpg",
+    "ep": "PV",
+    "s": 32,
+    "geo": [
+      35.6578,
+      139.5743
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  }
+]

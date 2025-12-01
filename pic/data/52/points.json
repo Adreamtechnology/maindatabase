@@ -555,5 +555,205 @@
       34.9951,
       135.7836
     ]
+  },
+  {
+    "id": "7mh9gx1",
+    "name": "南方熊楠記念館入口",
+    "image": "https://image.xinu.ink/pic/data/52/images/7mh9gx1-1763607184151.jpg",
+    "ep": 255,
+    "s": 205,
+    "geo": [
+      33.693,
+      135.337
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7mit96m",
+    "name": "南方熊楠記念館",
+    "image": "https://image.xinu.ink/pic/data/52/images/7mit96m-1763609694402.jpg",
+    "ep": 255,
+    "s": 225,
+    "geo": [
+      33.6934,
+      135.3358
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7mivbei",
+    "name": "三段壁洞窟入口",
+    "image": "https://image.xinu.ink/pic/data/52/images/7mivbei-1763609796228.jpg",
+    "ep": 255,
+    "s": 574,
+    "geo": [
+      33.6658,
+      135.3357
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7mixa6e",
+    "cn": "冒险世界",
+    "name": "アドベンチャーワールド",
+    "image": "https://image.xinu.ink/pic/data/52/images/7mixa6e-1763610020776.jpg",
+    "ep": 255,
+    "s": 699,
+    "geo": [
+      33.6679,
+      135.3761
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7mjauya",
+    "cn": "南纪白滨丰收市场",
+    "name": "とれとれ市場南紀白浜",
+    "image": "https://image.xinu.ink/pic/data/52/images/7mjauya-1763610679361.jpg",
+    "ep": 255,
+    "s": 705,
+    "geo": [
+      33.681,
+      135.375
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ppk2jq",
+    "name": "松江城",
+    "image": "https://image.xinu.ink/pic/data/52/images/7ppk2jq_1763802421576.jpg",
+    "ep": 274,
+    "geo": [
+      35.475,
+      133.0507
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ppm5vo",
+    "name": "宍道湖",
+    "image": "https://image.xinu.ink/pic/data/52/images/7ppm5vo_1763802524197.jpg",
+    "ep": 274,
+    "geo": [
+      35.4633,
+      133.0493
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ppnm4o",
+    "name": "城山稲荷神社",
+    "image": "https://image.xinu.ink/pic/data/52/images/7ppnm4o_1763802585231.jpg",
+    "ep": 274,
+    "geo": [
+      35.4776,
+      133.0495
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ppp7ep",
+    "name": "小泉八雲旧居",
+    "image": "https://image.xinu.ink/pic/data/52/images/7ppp7ep_1763802654706.jpg",
+    "ep": 274,
+    "geo": [
+      35.4791,
+      133.0494
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7pprayl",
+    "name": "八重垣​神社​",
+    "image": "https://image.xinu.ink/pic/data/52/images/7pprayl_1763802803360.jpg",
+    "ep": 274,
+    "geo": [
+      35.429,
+      133.0736
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ppt7jm",
+    "name": "八重垣​神社​ 鏡の池",
+    "image": "https://image.xinu.ink/pic/data/52/images/7ppt7jm_1763802850010.jpg",
+    "ep": 274,
+    "geo": [
+      35.4288,
+      133.0723
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ppzk13",
+    "name": "松江警察署",
+    "image": "https://image.xinu.ink/pic/data/52/images/7ppzk13_1763803136078.jpg",
+    "ep": 274,
+    "geo": [
+      35.4558,
+      133.0504
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7pqqk7g",
+    "cn": "路易斯•C•提芬妮庭园美术馆（今松江英国花园）",
+    "name": "ルイス·C·ティファニー庭園美術館（松江​イングリッシュ​ガーデン）",
+    "image": "https://image.xinu.ink/pic/data/52/images/7pqqk7g_1763804490940.jpg",
+    "ep": 274,
+    "geo": [
+      35.4759,
+      133.0065
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7pqztqf",
+    "name": "月照寺",
+    "image": "https://image.xinu.ink/pic/data/52/images/7pqztqf_1763804827198.jpg",
+    "ep": 274,
+    "geo": [
+      35.4716,
+      133.0398
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7pr2n4v",
+    "name": "武家屋敷",
+    "image": "https://image.xinu.ink/pic/data/52/images/7pr2n4v_1763804957530.jpg",
+    "ep": 274,
+    "geo": [
+      35.4784,
+      133.0507
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7pr3xto",
+    "name": "島根県立美術館",
+    "image": "https://image.xinu.ink/pic/data/52/images/7pr3xto_1763805030879.jpg",
+    "ep": 274,
+    "geo": [
+      35.4599,
+      133.0535
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

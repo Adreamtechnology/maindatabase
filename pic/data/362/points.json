@@ -32,5 +32,16 @@
     ],
     "origin": "Anitabi@喔喔酱",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7qzwfnd",
+    "cn": "上学路",
+    "name": "思明南路",
+    "image": "https://image.xinu.ink/pic/data/362/images/7qzwfnd-1763880511824.jpg",
+    "ep": null,
+    "geo": [
+      24.4427,
+      118.0881
+    ]
   }
 ]

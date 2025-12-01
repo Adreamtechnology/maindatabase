@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7sdlrj9",
+    "name": "Cafeteria BREATH",
+    "image": "https://image.xinu.ink/pic/data/6287/images/7sdlrj9-1763963772097.jpg",
+    "ep": null,
+    "s": 178,
+    "geo": [
+      34.6691,
+      135.2027
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7se7p43",
+    "name": "聚楽園大仏",
+    "image": "https://image.xinu.ink/pic/data/6287/images/7se7p43-1763964762868.jpg",
+    "ep": null,
+    "s": "554",
+    "geo": [
+      35.0438,
+      136.9044
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7svtqjg",
+    "name": "ザ・​ライオンズミッドキャピタルタワー",
+    "image": "https://image.xinu.ink/pic/data/6287/images/7svtqjg-1763994350797.jpg",
+    "ep": null,
+    "s": "617",
+    "geo": [
+      35.1349,
+      136.9098
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  }
+]
