@@ -1077,3 +1077,14 @@
 2025-11-18 12:59:55,539 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
 2025-11-18 13:02:28,128 - AnimePilgrimageUpdater - ERROR - Error in test anime list retrieval: EOF when reading a line
 2025-11-18 13:04:27,478 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-12-22 13:01:15,353 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-12-22 13:01:15,354 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-12-22 13:01:15,573 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-12-22 13:01:16,878 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-12-22 13:04:01,027 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-12-22 13:04:01,027 - AnimePilgrimageUpdater - INFO - Test anime 1: ちゃんと吸えない吸血鬼ちゃん
+2025-12-22 13:04:01,027 - AnimePilgrimageUpdater - INFO - Test anime 2: 藤本タツキ 17-26
+2025-12-22 13:04:01,027 - AnimePilgrimageUpdater - INFO - Test anime 3: 涼宮ハルヒの消失
+2025-12-22 13:04:01,027 - AnimePilgrimageUpdater - INFO - Test anime 4: 千歳くんはラムネ瓶のなか
+2025-12-22 13:04:01,027 - AnimePilgrimageUpdater - INFO - Test anime 5: ウマ娘 シンデレラグレイ 第2クール
+2025-12-22 13:28:29,983 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
