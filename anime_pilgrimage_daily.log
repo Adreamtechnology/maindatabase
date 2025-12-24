@@ -1099,3 +1099,14 @@
 2025-12-23 13:05:38,544 - AnimePilgrimageUpdater - INFO - Test anime 4: 千歳くんはラムネ瓶のなか
 2025-12-23 13:05:38,544 - AnimePilgrimageUpdater - INFO - Test anime 5: ウマ娘 シンデレラグレイ 第2クール
 2025-12-23 13:28:24,656 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-12-24 13:00:39,203 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-12-24 13:00:39,204 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-12-24 13:00:39,436 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-12-24 13:00:41,897 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-12-24 13:03:26,291 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-12-24 13:03:26,291 - AnimePilgrimageUpdater - INFO - Test anime 1: 千歳くんはラムネ瓶のなか
+2025-12-24 13:03:26,291 - AnimePilgrimageUpdater - INFO - Test anime 2: ちゃんと吸えない吸血鬼ちゃん
+2025-12-24 13:03:26,291 - AnimePilgrimageUpdater - INFO - Test anime 3: 藤本タツキ 17-26
+2025-12-24 13:03:26,291 - AnimePilgrimageUpdater - INFO - Test anime 4: 涼宮ハルヒの消失
+2025-12-24 13:03:26,291 - AnimePilgrimageUpdater - INFO - Test anime 5: ウマ娘 シンデレラグレイ 第2クール
+2025-12-24 13:25:57,731 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
