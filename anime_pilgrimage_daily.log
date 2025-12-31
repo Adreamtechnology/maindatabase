@@ -1165,3 +1165,14 @@
 2025-12-30 13:05:38,864 - AnimePilgrimageUpdater - INFO - Test anime 4: 永久のユウグレ
 2025-12-30 13:05:38,864 - AnimePilgrimageUpdater - INFO - Test anime 5: 私を喰べたい、ひとでなし
 2025-12-30 13:27:14,111 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2025-12-31 13:00:46,068 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2025-12-31 13:00:46,068 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2025-12-31 13:00:46,288 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2025-12-31 13:00:47,432 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 1: 私を喰べたい、ひとでなし
+2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 2: 千歳くんはラムネ瓶のなか
+2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 3: 衛宮さんちの今日のごはん
+2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 4: 【推しの子】
+2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 5: 終末ツーリング
+2025-12-31 13:25:13,858 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
