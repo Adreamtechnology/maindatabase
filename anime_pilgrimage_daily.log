@@ -1176,3 +1176,14 @@
 2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 4: 【推しの子】
 2025-12-31 13:03:31,556 - AnimePilgrimageUpdater - INFO - Test anime 5: 終末ツーリング
 2025-12-31 13:25:13,858 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-01-01 13:01:27,967 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-01-01 13:01:27,967 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-01-01 13:01:28,192 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-01-01 13:01:29,734 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-01-01 13:04:12,168 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2026-01-01 13:04:12,168 - AnimePilgrimageUpdater - INFO - Test anime 1: 私を喰べたい、ひとでなし
+2026-01-01 13:04:12,168 - AnimePilgrimageUpdater - INFO - Test anime 2: 千歳くんはラムネ瓶のなか
+2026-01-01 13:04:12,168 - AnimePilgrimageUpdater - INFO - Test anime 3: 衛宮さんちの今日のごはん
+2026-01-01 13:04:12,168 - AnimePilgrimageUpdater - INFO - Test anime 4: 【推しの子】
+2026-01-01 13:04:12,168 - AnimePilgrimageUpdater - INFO - Test anime 5: 終末ツーリング
+2026-01-01 13:25:55,512 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
