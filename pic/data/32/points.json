@@ -393,5 +393,38 @@
     ],
     "origin": "Anitabi@大吉山展望台",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6opykf",
+    "name": "Hyatt Regency Tokyo ホテル全景",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opykf_1765524624143.jpg",
+    "geo": [
+      35.691,
+      139.6922
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.691032%2C139.692262&z=17"
+  },
+  {
+    "id": "kpx6opytc",
+    "name": "都議会前　散歩",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opytc_1765524733615.jpg",
+    "geo": [
+      35.6896,
+      139.6927
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.689688%2C139.692771&z=17"
+  },
+  {
+    "id": "kpx6oq09b",
+    "name": "西徳善八幡宮　空港から杜崎家",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oq09b_1765524815552.jpg",
+    "geo": [
+      33.5414,
+      133.6995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.541486%2C133.699544&z=17"
   }
 ]

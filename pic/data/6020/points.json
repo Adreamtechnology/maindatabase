@@ -254,5 +254,47 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8eah75o",
+    "cn": "霞关站 丸之内线1站台西侧",
+    "name": "霞ケ関駅  丸ノ内線 1番線ホーム（西側）",
+    "image": "https://image.xinu.ink/pic/data/6020/images/8eah75o_1765288923117.jpg",
+    "ep": 0,
+    "s": 900,
+    "geo": [
+      35.6746,
+      139.7518
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8eb3jai",
+    "cn": "警视厅本部厅舍正门",
+    "name": "警視庁本部庁舎前",
+    "image": "https://image.xinu.ink/pic/data/6020/images/8eb3jai_1765289813159.jpg",
+    "ep": 0,
+    "s": 1163,
+    "geo": [
+      35.6771,
+      139.7528
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8o7knwc",
+    "cn": "东京站21站台",
+    "name": "東京駅　21番線",
+    "image": "https://image.xinu.ink/pic/data/6020/images/8o7knwc_1765888552885.jpg",
+    "ep": 0,
+    "s": 1210,
+    "geo": [
+      35.6822,
+      139.7677
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]
