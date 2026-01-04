@@ -1209,3 +1209,14 @@
 2026-01-03 13:01:00,011 - AnimePilgrimageUpdater - INFO - Test anime 4: ワンパンマン 3期
 2026-01-03 13:01:00,011 - AnimePilgrimageUpdater - INFO - Test anime 5: ウマ娘 シンデレラグレイ 第2クール
 2026-01-03 13:22:01,090 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-01-04 12:58:57,061 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-01-04 12:58:57,062 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-01-04 12:58:57,280 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-01-04 12:58:59,368 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-01-04 13:01:35,364 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2026-01-04 13:01:35,364 - AnimePilgrimageUpdater - INFO - Test anime 1: であいもん
+2026-01-04 13:01:35,365 - AnimePilgrimageUpdater - INFO - Test anime 2: 終末ツーリング
+2026-01-04 13:01:35,365 - AnimePilgrimageUpdater - INFO - Test anime 3: 千歳くんはラムネ瓶のなか
+2026-01-04 13:01:35,365 - AnimePilgrimageUpdater - INFO - Test anime 4: ワンパンマン 3期
+2026-01-04 13:01:35,365 - AnimePilgrimageUpdater - INFO - Test anime 5: ウマ娘 シンデレラグレイ 第2クール
+2026-01-04 13:22:39,055 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
