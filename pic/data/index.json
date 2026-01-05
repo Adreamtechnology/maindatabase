@@ -486269,5 +486269,164 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6322/points.json"
+  },
+  "6323": {
+    "name": "違国日記",
+    "name_cn": "他国日记",
+    "cover": "https://image.xinu.ink/pic/data/6323/images/1.jpg",
+    "theme_color": "#9caca6",
+    "points": [
+      {
+        "id": "dqpg3m78",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "loh6n8gu",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "gc9fep80",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "tylh965h",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "j465o926",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "7w72vxs0",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "llo27b4g",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "w5betwel",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "507nvlo6",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "rnofa90b",
+        "name": "ヤマシタトモコ",
+        "image": "https://image.xinu.ink/pic/data/6323/images/6323-10.jpg",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "t1be9l3v",
+        "name": "ヤマシタトモコ",
+        "image": "https://image.xinu.ink/pic/data/6323/images/6323-11.jpg",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "9kjwm5cj",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "gq90q616",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "yswn9gzr",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ifvd6qjk",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6323/points.json"
   }
 }
