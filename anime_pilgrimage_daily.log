@@ -1231,3 +1231,14 @@
 2026-01-05 13:09:49,418 - AnimePilgrimageUpdater - INFO - Test anime 4: 千歳くんはラムネ瓶のなか
 2026-01-05 13:09:49,418 - AnimePilgrimageUpdater - INFO - Test anime 5: ワンパンマン 3期
 2026-01-05 13:31:31,494 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-01-06 13:03:44,365 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-01-06 13:03:44,366 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-01-06 13:03:44,585 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-01-06 13:03:45,487 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-01-06 13:06:20,249 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2026-01-06 13:06:20,250 - AnimePilgrimageUpdater - INFO - Test anime 1: 綺麗にしてもらえますか。
+2026-01-06 13:06:20,250 - AnimePilgrimageUpdater - INFO - Test anime 2: 違国日記
+2026-01-06 13:06:20,250 - AnimePilgrimageUpdater - INFO - Test anime 3: であいもん
+2026-01-06 13:06:20,250 - AnimePilgrimageUpdater - INFO - Test anime 4: 終末ツーリング
+2026-01-06 13:06:20,250 - AnimePilgrimageUpdater - INFO - Test anime 5: 千歳くんはラムネ瓶のなか
+2026-01-06 13:27:33,900 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
