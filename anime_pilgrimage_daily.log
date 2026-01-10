@@ -1275,3 +1275,14 @@
 2026-01-09 13:07:55,232 - AnimePilgrimageUpdater - INFO - Test anime 4: 弱キャラ友崎くん
 2026-01-09 13:07:55,232 - AnimePilgrimageUpdater - INFO - Test anime 5: 綺麗にしてもらえますか。
 2026-01-09 13:29:17,990 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-01-10 12:59:29,937 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-01-10 12:59:29,938 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-01-10 12:59:30,187 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-01-10 12:59:32,008 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-01-10 13:02:05,552 - AnimePilgrimageUpdater - INFO - Successfully retrieved 90 anime in test run
+2026-01-10 13:02:05,552 - AnimePilgrimageUpdater - INFO - Test anime 1: 私を喰べたい、ひとでなし
+2026-01-10 13:02:05,552 - AnimePilgrimageUpdater - INFO - Test anime 2: 呪術廻戦 死滅回遊
+2026-01-10 13:02:05,552 - AnimePilgrimageUpdater - INFO - Test anime 3: 千歳くんはラムネ瓶のなか
+2026-01-10 13:02:05,552 - AnimePilgrimageUpdater - INFO - Test anime 4: かぐや様は告らせたい 大人への階段
+2026-01-10 13:02:05,552 - AnimePilgrimageUpdater - INFO - Test anime 5: 弱キャラ友崎くん
+2026-01-10 13:23:30,240 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
