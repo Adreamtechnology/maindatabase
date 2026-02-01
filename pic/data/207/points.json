@@ -243,5 +243,18 @@
     ],
     "origin": "Anitabi@初晨",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9cuhiez",
+    "name": "多摩川铁路",
+    "image": "https://image.xinu.ink/pic/data/207/images/9cuhiez-1767378245147.jpg",
+    "ep": 14,
+    "s": "22：28",
+    "geo": [
+      35.64,
+      139.5349
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.640097%2C139.534972&z=17"
   }
 ]

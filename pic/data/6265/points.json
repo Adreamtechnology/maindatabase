@@ -290,5 +290,18 @@
       34.7419,
       135.3309
     ]
+  },
+  {
+    "id": "9g7mvpg",
+    "name": "東急百貨店スタバ前",
+    "image": "https://image.xinu.ink/pic/data/6265/images/9g7mvpg-1767581705799.jpg",
+    "ep": 3,
+    "s": 1008,
+    "geo": [
+      35.7053,
+      139.5775
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

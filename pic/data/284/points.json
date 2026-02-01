@@ -559,5 +559,16 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "532b5ed9",
+    "name": "イオンタワーと京葉線高架",
+    "image": "https://image.xinu.ink/pic/data/284/images/532b5ed9_1768636489633.jpg",
+    "geo": [
+      35.6502,
+      140.0381
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1BrgWbK2y4Jk7srdCNdfvTmrUXbk&ll=35.650287%2C140.038117&z=17"
   }
 ]

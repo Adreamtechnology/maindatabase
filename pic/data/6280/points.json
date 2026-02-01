@@ -82,5 +82,28 @@
     ],
     "origin": "Anitabi@真手凛",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a9g09r2",
+    "cn": "大山子社区",
+    "name": "大山子北里-10号楼",
+    "image": "https://image.xinu.ink/pic/data/6280/images/a9g09r2-1769349345250.jpg",
+    "ep": "片尾曲图片",
+    "s": 678,
+    "geo": [
+      39.9852,
+      116.4816
+    ]
+  },
+  {
+    "id": "a9h0ak2",
+    "name": "建国路华贸桥 天桥",
+    "image": "https://image.xinu.ink/pic/data/6280/images/a9h0ak2-1769351096510.jpg",
+    "ep": "片尾",
+    "s": 663,
+    "geo": [
+      39.9071,
+      116.4756
+    ]
   }
 ]
