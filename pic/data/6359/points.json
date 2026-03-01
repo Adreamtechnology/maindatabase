@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bjy4gks",
+    "name": "愛・地球博記念公園 アイススケート場",
+    "image": "https://image.xinu.ink/pic/data/6359/images/bjy4gks-1772161568376.jpg",
+    "ep": "18",
+    "geo": [
+      35.1749,
+      137.0888
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bjyx2ma",
+    "name": "愛・地球博記念公園 アイススケート場　ゲート",
+    "image": "https://image.xinu.ink/pic/data/6359/images/bjyx2ma-1772162519382.jpg",
+    "ep": "18",
+    "geo": [
+      35.174,
+      137.0889
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bjyz5xg",
+    "name": "愛・​地球​博​記念​公園​アイス​スケート場　場内",
+    "image": "https://image.xinu.ink/pic/data/6359/images/bjyz5xg-1772162568916.jpg",
+    "ep": "18",
+    "geo": [
+      35.1743,
+      137.0885
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]
