@@ -593,5 +593,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.797808%2C135.247696&z=17"
+  },
+  {
+    "id": "5572650f",
+    "name": "平等院",
+    "image": "https://image.xinu.ink/pic/data/6341/images/5572650f-1774413541301.jpg",
+    "ep": "1",
+    "s": "1098",
+    "geo": [
+      34.8892,
+      135.8076
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.889291%2C135.807678&z=17"
   }
 ]
