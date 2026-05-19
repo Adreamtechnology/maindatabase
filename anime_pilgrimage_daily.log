@@ -1308,3 +1308,12 @@
 2026-01-12 13:09:50,137 - AnimePilgrimageUpdater - INFO - Test anime 4: 千歳くんはラムネ瓶のなか
 2026-01-12 13:09:50,137 - AnimePilgrimageUpdater - INFO - Test anime 5: かぐや様は告らせたい 大人への階段
 2026-01-12 13:31:45,141 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-05-19 15:57:16,046 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-05-19 15:57:16,046 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-05-19 15:57:16,262 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-05-19 15:57:18,136 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-05-19 16:00:16,612 - AnimePilgrimageUpdater - INFO - Successfully retrieved 3 anime in test run
+2026-05-19 16:00:16,612 - AnimePilgrimageUpdater - INFO - Test anime 1: 
+2026-05-19 16:00:16,612 - AnimePilgrimageUpdater - INFO - Test anime 2: 
+2026-05-19 16:00:16,612 - AnimePilgrimageUpdater - INFO - Test anime 3: 
+2026-05-19 16:03:16,597 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
