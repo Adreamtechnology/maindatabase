@@ -1587,3 +1587,12 @@
 2026-06-18 15:53:31,250 - AnimePilgrimageUpdater - INFO - Test anime 2: 
 2026-06-18 15:53:31,250 - AnimePilgrimageUpdater - INFO - Test anime 3: 
 2026-06-18 15:56:31,019 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-06-19 15:40:23,238 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-06-19 15:40:23,238 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-06-19 15:40:23,473 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-06-19 15:40:24,504 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-06-19 15:43:23,282 - AnimePilgrimageUpdater - INFO - Successfully retrieved 3 anime in test run
+2026-06-19 15:43:23,282 - AnimePilgrimageUpdater - INFO - Test anime 1: 
+2026-06-19 15:43:23,282 - AnimePilgrimageUpdater - INFO - Test anime 2: 
+2026-06-19 15:43:23,282 - AnimePilgrimageUpdater - INFO - Test anime 3: 
+2026-06-19 15:46:23,665 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
