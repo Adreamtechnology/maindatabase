@@ -1706,3 +1706,14 @@
 2026-07-01 14:57:59,667 - AnimePilgrimageUpdater - INFO - Test anime 4: 日本三國
 2026-07-01 14:57:59,667 - AnimePilgrimageUpdater - INFO - Test anime 5: 空色ユーティリティ
 2026-07-01 15:12:17,758 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-07-02 14:26:41,481 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-02 14:26:41,482 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-02 14:26:41,712 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-02 14:26:43,403 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-02 14:28:44,392 - AnimePilgrimageUpdater - INFO - Successfully retrieved 16 anime in test run
+2026-07-02 14:28:44,392 - AnimePilgrimageUpdater - INFO - Test anime 1: クラスで２番目に可愛い女の子と友だちになった
+2026-07-02 14:28:44,392 - AnimePilgrimageUpdater - INFO - Test anime 2: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-02 14:28:44,392 - AnimePilgrimageUpdater - INFO - Test anime 3: お隣の天使様にいつの間にか駄目人間にされていた件 第2期
+2026-07-02 14:28:44,392 - AnimePilgrimageUpdater - INFO - Test anime 4: 日本三國
+2026-07-02 14:28:44,392 - AnimePilgrimageUpdater - INFO - Test anime 5: 空色ユーティリティ
+2026-07-02 14:41:19,328 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
