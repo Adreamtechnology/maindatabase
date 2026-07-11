@@ -1805,3 +1805,14 @@
 2026-07-10 14:51:10,380 - AnimePilgrimageUpdater - INFO - Test anime 4: 呪術廻戦 死滅回遊
 2026-07-10 14:51:10,380 - AnimePilgrimageUpdater - INFO - Test anime 5: 多聞くん今どっち!?
 2026-07-10 15:08:51,984 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-07-11 13:47:10,528 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-11 13:47:10,528 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-11 13:47:10,772 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-11 13:47:12,699 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-11 13:49:11,632 - AnimePilgrimageUpdater - INFO - Successfully retrieved 16 anime in test run
+2026-07-11 13:49:11,632 - AnimePilgrimageUpdater - INFO - Test anime 1: GROTESQQQUE -グロテスク-
+2026-07-11 13:49:11,632 - AnimePilgrimageUpdater - INFO - Test anime 2: あかね噺
+2026-07-11 13:49:11,633 - AnimePilgrimageUpdater - INFO - Test anime 3: 違国日記
+2026-07-11 13:49:11,633 - AnimePilgrimageUpdater - INFO - Test anime 4: 呪術廻戦 死滅回遊
+2026-07-11 13:49:11,633 - AnimePilgrimageUpdater - INFO - Test anime 5: 多聞くん今どっち!?
+2026-07-11 14:02:42,932 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
