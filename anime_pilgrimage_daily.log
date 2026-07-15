@@ -1849,3 +1849,14 @@
 2026-07-14 14:09:46,785 - AnimePilgrimageUpdater - INFO - Test anime 4: ヤニねこ
 2026-07-14 14:09:46,785 - AnimePilgrimageUpdater - INFO - Test anime 5: 幼女戦記
 2026-07-14 14:25:35,852 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-07-15 14:03:50,146 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-15 14:03:50,146 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-15 14:03:50,385 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-15 14:03:52,444 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-15 14:05:51,662 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-15 14:05:51,662 - AnimePilgrimageUpdater - INFO - Test anime 1: ソードアート・オンライン
+2026-07-15 14:05:51,662 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-07-15 14:05:51,662 - AnimePilgrimageUpdater - INFO - Test anime 3: 竜とそばかすの姫
+2026-07-15 14:05:51,662 - AnimePilgrimageUpdater - INFO - Test anime 4: キルアオ
+2026-07-15 14:05:51,663 - AnimePilgrimageUpdater - INFO - Test anime 5: 呪術廻戦 死滅回遊
+2026-07-15 14:21:53,289 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
