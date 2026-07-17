@@ -1871,3 +1871,14 @@
 2026-07-16 14:17:19,725 - AnimePilgrimageUpdater - INFO - Test anime 4: キルアオ
 2026-07-16 14:17:19,725 - AnimePilgrimageUpdater - INFO - Test anime 5: 幼女戦記
 2026-07-16 14:30:04,386 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-07-17 13:59:00,471 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-17 13:59:00,471 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-17 13:59:00,716 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-17 13:59:02,715 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-17 14:01:03,135 - AnimePilgrimageUpdater - INFO - Successfully retrieved 15 anime in test run
+2026-07-17 14:01:03,136 - AnimePilgrimageUpdater - INFO - Test anime 1: ソードアート・オンライン II
+2026-07-17 14:01:03,136 - AnimePilgrimageUpdater - INFO - Test anime 2: ヤニねこ
+2026-07-17 14:01:03,136 - AnimePilgrimageUpdater - INFO - Test anime 3: GROTESQQQUE -グロテスク-
+2026-07-17 14:01:03,136 - AnimePilgrimageUpdater - INFO - Test anime 4: 呪術廻戦 死滅回遊
+2026-07-17 14:01:03,136 - AnimePilgrimageUpdater - INFO - Test anime 5: キルアオ
+2026-07-17 14:15:12,777 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
