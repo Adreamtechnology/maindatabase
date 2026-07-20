@@ -1904,3 +1904,14 @@
 2026-07-19 13:47:20,068 - AnimePilgrimageUpdater - INFO - Test anime 4: ソードアート・オンライン II
 2026-07-19 13:47:20,068 - AnimePilgrimageUpdater - INFO - Test anime 5: ヤニねこ
 2026-07-19 14:00:21,647 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-07-20 14:31:08,078 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-20 14:31:08,078 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-20 14:31:08,233 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-20 14:31:13,169 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-20 14:33:12,194 - AnimePilgrimageUpdater - INFO - Successfully retrieved 16 anime in test run
+2026-07-20 14:33:12,194 - AnimePilgrimageUpdater - INFO - Test anime 1: 呪術廻戦 2期
+2026-07-20 14:33:12,194 - AnimePilgrimageUpdater - INFO - Test anime 2: 正反対な君と僕 第2期
+2026-07-20 14:33:12,194 - AnimePilgrimageUpdater - INFO - Test anime 3: ざつ旅-That's Journey-
+2026-07-20 14:33:12,194 - AnimePilgrimageUpdater - INFO - Test anime 4: デート・ア・ライブ
+2026-07-20 14:33:12,194 - AnimePilgrimageUpdater - INFO - Test anime 5: ソードアート・オンライン II
+2026-07-20 14:52:48,155 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
