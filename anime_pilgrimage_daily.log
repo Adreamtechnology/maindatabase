@@ -1926,3 +1926,14 @@
 2026-07-21 14:16:17,256 - AnimePilgrimageUpdater - INFO - Test anime 4: 中二病でも恋がしたい！戀
 2026-07-21 14:16:17,256 - AnimePilgrimageUpdater - INFO - Test anime 5: ざつ旅-That's Journey-
 2026-07-21 14:33:55,197 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-07-22 14:20:04,325 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-22 14:20:04,325 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-22 14:20:04,546 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-22 14:20:05,465 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-22 14:22:04,912 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-22 14:22:04,912 - AnimePilgrimageUpdater - INFO - Test anime 1: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-22 14:22:04,912 - AnimePilgrimageUpdater - INFO - Test anime 2: 乙女怪獣キャラメリゼ
+2026-07-22 14:22:04,912 - AnimePilgrimageUpdater - INFO - Test anime 3: さよなら ララ
+2026-07-22 14:22:04,912 - AnimePilgrimageUpdater - INFO - Test anime 4: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+2026-07-22 14:22:04,913 - AnimePilgrimageUpdater - INFO - Test anime 5: 中二病でも恋がしたい！戀
+2026-07-22 14:38:33,356 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
