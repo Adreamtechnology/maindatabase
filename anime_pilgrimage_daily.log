@@ -1948,3 +1948,14 @@
 2026-07-23 14:29:59,065 - AnimePilgrimageUpdater - INFO - Test anime 4: 乙女怪獣キャラメリゼ
 2026-07-23 14:29:59,065 - AnimePilgrimageUpdater - INFO - Test anime 5: さよなら ララ
 2026-07-23 14:48:02,715 - AnimePilgrimageUpdater - INFO - Daily update completed successfully with detailed data
+2026-07-24 14:05:57,760 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-24 14:05:57,760 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-24 14:05:58,010 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-24 14:06:02,355 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-24 14:08:00,946 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-24 14:08:00,946 - AnimePilgrimageUpdater - INFO - Test anime 1: ガールズバンドクライ
+2026-07-24 14:08:00,946 - AnimePilgrimageUpdater - INFO - Test anime 2: ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-07-24 14:08:00,946 - AnimePilgrimageUpdater - INFO - Test anime 3: 東京リベンジャーズ
+2026-07-24 14:08:00,946 - AnimePilgrimageUpdater - INFO - Test anime 4: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-24 14:08:00,946 - AnimePilgrimageUpdater - INFO - Test anime 5: 乙女怪獣キャラメリゼ
+2026-07-24 14:28:45,357 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
