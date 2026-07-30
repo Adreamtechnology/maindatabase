@@ -2014,3 +2014,14 @@
 2026-07-29 14:56:21,486 - AnimePilgrimageUpdater - INFO - Test anime 4: ゾン100 ～ゾンビになるまでにしたい100のこと～
 2026-07-29 14:56:21,486 - AnimePilgrimageUpdater - INFO - Test anime 5: 上伊那ぼたん、酔へる姿は百合の花
 2026-07-29 15:12:57,621 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-07-30 14:27:27,049 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-07-30 14:27:27,049 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-07-30 14:27:27,281 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-07-30 14:27:29,599 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-07-30 14:29:28,334 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-07-30 14:29:28,334 - AnimePilgrimageUpdater - INFO - Test anime 1: 乙女怪獣キャラメリゼ
+2026-07-30 14:29:28,334 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-07-30 14:29:28,334 - AnimePilgrimageUpdater - INFO - Test anime 3: 正反対な君と僕 第2期
+2026-07-30 14:29:28,334 - AnimePilgrimageUpdater - INFO - Test anime 4: ゾン100 ～ゾンビになるまでにしたい100のこと～
+2026-07-30 14:29:28,334 - AnimePilgrimageUpdater - INFO - Test anime 5: 上伊那ぼたん、酔へる姿は百合の花
+2026-07-30 14:32:28,449 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
