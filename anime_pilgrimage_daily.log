@@ -2043,3 +2043,14 @@
 2026-08-01 13:50:44,648 - AnimePilgrimageUpdater - INFO - Test anime 4: 正反対な君と僕 第2期
 2026-08-01 13:50:44,648 - AnimePilgrimageUpdater - INFO - Test anime 5: ゾン100 ～ゾンビになるまでにしたい100のこと～
 2026-08-01 13:53:44,760 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-02 13:48:03,226 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-02 13:48:03,226 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-02 13:48:03,455 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-02 13:48:05,422 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 1: ヤニねこ
+2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 2: けいおん!
+2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 3: 乙女怪獣キャラメリゼ
+2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 4: さよなら ララ
+2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 5: 正反対な君と僕 第2期
+2026-08-02 13:53:04,321 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
