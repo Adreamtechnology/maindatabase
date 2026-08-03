@@ -2054,3 +2054,14 @@
 2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 4: さよなら ララ
 2026-08-02 13:50:04,488 - AnimePilgrimageUpdater - INFO - Test anime 5: 正反対な君と僕 第2期
 2026-08-02 13:53:04,321 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-03 16:12:25,968 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-03 16:12:25,968 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-03 16:12:26,197 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-03 16:12:27,113 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-03 16:14:26,400 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-08-03 16:14:26,400 - AnimePilgrimageUpdater - INFO - Test anime 1: 未来日記
+2026-08-03 16:14:26,400 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-08-03 16:14:26,400 - AnimePilgrimageUpdater - INFO - Test anime 3: 正反対な君と僕 第2期
+2026-08-03 16:14:26,401 - AnimePilgrimageUpdater - INFO - Test anime 4: ヤニねこ
+2026-08-03 16:14:26,401 - AnimePilgrimageUpdater - INFO - Test anime 5: けいおん!
+2026-08-03 16:17:26,969 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
