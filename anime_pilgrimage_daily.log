@@ -2098,3 +2098,14 @@
 2026-08-06 15:41:21,504 - AnimePilgrimageUpdater - INFO - Test anime 4: さよなら ララ
 2026-08-06 15:41:21,504 - AnimePilgrimageUpdater - INFO - Test anime 5: 正反対な君と僕 第2期
 2026-08-06 15:44:21,019 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-07 13:24:07,784 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-07 13:24:07,784 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-07 13:24:08,019 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-07 13:24:08,858 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-07 13:26:07,049 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-08-07 13:26:07,049 - AnimePilgrimageUpdater - INFO - Test anime 1: 乙女怪獣キャラメリゼ
+2026-08-07 13:26:07,049 - AnimePilgrimageUpdater - INFO - Test anime 2: クラスの大嫌いな女子と結婚することになった。
+2026-08-07 13:26:07,049 - AnimePilgrimageUpdater - INFO - Test anime 3: 未来日記
+2026-08-07 13:26:07,049 - AnimePilgrimageUpdater - INFO - Test anime 4: さよなら ララ
+2026-08-07 13:26:07,049 - AnimePilgrimageUpdater - INFO - Test anime 5: 正反対な君と僕 第2期
+2026-08-07 13:29:07,357 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
