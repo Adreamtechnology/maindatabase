@@ -2175,3 +2175,14 @@
 2026-08-14 13:28:48,774 - AnimePilgrimageUpdater - INFO - Test anime 4: デジモンテイマーズ
 2026-08-14 13:28:48,774 - AnimePilgrimageUpdater - INFO - Test anime 5: 乙女怪獣キャラメリゼ
 2026-08-14 13:31:48,475 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-15 12:55:24,361 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-15 12:55:24,361 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-15 12:55:24,599 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-15 12:55:27,940 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-15 12:57:26,334 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 1: 小林さんちのメイドラゴン S
+2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 2: 小林さんちのメイドラゴン
+2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 3: クラスの大嫌いな女子と結婚することになった。
+2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 4: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 5: ざつ旅-That's Journey-
+2026-08-15 13:00:26,340 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
