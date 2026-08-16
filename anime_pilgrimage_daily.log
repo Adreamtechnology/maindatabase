@@ -2186,3 +2186,14 @@
 2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 4: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
 2026-08-15 12:57:26,335 - AnimePilgrimageUpdater - INFO - Test anime 5: ざつ旅-That's Journey-
 2026-08-15 13:00:26,340 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-16 12:56:56,556 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-16 12:56:56,556 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-16 12:56:56,792 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-16 12:56:59,118 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 1: 小林さんちのメイドラゴン S
+2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 2: 君の名は。
+2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 3: アマガミSS
+2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 4: Angel Beats!
+2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 5: 小林さんちのメイドラゴン
+2026-08-16 13:01:57,575 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
