@@ -2197,3 +2197,14 @@
 2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 4: Angel Beats!
 2026-08-16 12:58:57,817 - AnimePilgrimageUpdater - INFO - Test anime 5: 小林さんちのメイドラゴン
 2026-08-16 13:01:57,575 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-17 13:01:36,563 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-17 13:01:36,563 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-17 13:01:36,783 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-17 13:01:39,417 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-17 13:03:38,088 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-08-17 13:03:38,088 - AnimePilgrimageUpdater - INFO - Test anime 1: けいおん!
+2026-08-17 13:03:38,089 - AnimePilgrimageUpdater - INFO - Test anime 2: アマガミSS
+2026-08-17 13:03:38,089 - AnimePilgrimageUpdater - INFO - Test anime 3: Angel Beats!
+2026-08-17 13:03:38,089 - AnimePilgrimageUpdater - INFO - Test anime 4: 小林さんちのメイドラゴン S
+2026-08-17 13:03:38,089 - AnimePilgrimageUpdater - INFO - Test anime 5: 君の名は。
+2026-08-17 13:06:38,168 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
