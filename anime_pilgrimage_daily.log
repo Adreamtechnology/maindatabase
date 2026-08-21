@@ -2230,3 +2230,14 @@
 2026-08-20 13:44:18,512 - AnimePilgrimageUpdater - INFO - Test anime 4: 小林さんちのメイドラゴン
 2026-08-20 13:44:18,512 - AnimePilgrimageUpdater - INFO - Test anime 5: 氷の城壁
 2026-08-20 13:47:18,456 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-21 13:05:19,328 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-21 13:05:19,328 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-21 13:05:19,549 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-21 13:05:22,722 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-21 13:07:21,229 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-08-21 13:07:21,229 - AnimePilgrimageUpdater - INFO - Test anime 1: けいおん!
+2026-08-21 13:07:21,229 - AnimePilgrimageUpdater - INFO - Test anime 2: やはり俺の青春ラブコメはまちがっている。続
+2026-08-21 13:07:21,229 - AnimePilgrimageUpdater - INFO - Test anime 3: GROTESQQQUE -グロテスク-
+2026-08-21 13:07:21,229 - AnimePilgrimageUpdater - INFO - Test anime 4: 小林さんちのメイドラゴン
+2026-08-21 13:07:21,229 - AnimePilgrimageUpdater - INFO - Test anime 5: 氷の城壁
+2026-08-21 13:10:20,959 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
