@@ -2296,3 +2296,14 @@
 2026-08-27 22:17:03,054 - AnimePilgrimageUpdater - INFO - Test anime 4: やはり俺の青春ラブコメはまちがっている。続
 2026-08-27 22:17:03,054 - AnimePilgrimageUpdater - INFO - Test anime 5: GROTESQQQUE -グロテスク-
 2026-08-27 22:20:02,503 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-28 22:14:29,704 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-28 22:14:29,704 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-28 22:14:29,877 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-28 22:14:31,618 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-28 22:16:28,669 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-08-28 22:16:28,669 - AnimePilgrimageUpdater - INFO - Test anime 1: 言の葉の庭
+2026-08-28 22:16:28,669 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-08-28 22:16:28,669 - AnimePilgrimageUpdater - INFO - Test anime 3: 正反対な君と僕 第2期
+2026-08-28 22:16:28,669 - AnimePilgrimageUpdater - INFO - Test anime 4: けいおん!
+2026-08-28 22:16:28,669 - AnimePilgrimageUpdater - INFO - Test anime 5: やはり俺の青春ラブコメはまちがっている。続
+2026-08-28 22:19:28,033 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
