@@ -2318,3 +2318,14 @@
 2026-08-29 16:45:41,257 - AnimePilgrimageUpdater - INFO - Test anime 4: けいおん!
 2026-08-29 16:45:41,257 - AnimePilgrimageUpdater - INFO - Test anime 5: やはり俺の青春ラブコメはまちがっている。続
 2026-08-29 16:48:40,322 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-08-30 16:37:28,236 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-08-30 16:37:28,236 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-08-30 16:37:28,472 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-08-30 16:37:29,789 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-08-30 16:39:27,433 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-08-30 16:39:27,433 - AnimePilgrimageUpdater - INFO - Test anime 1: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
+2026-08-30 16:39:27,434 - AnimePilgrimageUpdater - INFO - Test anime 2: 言の葉の庭
+2026-08-30 16:39:27,434 - AnimePilgrimageUpdater - INFO - Test anime 3: さよなら ララ
+2026-08-30 16:39:27,434 - AnimePilgrimageUpdater - INFO - Test anime 4: 正反対な君と僕 第2期
+2026-08-30 16:39:27,434 - AnimePilgrimageUpdater - INFO - Test anime 5: けいおん!
+2026-08-30 16:42:27,602 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
