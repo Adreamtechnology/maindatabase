@@ -2439,3 +2439,14 @@
 2026-09-09 16:32:59,235 - AnimePilgrimageUpdater - INFO - Test anime 4: 東京喰種
 2026-09-09 16:32:59,235 - AnimePilgrimageUpdater - INFO - Test anime 5: 青春ブタ野郎はランドセルガールの夢を見ない
 2026-09-09 16:35:59,115 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-09-10 16:20:29,162 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-09-10 16:20:29,162 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-09-10 16:20:29,269 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-09-10 16:20:35,973 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-09-10 16:22:34,082 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-09-10 16:22:34,082 - AnimePilgrimageUpdater - INFO - Test anime 1: 透明な夜に駆ける君と、目に見えない恋をした。
+2026-09-10 16:22:34,082 - AnimePilgrimageUpdater - INFO - Test anime 2: さよなら ララ
+2026-09-10 16:22:34,082 - AnimePilgrimageUpdater - INFO - Test anime 3: N・H・Kにようこそ！
+2026-09-10 16:22:34,082 - AnimePilgrimageUpdater - INFO - Test anime 4: シン・エヴァンゲリオン劇場版:||
+2026-09-10 16:22:34,082 - AnimePilgrimageUpdater - INFO - Test anime 5: 新世紀エヴァンゲリオン劇場版 Air/まごころを、君に
+2026-09-10 16:25:33,878 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
