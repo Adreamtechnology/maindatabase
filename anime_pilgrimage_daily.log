@@ -2505,3 +2505,14 @@
 2026-09-15 16:53:51,693 - AnimePilgrimageUpdater - INFO - Test anime 4: 透明な夜に駆ける君と、目に見えない恋をした。
 2026-09-15 16:53:51,693 - AnimePilgrimageUpdater - INFO - Test anime 5: さよなら ララ
 2026-09-15 16:56:51,968 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-09-16 17:19:44,177 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-09-16 17:19:44,177 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-09-16 17:19:44,414 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-09-16 17:19:45,415 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-09-16 17:21:43,879 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-09-16 17:21:43,879 - AnimePilgrimageUpdater - INFO - Test anime 1: これ描いて死ね
+2026-09-16 17:21:43,879 - AnimePilgrimageUpdater - INFO - Test anime 2: DEATH NOTE
+2026-09-16 17:21:43,880 - AnimePilgrimageUpdater - INFO - Test anime 3: 君の名は。
+2026-09-16 17:21:43,880 - AnimePilgrimageUpdater - INFO - Test anime 4: 透明な夜に駆ける君と、目に見えない恋をした。
+2026-09-16 17:21:43,880 - AnimePilgrimageUpdater - INFO - Test anime 5: さよなら ララ
+2026-09-16 17:24:43,469 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
