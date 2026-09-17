@@ -2516,3 +2516,10 @@
 2026-09-16 17:21:43,880 - AnimePilgrimageUpdater - INFO - Test anime 4: 透明な夜に駆ける君と、目に見えない恋をした。
 2026-09-16 17:21:43,880 - AnimePilgrimageUpdater - INFO - Test anime 5: さよなら ララ
 2026-09-16 17:24:43,469 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-09-17 17:04:37,410 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-09-17 17:04:37,410 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-09-17 17:04:37,650 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-09-17 17:04:38,983 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-09-17 17:07:37,534 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
+2026-09-17 17:07:37,534 - AnimePilgrimageUpdater - INFO - Test anime 1: 
+2026-09-17 17:10:37,602 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
