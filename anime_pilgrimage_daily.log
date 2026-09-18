@@ -2523,3 +2523,14 @@
 2026-09-17 17:07:37,534 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
 2026-09-17 17:07:37,534 - AnimePilgrimageUpdater - INFO - Test anime 1: 
 2026-09-17 17:10:37,602 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-09-18 16:25:50,688 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-09-18 16:25:50,688 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-09-18 16:25:50,909 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-09-18 16:25:53,116 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-09-18 16:27:51,094 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-09-18 16:27:51,094 - AnimePilgrimageUpdater - INFO - Test anime 1: さよなら ララ
+2026-09-18 16:27:51,094 - AnimePilgrimageUpdater - INFO - Test anime 2: N・H・Kにようこそ！
+2026-09-18 16:27:51,095 - AnimePilgrimageUpdater - INFO - Test anime 3: これ描いて死ね
+2026-09-18 16:27:51,095 - AnimePilgrimageUpdater - INFO - Test anime 4: シン・エヴァンゲリオン劇場版:||
+2026-09-18 16:27:51,095 - AnimePilgrimageUpdater - INFO - Test anime 5: DEATH NOTE
+2026-09-18 16:30:51,387 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
