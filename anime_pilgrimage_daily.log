@@ -2644,3 +2644,14 @@
 2026-09-28 19:56:39,125 - AnimePilgrimageUpdater - INFO - Test anime 4: 青春ブタ野郎はディアフレンドの夢を見ない
 2026-09-28 19:56:39,125 - AnimePilgrimageUpdater - INFO - Test anime 5: 負けヒロインが多すぎる！
 2026-09-28 19:59:38,899 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-09-29 18:31:15,966 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-09-29 18:31:15,966 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-09-29 18:31:16,141 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-09-29 18:31:18,016 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-09-29 18:33:16,012 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-09-29 18:33:16,012 - AnimePilgrimageUpdater - INFO - Test anime 1: 【推しの子】第3期
+2026-09-29 18:33:16,012 - AnimePilgrimageUpdater - INFO - Test anime 2: 透明な夜に駆ける君と、目に見えない恋をした。
+2026-09-29 18:33:16,012 - AnimePilgrimageUpdater - INFO - Test anime 3: さよなら ララ
+2026-09-29 18:33:16,012 - AnimePilgrimageUpdater - INFO - Test anime 4: デジモンテイマーズ
+2026-09-29 18:33:16,012 - AnimePilgrimageUpdater - INFO - Test anime 5: 青春ブタ野郎はディアフレンドの夢を見ない
+2026-09-29 18:36:15,809 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
