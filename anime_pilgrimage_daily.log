@@ -2666,3 +2666,14 @@
 2026-09-30 18:21:40,717 - AnimePilgrimageUpdater - INFO - Test anime 4: デジモンテイマーズ
 2026-09-30 18:21:40,717 - AnimePilgrimageUpdater - INFO - Test anime 5: 青春ブタ野郎はディアフレンドの夢を見ない
 2026-09-30 18:24:40,019 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-01 18:24:59,711 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-01 18:24:59,711 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-01 18:24:59,943 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-01 18:25:03,184 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-01 18:27:01,420 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-10-01 18:27:01,420 - AnimePilgrimageUpdater - INFO - Test anime 1: アオのハコ Season２
+2026-10-01 18:27:01,420 - AnimePilgrimageUpdater - INFO - Test anime 2: すずめの戸締まり
+2026-10-01 18:27:01,420 - AnimePilgrimageUpdater - INFO - Test anime 3: 【推しの子】第3期
+2026-10-01 18:27:01,420 - AnimePilgrimageUpdater - INFO - Test anime 4: 透明な夜に駆ける君と、目に見えない恋をした。
+2026-10-01 18:27:01,420 - AnimePilgrimageUpdater - INFO - Test anime 5: さよなら ララ
+2026-10-01 18:30:01,922 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
