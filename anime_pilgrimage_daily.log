@@ -2710,3 +2710,14 @@
 2026-10-04 16:52:43,549 - AnimePilgrimageUpdater - INFO - Test anime 4: すずめの戸締まり
 2026-10-04 16:52:43,549 - AnimePilgrimageUpdater - INFO - Test anime 5: 【推しの子】第3期
 2026-10-04 16:55:43,724 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-06 18:19:48,489 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-06 18:19:48,490 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-06 18:19:48,653 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-06 18:19:50,484 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-06 18:21:48,143 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-10-06 18:21:48,143 - AnimePilgrimageUpdater - INFO - Test anime 1: ウマ娘 シンデレラグレイ 第2クール
+2026-10-06 18:21:48,143 - AnimePilgrimageUpdater - INFO - Test anime 2: てつりょー！meet with 鉄道むすめ
+2026-10-06 18:21:48,144 - AnimePilgrimageUpdater - INFO - Test anime 3: アオのハコ Season２
+2026-10-06 18:21:48,144 - AnimePilgrimageUpdater - INFO - Test anime 4: すずめの戸締まり
+2026-10-06 18:21:48,144 - AnimePilgrimageUpdater - INFO - Test anime 5: 【推しの子】第3期
+2026-10-06 18:24:47,882 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
