@@ -2732,3 +2732,14 @@
 2026-10-08 18:53:43,325 - AnimePilgrimageUpdater - INFO - Test anime 4: すずめの戸締まり
 2026-10-08 18:53:43,325 - AnimePilgrimageUpdater - INFO - Test anime 5: 【推しの子】第3期
 2026-10-08 18:56:43,078 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-09 18:19:59,059 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-09 18:19:59,060 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-09 18:19:59,237 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-09 18:20:00,489 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-09 18:21:57,698 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-10-09 18:21:57,698 - AnimePilgrimageUpdater - INFO - Test anime 1: 日常
+2026-10-09 18:21:57,698 - AnimePilgrimageUpdater - INFO - Test anime 2: 正反対な君と僕 第2期
+2026-10-09 18:21:57,698 - AnimePilgrimageUpdater - INFO - Test anime 3: ヤニねこ
+2026-10-09 18:21:57,698 - AnimePilgrimageUpdater - INFO - Test anime 4: エルフェンリート
+2026-10-09 18:21:57,698 - AnimePilgrimageUpdater - INFO - Test anime 5: アオのハコ Season２
+2026-10-09 18:24:57,185 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
