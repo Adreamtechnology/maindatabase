@@ -2790,3 +2790,14 @@
 2026-10-14 17:06:14,624 - AnimePilgrimageUpdater - INFO - Test anime 4: アオのハコ Season２
 2026-10-14 17:06:14,624 - AnimePilgrimageUpdater - INFO - Test anime 5: サマーゴースト
 2026-10-14 17:09:13,948 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-15 16:53:00,466 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-15 16:53:00,466 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-15 16:53:00,702 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-15 16:53:03,535 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-15 16:55:02,359 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-10-15 16:55:02,360 - AnimePilgrimageUpdater - INFO - Test anime 1: CLANNAD -クラナド-
+2026-10-15 16:55:02,360 - AnimePilgrimageUpdater - INFO - Test anime 2: 透明な夜に駆ける君と、目に見えない恋をした。
+2026-10-15 16:55:02,360 - AnimePilgrimageUpdater - INFO - Test anime 3: 超かぐや姫！
+2026-10-15 16:55:02,360 - AnimePilgrimageUpdater - INFO - Test anime 4: アオのハコ Season２
+2026-10-15 16:55:02,360 - AnimePilgrimageUpdater - INFO - Test anime 5: サマーゴースト
+2026-10-15 16:58:02,298 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
