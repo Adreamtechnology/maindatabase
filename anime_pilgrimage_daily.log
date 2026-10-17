@@ -2812,3 +2812,10 @@
 2026-10-16 16:38:11,933 - AnimePilgrimageUpdater - INFO - Test anime 4: 超かぐや姫！
 2026-10-16 16:38:11,933 - AnimePilgrimageUpdater - INFO - Test anime 5: アオのハコ Season２
 2026-10-16 16:41:12,332 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-17 15:27:31,506 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-17 15:27:31,507 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-17 15:27:31,740 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-17 15:27:33,062 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-17 15:30:31,884 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
+2026-10-17 15:30:31,885 - AnimePilgrimageUpdater - INFO - Test anime 1: 
+2026-10-17 15:33:31,811 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
