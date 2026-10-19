@@ -2826,3 +2826,14 @@
 2026-10-18 15:51:46,136 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
 2026-10-18 15:51:46,137 - AnimePilgrimageUpdater - INFO - Test anime 1: 
 2026-10-18 15:54:45,921 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-19 18:49:54,824 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-19 18:49:54,825 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-19 18:49:54,963 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-19 18:50:04,607 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Successfully retrieved 18 anime in test run
+2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 1: 青春ブタ野郎はバニーガール先輩の夢を見ない
+2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 2: ソードアート・オンライン II
+2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 3: CLANNAD -クラナド-
+2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 4: 透明な夜に駆ける君と、目に見えない恋をした。
+2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 5: 超かぐや姫！
+2026-10-19 18:55:06,292 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
