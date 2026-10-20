@@ -2837,3 +2837,10 @@
 2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 4: 透明な夜に駆ける君と、目に見えない恋をした。
 2026-10-19 18:52:04,675 - AnimePilgrimageUpdater - INFO - Test anime 5: 超かぐや姫！
 2026-10-19 18:55:06,292 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-20 16:50:46,052 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-20 16:50:46,052 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-20 16:50:46,210 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-20 16:50:48,768 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-20 16:53:47,920 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
+2026-10-20 16:53:47,920 - AnimePilgrimageUpdater - INFO - Test anime 1: 
+2026-10-20 16:56:47,822 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
