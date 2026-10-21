@@ -2844,3 +2844,14 @@
 2026-10-20 16:53:47,920 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
 2026-10-20 16:53:47,920 - AnimePilgrimageUpdater - INFO - Test anime 1: 
 2026-10-20 16:56:47,822 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-21 17:06:31,347 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-21 17:06:31,347 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-21 17:06:31,590 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-21 17:06:32,791 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-21 17:08:32,240 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-10-21 17:08:32,240 - AnimePilgrimageUpdater - INFO - Test anime 1: スーパーカブ
+2026-10-21 17:08:32,240 - AnimePilgrimageUpdater - INFO - Test anime 2: アオのハコ Season２
+2026-10-21 17:08:32,240 - AnimePilgrimageUpdater - INFO - Test anime 3: 青春ブタ野郎はバニーガール先輩の夢を見ない
+2026-10-21 17:08:32,240 - AnimePilgrimageUpdater - INFO - Test anime 4: ソードアート・オンライン II
+2026-10-21 17:08:32,240 - AnimePilgrimageUpdater - INFO - Test anime 5: CLANNAD -クラナド-
+2026-10-21 17:11:33,269 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
