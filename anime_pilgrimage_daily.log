@@ -2873,3 +2873,14 @@
 2026-10-23 17:00:44,317 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
 2026-10-23 17:00:44,317 - AnimePilgrimageUpdater - INFO - Test anime 1: 
 2026-10-23 17:03:44,840 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-24 15:51:48,475 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-24 15:51:48,475 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-24 15:51:48,710 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-24 15:51:52,104 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 1: Charlotte(シャーロット)
+2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 2: スーパーカブ
+2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 3: アオのハコ Season２
+2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 4: 青春ブタ野郎はバニーガール先輩の夢を見ない
+2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 5: ソードアート・オンライン II
+2026-10-24 15:56:50,380 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
