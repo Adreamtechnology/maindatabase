@@ -2884,3 +2884,14 @@
 2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 4: 青春ブタ野郎はバニーガール先輩の夢を見ない
 2026-10-24 15:53:50,617 - AnimePilgrimageUpdater - INFO - Test anime 5: ソードアート・オンライン II
 2026-10-24 15:56:50,380 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-25 16:01:37,912 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-25 16:01:37,912 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-25 16:01:38,148 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-25 16:01:42,069 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-25 16:03:40,860 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-10-25 16:03:40,860 - AnimePilgrimageUpdater - INFO - Test anime 1: 恋する小惑星〈アステロイド〉
+2026-10-25 16:03:40,861 - AnimePilgrimageUpdater - INFO - Test anime 2: 終わりのセラフ
+2026-10-25 16:03:40,861 - AnimePilgrimageUpdater - INFO - Test anime 3: Charlotte(シャーロット)
+2026-10-25 16:03:40,861 - AnimePilgrimageUpdater - INFO - Test anime 4: スーパーカブ
+2026-10-25 16:03:40,861 - AnimePilgrimageUpdater - INFO - Test anime 5: アオのハコ Season２
+2026-10-25 16:06:41,280 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
