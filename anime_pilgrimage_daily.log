@@ -2906,3 +2906,10 @@
 2026-10-26 18:42:03,187 - AnimePilgrimageUpdater - INFO - Test anime 4: 映画大好きポンポさん
 2026-10-26 18:42:03,187 - AnimePilgrimageUpdater - INFO - Test anime 5: アオのハコ Season２
 2026-10-26 18:45:02,360 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-27 17:56:17,946 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-27 17:56:17,947 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-27 17:56:18,184 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-27 17:56:20,861 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-27 17:59:19,058 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
+2026-10-27 17:59:19,058 - AnimePilgrimageUpdater - INFO - Test anime 1: 
+2026-10-27 18:02:20,114 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
