@@ -2913,3 +2913,14 @@
 2026-10-27 17:59:19,058 - AnimePilgrimageUpdater - INFO - Successfully retrieved 1 anime in test run
 2026-10-27 17:59:19,058 - AnimePilgrimageUpdater - INFO - Test anime 1: 
 2026-10-27 18:02:20,114 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-28 18:28:19,896 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-28 18:28:19,896 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-28 18:28:20,132 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-28 18:28:22,347 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 1: 生徒会にも穴はある！
+2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 2: 最終兵器彼女
+2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 3: 恋する小惑星〈アステロイド〉
+2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 4: スーパーカブ
+2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 5: 映画大好きポンポさん
+2026-10-28 18:33:22,000 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
