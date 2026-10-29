@@ -2924,3 +2924,14 @@
 2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 4: スーパーカブ
 2026-10-28 18:30:20,539 - AnimePilgrimageUpdater - INFO - Test anime 5: 映画大好きポンポさん
 2026-10-28 18:33:22,000 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-29 18:26:23,997 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-29 18:26:23,997 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-29 18:26:24,205 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-29 18:26:26,340 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-29 18:28:25,515 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-10-29 18:28:25,515 - AnimePilgrimageUpdater - INFO - Test anime 1: 最終兵器彼女
+2026-10-29 18:28:25,515 - AnimePilgrimageUpdater - INFO - Test anime 2: 恋する小惑星〈アステロイド〉
+2026-10-29 18:28:25,515 - AnimePilgrimageUpdater - INFO - Test anime 3: スーパーカブ
+2026-10-29 18:28:25,516 - AnimePilgrimageUpdater - INFO - Test anime 4: 映画大好きポンポさん
+2026-10-29 18:28:25,516 - AnimePilgrimageUpdater - INFO - Test anime 5: アオのハコ Season２
+2026-10-29 18:31:26,518 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
