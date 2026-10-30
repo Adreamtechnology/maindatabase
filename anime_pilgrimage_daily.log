@@ -2935,3 +2935,14 @@
 2026-10-29 18:28:25,516 - AnimePilgrimageUpdater - INFO - Test anime 4: 映画大好きポンポさん
 2026-10-29 18:28:25,516 - AnimePilgrimageUpdater - INFO - Test anime 5: アオのハコ Season２
 2026-10-29 18:31:26,518 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
+2026-10-30 18:00:27,442 - AnimePilgrimageUpdater - INFO - Starting daily anime pilgrimage updater
+2026-10-30 18:00:27,443 - AnimePilgrimageUpdater - INFO - Running extract_apiid.py to refresh apiid.json
+2026-10-30 18:00:27,670 - AnimePilgrimageUpdater - INFO - Successfully refreshed apiid.json
+2026-10-30 18:00:30,179 - AnimePilgrimageUpdater - INFO - Testing anime list retrieval before running full scraper
+2026-10-30 18:02:28,279 - AnimePilgrimageUpdater - INFO - Successfully retrieved 17 anime in test run
+2026-10-30 18:02:28,279 - AnimePilgrimageUpdater - INFO - Test anime 1: 中二病でも恋がしたい!
+2026-10-30 18:02:28,279 - AnimePilgrimageUpdater - INFO - Test anime 2: 君の名は。
+2026-10-30 18:02:28,279 - AnimePilgrimageUpdater - INFO - Test anime 3: 中二病でも恋がしたい！戀
+2026-10-30 18:02:28,279 - AnimePilgrimageUpdater - INFO - Test anime 4: 映画 中二病でも恋がしたい！ -Take On Me-
+2026-10-30 18:02:28,279 - AnimePilgrimageUpdater - INFO - Test anime 5: とある暗部の少女共棲
+2026-10-30 18:05:29,155 - AnimePilgrimageUpdater - INFO - Daily update completed successfully but no new data found
